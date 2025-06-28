@@ -71,6 +71,7 @@
 - Engagement with masjid programs and community
 
 ---
+---
 
 # ⏰ Daily Routine Timeline
 
@@ -79,13 +80,14 @@
 - 🧎 Sunnah
 - 📖 Surah Al-Waaqiah
 
-### 🌙 07:15 PM – 08:15 PM: **Alhamdulillah Time [1h]**
+### 🌙 07:15 PM – 08:15 PM: **Alhamdulillah Time, Weekly Review [1h]**
 - 🍽️ Dinner
 - 📖 Dars
-- 💆 Rejuvenation
-- 🤲 Zikr
-- 📝 Plan & Journal (Past / Present / Future)
 - 📂 Clear Backlogs
+- 💆 Rejuvenations
+- 🤲 Zikr
+- 📝 Plan & Journal (Prev / Cur / Future)
+- 📈 Conduct a Weekly Improvement Review Cycle
 
 ### 🕯️ 08:15 PM – 09:15 PM: **Isha [1h]**
 - 🚶 Walk / Cycle
@@ -97,13 +99,14 @@
 - 💥 Kickboxing HIIT
 - 🤲 Zikr
 
-### 😴 09:45 PM – 03:30 AM: **Sleep [5.5h]**
+### 😴 09:45 PM – 03:45 AM: **Sleep [6h]**
 
-### 🌌 03:30 AM – 05:00 AM: **Tahajjud + Qur'an [1.5h]**
+### 🌌 03:45 AM – 05:00 AM: **Tahajjud + Qur'an [1.25h]**
 - 🧼 Freshen Up
 - 🧎 Tahajjud
 - 🍽️ Sehri
 - 📖 Qur’an Juz 15, 16, 1, 29, 30, 1, Musabbihaat
+- 🎥 Content Recording
 
 ### 🌅 05:00 AM – 06:30 AM: **Fajr + Ishraaq [1.5h]**
 - 📥 Download materials for Walk Charge
@@ -124,33 +127,72 @@
 ### 🧊 07:10 AM – 07:30 AM: **Cooldown [20m]**
 - 🥛 Milk + Veggies + Fruits
 - ⚖️ Weigh & Track
-- 🧘 Cooldown
+- 🧘‍♂️ Cooldown
 
-### 💻 07:30 AM – 12:00 PM: **Work Block [4.5h]**
-#### ⬇️ Focus Areas:
-- 📚 Entrepreneurship Lessons
-- 🏢 ZupFam + Side Hustles
-- 📲 Content & Branding
-- 💻 SWEK Study
-- 🎯 Job & Interview Prep
-- 🕌 InMasjid Projects
+### 💻 07:30 AM – 09:30 AM: **InMasjid Block [2h]**
+- 🕌 Build tangible results for InMasjid Project
+- 📈 Update the progress
+
+### 💻 09:30 AM – 10:30 AM: **DSA Block [1h]**
+- 🧠 DSA Study
+- 📲 Content
+- 🧩 Branding
+- 📈 Update the progress
+
+### 💻 10:30 AM – 12:00 PM: **ZupFam Block [1.5h]**
+- 🚀 Build tangible results for:
+  - ZupFam
+  - Side Hustles
+- 📈 Update the progress
+- 🧠 Strategize for daily content
 
 ### ☀️ 12:00 PM – 02:00 PM: **Zuhr [2h]**
-- 🍛 Lunch
-- 💧 Freshen Up
 - 😴 Power Nap
+- 🍛 Lunch
 - 🔁 Backlogs
-- 🚴 Walk / Cycle
+- 💧 Freshen Up
+- 🚶‍♂️ Walk / Cycle
 - 📖 Surah Al-Fath
 
-### 💻 02:00 PM – 05:00 PM: **Work Block [3h]**
-#### ⬇️ Focus Areas:
+### 💻 02:00 PM – 03:30 PM: **LLD, HLD, AWS Block [1.5h]**
+- 📚 Low-Level Designs [40m]
+  - 🎓 Udemy
+  - 📺 YouTube
+  - 📘 Grokking the OOPs
+- 📚 High-Level Designs [30m]
+  - 🧠 Interview Ready (GKCS)
+  - 📗 Grokking the HLD
+  - 📕 System HLD Book v1 & v2
+- ☁️ AWS Practice [20m]
+  - 🎓 Udemy
+  - 📝 Make notes
+- 📈 Update the daily tracker
+- 🧠 Strategize for content
+
+### 💻 03:30 PM – 04:00 PM: **DSA Block [30m]**
+- 🧠 Daily DSA Quota
+- 📈 Update the daily tracker
+- 🧠 Strategize for content
+
+### 💻 04:00 PM – 04:30 PM: **Entrepreneurship Lessons, Content Preparations [30m]**
 - 📚 Entrepreneurship Lessons
-- 🏢 ZupFam + Side Hustles
-- 📲 Content & Branding
-- 💻 SWEK Study
-- 🎯 Job & Interview Prep
-- 🕌 InMasjid Projects
+  - 📖 Books
+  - 📺 Videos
+  - 📝 Notes
+  - 🗣️ Speech Practice
+  - 📱 Post Shorts
+- 📲 Social Content Plans
+- ✂️ Content Editing
+
+### 💻 04:30 PM – 05:00 PM: **Startup, Content Preparations [30m]**
+- 🛠️ Work for:
+  - 🕌 InMasjid
+  - 🎉 Personal Branding
+  - 👨‍👩‍👧‍👦 ZupFam
+  - 🚀 Side Hustles
+- 📈 Update Daily Tracker
+- 📲 Social Content Plans
+- ✂️ Content Editing
 
 ### 🕔 05:00 PM – 05:30 PM: **Asr [30m]**
 - 🚶 Walk / 🚲 Cycle
@@ -165,3 +207,5 @@
 ---
 
 > 📌 **Tip**: Stay consistent, track progress, and realign your intentions daily — _“Indeed, actions are by intentions.”_ (Bukhari)
+
+---
