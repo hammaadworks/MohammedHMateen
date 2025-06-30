@@ -1,76 +1,9 @@
 # 🌟 My Purpose-Driven Daily Schedule
 
-## 🕋 1. Ibaadah (Worship)
-### Salaah
-- ✅ 12 Rakaahs
-- 🌙 2 Rakaahs Tahajjud
-- 🌌 3 Rakaahs Witr
-
-### Qur'an
-- 📖 Salaah Surahs
-- 📘 Juz 15, 16, 1, 29, 30, 1, Musabbihaat
-- 🧠 Surah Al-Hajj Hifz (Memorization)
-
-### Zikr
-- 🕊️ Constant Zikr
-- 🤲 100 x2 Fridays — Darood Ibrahim
-- 💭 30 mins — Dream Intensive
-
 ---
 
-## 🚀 2. Entrepreneurship Lessons
-- 📚 1hr Book Reading
-- ✍️ Make Notes & Summaries
-- 🎥 Record Videos of Summaries
-- 📱 Post Shorts every **5th day**
-- 🎓 1hr Learning from Entrepreneurship Videos
-- 🗣️ 1hr Speaking Practice
+## Weekly Tracker: https://ssguk6wubeax.sg.larksuite.com/wiki/Fnw2wZi1ViI2YBkhANQlb9Qngbh?sheet=zlHzOa
 
----
-
-## 💼 3. ZupFam + Side Hustles
-- 🏢 ZupFam Operations
-- 📘 Build Online Courses
-- 🛠️ Projects
-  - 💍 Wedding Sites
-
----
-
-## 🤝 4. Strong Social Network
-- 📸 Content Creation
-- 🧑‍🤝‍🧑 Meetups
-- 🌐 Personal Branding
-
----
-
-## 🧠 5. SWEK (Software Engineering Knowledge)
-- 📊 DSA
-- 🏗️ LLD (Low-Level Design)
-- 🏢 HLD (High-Level Design)
-- ☁️ AWS
-- 🤖 AI
-
----
-
-## 🎯 6. Job & Interview Preparations
-> *(Details to be filled in)*
-
----
-
-## 🏋️ 7. Fitness
-- 🚶 Walk
-- 🥊 Kickboxing
-- 🏋️ Calisthenics
-- 🥗 Healthy Diet
-- ⚖️ Daily Weigh-In
-
----
-
-## 🕌 8. InMasjid App
-- Building heart connections InMasjid
-- Engagement with masjid programs and community
-
----
 ---
 
 # ⏰ Daily Routine Timeline
@@ -114,7 +47,7 @@
 - 🚴 Cycle Ride
 - 📖 Surah Yaseen Recitation
 - 📘 Complete Qur'an Juz 15, 16, 1, 29, 30, 1, Musabbihaat
-- 🧠 Memorize 2 Ayahs / Lines from Surah Al-Hajj
+- 🧠 Memorize 1 Ayah/Line from Surah Al-Hajj
 - 🧎‍♂️ Ishraaq Salaah
 - 🌳 Madhvan Park Reflection & Recharge
 
@@ -174,7 +107,21 @@
 - 📈 Update the daily tracker
 - 🧠 Strategize for content
 
-### 💻 04:00 PM – 04:30 PM: **Entrepreneurship Lessons, Content Preparations [30m]**
+### 💻 04:00 PM – 05:00 PM: **Backlog Tracker, Startup [1h]**
+- 💾 Backlog Tracker
+- 🛠️ Work for:
+  - 🕌 InMasjid
+  - 🎉 Personal Branding
+  - 👨‍👩‍👧‍👦 ZupFam
+  - 🚀 Side Hustles
+- 📈 Update Daily Tracker
+
+### 🕔 05:00 PM – 05:30 PM: **Asr [30m]**
+- 🚶 Walk / 🚲 Cycle
+- 📖 Surah An-Naba
+
+### 💻 05:30 PM – 06:30 PM: **Backlog Tracker, Entrepreneurship Lessons, Content Preparations [1h]**
+- 💾 Backlog Tracker
 - 📚 Entrepreneurship Lessons
   - 📖 Books
   - 📺 Videos
@@ -184,25 +131,78 @@
 - 📲 Social Content Plans
 - ✂️ Content Editing
 
-### 💻 04:30 PM – 05:00 PM: **Startup, Content Preparations [30m]**
-- 🛠️ Work for:
-  - 🕌 InMasjid
-  - 🎉 Personal Branding
-  - 👨‍👩‍👧‍👦 ZupFam
-  - 🚀 Side Hustles
-- 📈 Update Daily Tracker
-- 📲 Social Content Plans
-- ✂️ Content Editing
+---
 
-### 🕔 05:00 PM – 05:30 PM: **Asr [30m]**
-- 🚶 Walk / 🚲 Cycle
-- 📖 Surah An-Naba
+## 🕋 1. Ibaadah (Worship)
+### Salaah
+- ✅ 12 Rakaahs
+- 🌙 2 Rakaahs Tahajjud
+- 🌌 3 Rakaahs Witr
 
-### 🕠 05:30 PM – 06:30 PM: **Backlog Tracker [1h]**
-- 📘 Qur’an Juz (Juz 15, 16, 1, 29, 30, Musabbihaat)
-- 🤲 Darood Sharif
-- ✅ Git Commit & Push
-- 📅 Update Daily Tracker
+### Qur'an
+- 📖 Salaah Surahs
+- 📘 Juz 15, 16, 1, 29, 30, 1, Musabbihaat
+- 🧠 Surah Al-Hajj Hifz (Memorization)
+
+### Zikr
+- 🕊️ Constant Zikr
+- 🤲 100 x2 Fridays — Darood Ibrahim
+- 💭 15 mins — Dream Intensive
+
+---
+
+## 🚀 2. Entrepreneurship Lessons
+- 📚 30m Book Reading
+- ✍️ Make Notes & Summaries
+- 🎥 Record Videos of Summaries
+- 📱 Post Shorts every **5th day**
+- 🎓 1hr Learning from Entrepreneurship Videos
+- 🗣️ 1hr Speaking Practice
+
+---
+
+## 💼 3. ZupFam + Side Hustles
+- 🏢 ZupFam Operations
+- 📘 Build Online Courses
+- 🛠️ Projects
+  - 💍 Wedding Sites
+
+---
+
+## 🤝 4. Strong Social Network
+- 📸 Content Creation
+- 🧑‍🤝‍🧑 Meetups
+- 🌐 Personal Branding
+
+---
+
+## 🧠 5. SWEK (Software Engineering Knowledge)
+- 📊 DSA
+- 🏗️ LLD (Low-Level Design)
+- 🏢 HLD (High-Level Design)
+- ☁️ AWS
+- 🤖 AI
+
+---
+
+## 🎯 6. Job & Interview Preparations
+- SWEK
+- Networking
+
+---
+
+## 🏋️ 7. Fitness
+- 🚶 Walk
+- 🥊 Kickboxing
+- 🏋️ Calisthenics
+- 🥗 Healthy Diet
+- ⚖️ Daily Weigh-In
+
+---
+
+## 🕌 8. InMasjid App
+- Building heart connections InMasjid
+- Engagement with masjid programs and community
 
 ---
 
