@@ -209,3 +209,91 @@
 > 📌 **Tip**: Stay consistent, track progress, and realign your intentions daily — _“Indeed, actions are by intentions.”_ (Bukhari)
 
 ---
+
+---
+
+# Workout Platter
+
+## 💪 Monday, Thursday: Push + Core (Chest, Shoulders, Triceps, Abs)
+
+### 🔹 Warm-Up (5–8 min)
+- Arm circles, shoulder rolls – 1 min  
+- Jumping jacks – 2 min  
+- Incline push-ups – 2 sets of 10
+
+### 🔸 Main Workout
+
+| Exercise                     | Sets | Reps    | Notes                                      |
+|-----------------------------|------|---------|--------------------------------------------|
+| Push-Ups (Incline or Full)  | 4    | 10–15   | Controlled, slow reps                      |
+| Dumbbell Overhead Press     | 4    | 10      | Full range, press straight overhead        |
+| Dumbbell Side Raise         | 3    | 12      | Focus on form, light weight                |
+| Push-Up to Shoulder Tap     | 3    | 10      | Great for core + shoulder stability        |
+| Kettlebell Swings *(opt.)*  | 3    | 15      | Power + fat burn                           |
+| Dumbbell Floor Press *(opt.)*| 3    | 10      | Chest focus                                |
+| Isometric Push-Up Hold      | 2    | 30 sec  | Hold halfway down, chest squeeze           |
+
+### 🔹 Core Finisher (10 min)
+- Leg Raises – 3 x 15  
+- Plank – 3 x 30–45 sec  
+- Russian Twists – 3 x 20 (10/side)
+
+---
+
+## 🍗 Tuesday, Saturday: Pull + Legs (Back, Biceps, Glutes, Legs)
+
+### 🔹 Warm-Up (5–8 min)
+- Leg swings, hip circles – 2 min  
+- Bodyweight squats – 2 sets of 10  
+- Dead hang from pull-up bar – 2 x 15 sec
+
+### 🔸 Main Workout
+
+| Exercise                     | Sets | Reps      | Notes                                |
+|-----------------------------|------|-----------|--------------------------------------|
+| Negative Pull-Ups           | 4    | 3–5       | 5–10 sec slow descent                 |
+| Dumbbell Rows (1-arm)       | 4    | 10–12     | Squeeze shoulder blades               |
+| Dumbbell Curls              | 3    | 12        | Full range, strict form               |
+| Squats (Bodyweight/Goblet)  | 4    | 15        | Controlled depth                      |
+| Dumbbell Lunges             | 3    | 10/leg    | Step far enough to hit glutes        |
+| Glute Bridges               | 3    | 15        | Squeeze glutes at top                 |
+| Wall Sit Hold               | 2    | 45–60 sec | Burnout for quads                     |
+
+### 🔹 Pull Finishers
+- Dead Hang or Pull Hold – 2 x 30 sec  
+- Hammer Curls *(opt.)* – 2 x 10
+
+---
+
+## 🔥 Wednesday: HIIT + Core Circuit (Conditioning + Abs)
+
+### 🔹 Warm-Up (5–8 min)
+- Jumping jacks – 2 min  
+- Arm swings + hip openers – 2 min  
+- High knees – 30 sec
+
+### 🔸 Circuit (Repeat 3–4 Rounds)
+
+| Exercise                   | Reps/Time     | Notes                          |
+|---------------------------|---------------|--------------------------------|
+| Burpees                   | 10 reps       | Explosive, full-body           |
+| Mountain Climbers         | 30 sec        | Fast, consistent pace          |
+| Push-Up Hold (Halfway)    | 20 sec        | Chest/triceps tension          |
+| Leg Raises                | 15 reps       | Slow, controlled core work     |
+| Glute Bridges             | 15 reps       | Hip drive, glute squeeze       |
+| High Knees / Jump Squats  | 30 sec        | Finisher – max effort          |
+
+**Rest:** 60–90 sec between rounds
+
+### 🔹 Optional Core Burnout (10 min)
+- Plank Shoulder Taps – 3 x 10/side  
+- Russian Twists (weighted) – 3 x 20  
+- Dead Bug or Bicycle Crunches – 3 x 20
+
+## Friday, Sunday: Rest
+
+## Heavy Bag Practice: Everyday 9:15PM to 9:45PM
+
+Alhamdulillah
+
+---
