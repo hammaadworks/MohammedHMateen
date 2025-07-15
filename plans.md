@@ -8,128 +8,127 @@
 
 # ⏰ Daily Routine Timeline
 
-### 🕌 06:30 PM – 07:15 PM: **Maghrib [45m]**
-- 🚴 Walk / Cycle
-- 🧎 Sunnah
-- 📖 Surah Al-Waaqiah
+## 🕓 3:30 AM – 5:00 AM: **Tahajjud Triumph Block [1.5h]**
+- ⏰ **3:30 – 3:40 AM**: Wake Up & Get Ready
+- 🤲🏻 **3:40 – 4:00 AM**: Tahajjud Salah Dua
+- 🍽️ **4:00 – 4:15 AM**: Sehri (Pre-Dawn Meal)
+- 🥊 **4:15 – 4:40 AM**: Boxing Bag
+- 🚿 **4:40 – 5:00 AM**: Hydrate, Shower, Ready to cook the Day
 
-### 🌙 07:15 PM – 08:15 PM: **Alhamdulillah Time, Weekly Review [1h]**
-- 🍽️ Dinner
-- 📖 Dars
-- 📂 Clear Backlogs
-- 💆 Rejuvenations
-- 🤲 Zikr
-- 📝 Plan & Journal (Prev / Cur / Future)
-- 📈 Conduct a Weekly Improvement Review Cycle
+---
 
-### 🕯️ 08:15 PM – 09:15 PM: **Isha [1h]**
-- 🚶 Walk / Cycle
-- 🧎 Sunnah & Witr
-- 📖 Surah Al-Mulk
-- 🌈 Bright Future
+## 🌅 5:00 AM – 6:30 AM: **Fajr & Spiritual Block [1.5h]**
+- 🧎‍♂️ Fajr Salah + Sunnah
+- 📖 Surah Yaseen or Juz Recitation
+- 🧠 Memorize 1 Line (Surah Al-Hajj)
+- 🧎‍♂️ Ishraaq Salah
+- 🌳 Madhvan Park Reflection (Walk / Cycle)
 
-### 🥊 09:15 PM – 09:45 PM: **Heavy Bag [30m]**
-- 💥 Kickboxing HIIT
-- 🤲 Zikr
+---
 
-### 😴 09:45 PM – 03:45 AM: **Sleep [6h]**
+## 🏃 6:30 AM – 7:10 AM: **Madhvan Power Walk [40m]**
+- 🏃 Jog / Walk
+- 📘 Solve 10 DSA Problems
+- 🧩 1 Design Pattern Concept
+- 🎥 Record 1 Educational Content
 
-### 🌌 03:45 AM – 05:00 AM: **Tahajjud + Qur'an [1.25h]**
-- 🧼 Freshen Up
-- 🧎 Tahajjud
-- 🍽️ Sehri
-- 📖 Qur’an Juz 15, 16, 1, 29, 30, 1, Musabbihaat
-- 🎥 Content Recording
+---
 
-### 🌅 05:00 AM – 06:30 AM: **Fajr + Ishraaq [1.5h]**
-- 📥 Download materials for Walk Charge
-- 🧎‍♂️ Sunnah Salaah
-- 🚴 Cycle Ride
-- 📖 Surah Yaseen Recitation
-- 📘 Complete Qur'an Juz 15, 16, 1, 29, 30, 1, Musabbihaat
-- 🧠 Memorize 1 Ayah/Line from Surah Al-Hajj
-- 🧎‍♂️ Ishraaq Salaah
-- 🌳 Madhvan Park Reflection & Recharge
+## 🧊 7:10 AM – 7:30 AM: **Cooldown & Nutrition [20m]**
+- 🥛 Milk + Fruits + Veggies
+- ⚖️ Weigh-In & Track
+- 🧘‍♂️ Cooldown + Stretch
 
-### 🏃 06:30 AM – 07:10 AM: **Madhvan Walk [40m]**
-- 🏃 Jogging
-- 📘 10x DSA Problems
-- 🧩 1x Design Pattern
-- 🎥 Educational Content
+---
 
-### 🧊 07:10 AM – 07:30 AM: **Cooldown [20m]**
-- 🥛 Milk + Veggies + Fruits
-- ⚖️ Weigh & Track
-- 🧘‍♂️ Cooldown
+## 💻 7:30 AM – 9:30 AM: **InMasjid Work Block [2h]**
+- 🕌 Core Development
+- 📈 Track & Push Tangible Results
 
-### 💻 07:30 AM – 09:30 AM: **InMasjid Block [2h]**
-- 🕌 Build tangible results for InMasjid Project
-- 📈 Update the progress
+---
 
-### 💻 09:30 AM – 10:30 AM: **DSA Block [1h]**
-- 🧠 DSA Study
-- 📲 Content
-- 🧩 Branding
-- 📈 Update the progress
+## 💻 9:30 AM – 10:30 AM: **DSA / Branding Block [1h]**
+- 🧠 Study DSA Concepts
+- 🧩 Solve Problems
+- 📲 Content & Branding Updates
 
-### 💻 10:30 AM – 12:00 PM: **ZupFam Block [1.5h]**
-- 🚀 Build tangible results for:
-  - ZupFam
-  - Side Hustles
-- 📈 Update the progress
-- 🧠 Strategize for daily content
+---
 
-### ☀️ 12:00 PM – 02:00 PM: **Zuhr [2h]**
-- 😴 Power Nap
+## 💻 10:30 AM – 12:00 PM: **ZupFam & Side Hustles [1.5h]**
+- 👨‍👩‍👧‍👦 ZupFam Systems
+- 🚀 Other Hustles
+- 🧠 Content Strategy + Creation
+
+---
+
+## ☀️ 12:00 PM – 2:00 PM: **Zuhr & Recharge Block [2h]**
+- 🧎‍♂️ Zuhr Salah
+- 😴 Power Nap (20–40 min)
 - 🍛 Lunch
-- 🔁 Backlogs
-- 💧 Freshen Up
-- 🚶‍♂️ Walk / Cycle
 - 📖 Surah Al-Fath
+- 💧 Freshen Up & Short Walk
 
-### 💻 02:00 PM – 03:30 PM: **LLD, HLD, AWS Block [1.5h]**
-- 📚 Low-Level Designs [40m]
-  - 🎓 Udemy
-  - 📺 YouTube
-  - 📘 Grokking the OOPs
-- 📚 High-Level Designs [30m]
-  - 🧠 Interview Ready (GKCS)
-  - 📗 Grokking the HLD
-  - 📕 System HLD Book v1 & v2
-- ☁️ AWS Practice [20m]
-  - 🎓 Udemy
-  - 📝 Make notes
-- 📈 Update the daily tracker
-- 🧠 Strategize for content
+---
 
-### 💻 03:30 PM – 04:00 PM: **DSA Block [30m]**
-- 🧠 Daily DSA Quota
-- 📈 Update the daily tracker
-- 🧠 Strategize for content
+## 💻 2:00 PM – 3:30 PM: **LLD / HLD / AWS Deep Work [1.5h]**
+- 📚 LLD: Udemy, OOPs, System Design
+- 📘 HLD: GKCS, Books, Real-World Diagrams
+- ☁️ AWS: Labs + Notes
+- 📈 Tracker Update
 
-### 💻 04:00 PM – 05:00 PM: **Backlog Tracker, Startup [1h]**
-- 💾 Backlog Tracker
-- 🛠️ Work for:
-  - 🕌 InMasjid
-  - 🎉 Personal Branding
-  - 👨‍👩‍👧‍👦 ZupFam
-  - 🚀 Side Hustles
-- 📈 Update Daily Tracker
+---
 
-### 🕔 05:00 PM – 05:30 PM: **Asr [30m]**
-- 🚶 Walk / 🚲 Cycle
+## 💻 3:30 PM – 4:00 PM: **DSA Focus Block [30m]**
+- 📘 Practice Daily DSA Quota
+- 📈 Update Tracker & Plan
+
+---
+
+## 💻 4:00 PM – 5:00 PM: **Startup & Backlog Tracker [1h]**
+- 🛠️ InMasjid / ZupFam / Branding
+- 💾 Review Backlogs
+- 📈 Update Progress Systems
+
+---
+
+## 🕔 5:00 PM – 5:30 PM: **Asr Block [30m]**
+- 🧎‍♂️ Asr Salah
+- 🚶‍♂️ Light Walk
 - 📖 Surah An-Naba
 
-### 💻 05:30 PM – 06:30 PM: **Backlog Tracker, Entrepreneurship Lessons, Content Preparations [1h]**
-- 💾 Backlog Tracker
-- 📚 Entrepreneurship Lessons
-  - 📖 Books
-  - 📺 Videos
-  - 📝 Notes
-  - 🗣️ Speech Practice
-  - 📱 Post Shorts
-- 📲 Social Content Plans
-- ✂️ Content Editing
+---
+
+## 💻 5:30 PM – 6:30 PM: **Content + Entrepreneurship [1h]**
+- 📚 Learn (Books, Videos, Notes)
+- 🗣️ Practice Speaking / Teach
+- ✂️ Edit & Post Content
+
+---
+
+## 🕌 6:30 PM – 7:15 PM: **Maghrib Block [45m]**
+- 🧎‍♂️ Maghrib Salah
+- 🚴 Walk / Cycle
+- 📖 Surah Al-Waaqiah
+
+---
+
+## 🌙 7:15 PM – 8:15 PM: **Alhamdulillah Hour [1h]**
+- 🍽️ Dinner
+- 📂 Review & Clear Backlogs
+- 🤲 Zikr
+- 📝 Plan & Reflect (Journaling)
+- 📈 Weekly Growth Review
+
+---
+
+## 🕯️ 8:15 PM – 9:15 PM: **Isha Wind-Down [1h]**
+- 🚶‍♂️ Walk to Masjid
+- 🧎‍♂️ Isha + Witr
+- 📖 Surah Al-Mulk
+
+---
+
+## 😴 9:15 PM – 3:30 AM: **Sleep [6h 15m]**
 
 ---
 
