@@ -10,65 +10,66 @@
 
 ---
 
-## 🕓 3:30 AM – 5:00 AM · `Tahajjud Tijarah Block [1.5h]`
+## 🕓 3:30 AM – 5:10 AM · `Tahajjud Tijarah Block [1h 40m]`
 
-| **Time**          | **Activity**                                            |
-|-------------------|---------------------------------------------------------|
+| **Time**          | **Activity**  |
+|-------------------|---------------|
 | *3:30 AM – 3:40 AM* | - Wake Up  <br> - Get Ready                             |
-| *3:40 AM – 4:00 AM* | - Tahajjud Salah  <br> - Dua                            |
-| *4:00 AM – 4:15 AM* | - Sehri                                                 |
-| *4:15 AM – 4:40 AM* | - Boxing Bag                                            |
-| *4:40 AM – 5:00 AM* | - Hydrate  <br> - Shower  <br> - Ready to Cook the Day  |
+| *3:40 AM – 4:00 AM* | - Tahajjud Salah  <br> - Dua  |
+| *4:00 AM – 4:15 AM* | - Sehri |
+| *4:15 AM – 4:40 AM* | - Boxing Bag  |
+| *4:40 AM – 4:50 AM* | - Wudu  <br> - Cooldowns  <br> - Tahajjud  |
+| *4:50 AM – 5:10 AM* | - Hydrate  <br> - Shower  <br> - Ready to Cook the Day  |
 
 ---
 
-## 🌅 5:00 AM – 7:30 AM · `Fajr Fath Block [2.5h]`
+## 🌅 5:10 AM – 7:20 AM · `Fajr Fath Block [2h 10m]`
 
-### 🔹 **Accounted Block [1.5h]**
+### 🔹 **Accounted Block [1h 20m]**
 
 | **Time**| **Activity**|
 |--|--|
 | *20M BEFORE FAJR –<br> FAJR JAMA'AH* | - Fajr Wudu  <br> - Fajr Sunnah  <br> - Masjid Walk |
 | *FAJR JAMA'AH –<br> 20M AFTER SUNRISE* | - Fajr Fard  <br> - Fajr Tilawah *(Juz, Hifz, Salah Surah)* |
-| *20M AFTER SUNRISE –<br> 7:30 AM* | - Fajr Tilawah *(Juz, Hifz, Salah Surah)*  <br> - Ishraaq  <br> - Office Walk <br> - Motivations |
+| *20M AFTER SUNRISE –<br> 7:20 AM* | - Fajr Tilawah *(Juz, Hifz, Salah Surah)*  <br> - Ishraaq  <br> - Office Walk <br> - Cooldowns <br> - Motivations |
 
-### 🔸 **Unaccounted Block [1h]**
+### 🔸 **Unaccounted Block [50m]**
 
 - Fajr Tilawah *(Juz, Hifz, Salah Surah)*
 
 ---
-7:30-12 = ? 4:30
+7:20-12:20 = ? - office - 5
 ---
 
-## ☀️ 12:00 PM – 2:00 PM · `Zuhr Zikr Block [2h]`
+## ☀️ 12:20 PM – 2:00 PM · `Zuhr Zikr Block [1h 40m]`
 
 | **Time**    | **Activity**                    |
 |-------------|---------------------------------|
-| *12:00 PM*  | - Document Progress  <br> - Home Walk  <br> - P |
+| *12:20 PM*  | - Docu Progressions  <br> - Home Walk  <br> - Power Nap |
 | *Pre-Salah* | - Zuhr Wudu  <br> - Zuhr Sunnah |
 | *Salah*     | - Zuhr Fard  <br> - Zuhr Sunnah |
 | *2:00 PM*   | - Lunch  <br> - Office           |
 
 ---
-2 - 4:15 = ? 2:15h
+2 - 4:20 = ? - office - 2:20h
 ---
 
-## 🌅 4:15 PM – 5:45 PM · `Asr Aafiyah Block [1.5h]`
+## 🌅 4:20 PM – 5:45 PM · `Asr Aafiyah Block [1h 25m]`
 
-### 🔹 **Accounted Block [40m]**
+### 🔹 **Accounted Block [35m]**
 
 | **Time**| **Activity**|
 |--|--|
-| 15M BEFORE ASR JAMA'AH –<br> ASR JAMA'AH | - Asr Wudu  <br> - Masjid Walk |
+| 10M BEFORE ASR JAMA'AH –<br> ASR JAMA'AH | - Asr Wudu  <br> - Masjid Walk |
 | ASR JAMA'AH –<br> 25M AFTER ASR JAMA'AH | - Asr Fard  <br> - Asr Zikr  <br> - ? Walk|
 
 ### 🔸 **Unaccounted Block [50m]**
 
-- ?
+- ? - Whereami
 
 ---
 
-## 🌅 5:45 PM – 7:15 PM · `Maghrib Muraaqabah Block [1.5h]`
+## 🌅 5:45 PM – 7:15 PM · `Maghrib Muraaqabah Block [1h 30m]`
 
 ### 🔹 **Accounted Block [40m]**
 
@@ -76,32 +77,31 @@
 |--|--|
 | 5M BEFORE MAGHRIB –<br> MAGHRIB JAMA'AH | - Maghrib Wudu  <br> - Masjid Walk |
 | MAGHRIB JAMA'AH –<br> 10M AFTER MAGHRIB JAMA'AH | - Maghrib Fard  <br> - Maghrib Zikr|
-| MAGHRIB JAMA'AH –<br> 25M AFTER MAGHRIB JAMA'AH | - Maghrib Fard  <br> - Home Walk  <br> - Surah Al Waaqiah  <br> - Surah Al Mulk  <br> - Maghrib Sunnah|
+| 10M AFTER MAGHRIB JAMA'AH –<br> 30M AFTER MAGHRIB JAMA'AH | - Maghrib Fard  <br> - Home Walk  <br> - Surah Al Waaqiah  <br> - Surah Al Mulk  <br> - Maghrib Sunnah  <br> - Cooldowns|
 
-### 🔸 **Unaccounted Block [1h]**
+### 🔸 **Unaccounted Block [50m]**
 
-- ?
+- ? - Home Alhamdulillah
 
 ---
 
-## ☀️ 7:20 PM – 3:30 AM · `Isha Ikhlaas Block [8.25h]`
+## ☀️ 7:15 PM – 3:30 AM · `Isha Ikhlaas Block [8h 15m]`
 
 | **Time**| **Activity**|
 |--|--|
-| 7:20 PM – 8:20 PM | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> - Sehri Prep  <br> - Progressions |
+| 7:15 PM – 8:20 PM | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> - Sehri Prep  <br> - Docu Progressions |
 | 8:20 PM – 9:10 PM | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr |
 | 9:10 PM – 3:30 AM | - Relax |
 
 ---
 
->fill this
 ## 🏃 7:30 AM – 12:00 PM: **Work**
 - 🏃 Jog / Walk
 - 📘 Solve 10 DSA Problems
 - 🧩 1 Design Pattern Concept
 - 🎥 Record 1 Educational Content
 - ⚖️ Weigh-In & Track
-- 🧘‍♂️ Cooldown + Stretch
+- 🧘‍♂️ Cooldowns + Stretch
 - InMasjid
 - 🕌 Core Development
 - 📈 Track & Push Tangible Results
