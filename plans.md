@@ -54,22 +54,24 @@
 2 - 4:20 = ? - office - 2:20h
 ---
 
-## 🌅 4:20 PM – 5:45 PM · `Asr Aafiyah Block [1h 25m]`
+## 🌅 4:20 PM – 5:45 PM · `Asr ? Block [1h 25m]`
 
 ### 🔹 **Accounted Block [35m]**
 
 | **Time**| **Activity**|
 |--|--|
 | 10M BEFORE ASR JAMA'AH –<br> ASR JAMA'AH | - Asr Wudu  <br> - Masjid Walk |
-| ASR JAMA'AH –<br> 25M AFTER ASR JAMA'AH | - Asr Fard  <br> - Asr Zikr  <br> - ? Walk|
+| ASR JAMA'AH –<br> 25M AFTER ASR JAMA'AH | - Asr Fard  <br> - Asr Zikr  <br> - Madhvan Park Walk  <br> - Curate Content |
 
 ### 🔸 **Unaccounted Block [50m]**
 
-- ? - Whereami
+- Curate Content [Workflow](#content-workflow)
+- `Daily Vlog Video` *@Madhvan Park* feat. **Speech Practice**
+- Edit/Post Social Content
 
 ---
 
-## 🌅 5:45 PM – 7:15 PM · `Maghrib Muraaqabah Block [1h 30m]`
+## 🌅 5:45 PM – 7:15 PM · `Maghrib ? Block [1h 30m]`
 
 ### 🔹 **Accounted Block [40m]**
 
@@ -81,7 +83,8 @@
 
 ### 🔸 **Unaccounted Block [50m]**
 
-- ? - Home Alhamdulillah
+- Workout Platter *[@ Home Gym](#workout-platter)*
+- Edit/Post Social Content
 
 ---
 
@@ -89,47 +92,27 @@
 
 | **Time**| **Activity**|
 |--|--|
-| 7:15 PM – 8:20 PM | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> - Sehri Prep  <br> - Docu Progressions |
+| 7:15 PM – 8:20 PM | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> - Sehri Prep  <br> - Docu Progressions  <br> - Edit/Post Social Content |
 | 8:20 PM – 9:10 PM | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr |
 | 9:10 PM – 3:30 AM | - Relax |
 
 ---
 
-## 🏃 7:30 AM – 12:00 PM: **Work**
-- 🏃 Jog / Walk
-- 📘 Solve 10 DSA Problems
-- 🧩 1 Design Pattern Concept
-- 🎥 Record 1 Educational Content
-- ⚖️ Weigh-In & Track
-- 🧘‍♂️ Cooldowns + Stretch
-- InMasjid
-- 🕌 Core Development
-- 📈 Track & Push Tangible Results
-- 🧠 Study DSA Concepts
-- 🧩 Solve Problems
-- 📲 Content & Branding Updates
-- 👨‍👩‍👧‍👦 ZupFam Systems
-- 🚀 Other Hustles
-- 🧠 Content Strategy + Creation
+# time slots
+- 7AM to 12PM = 5h
+- 2PM to 4:20PM = 2h 20m
+- 5:50PM to 6:30PM = 40m 
 
----
-
-## 💻 2:00 PM – 4:15 PM: **Work**
-- 📚 LLD: Udemy, OOPs, System Design
-- 📘 HLD: GKCS, Books, Real-World Diagrams
-- ☁️ AWS: Labs + Notes
-- 📈 Tracker Update
-- 📘 Practice Daily DSA Quota
-- 📈 Update Tracker & Plan
-- 🛠️ InMasjid / ZupFam / Branding
-- 💾 Review Backlogs
-- 📈 Update Progress Systems
-- 🧎‍♂️ Asr Salah
-- 🚶‍♂️ Light Walk
-- 📖 Surah An-Naba
-- 📚 Learn (Books, Videos, Notes)
-- 🗣️ Practice Speaking / Teach
-- ✂️ Edit & Post Content
+# tasks in hand
+- Build InMasjid App (primary startup idea)
+- Build ZupFam App (secondary startup idea)
+- Learn and solve DSA Problems
+- Learn Low Level Software Designs & Design Patterns
+- Learn High Level Software Designs
+- Learn AWS course on Udemy
+- Read a small portion of an business/ entrepreneurship book
+- Practice Public Speaking and Articulation
+- Strategize content, Post on Social Media Content & Branding / Educational Updates for the Day
 
 ---
 
@@ -290,10 +273,70 @@
 - Russian Twists (weighted) – 3 x 20  
 - Dead Bug or Bicycle Crunches – 3 x 20
 
-## Friday, Sunday: Rest
-
-## Heavy Bag Practice: Everyday 9:15PM to 9:45PM
-
-Alhamdulillah
+## Friday, Sunday: Stretching, Active Recovery, Mobility, Relax
 
 ---
+
+# Content Workflow
+
+A structured, repeatable process to turn your daily insights into meaningful content.
+
+---
+
+## 🔁 1. Reflect & Capture
+
+At the end of each time block, run a quick reflection to extract value from your work:
+
+- **Reflect:**  
+  _What did I build, learn, or realize?_  
+  → `Write a short 1–2 sentence summary of your experience or insight.`
+
+- **Capture Supporting Material:**  
+  📸 _Save a screenshot, diagram, quote, or visual artifact that adds depth or proof._
+
+- **Takeaway:**  
+  📝 _Boil the insight down into **1 sentence**—this becomes the seed for future content._
+
+---
+
+## ✍️ 2. Draft Your Content (4:10–5:00 PM)
+
+Turn your captured insight into a shareable format:
+
+- **Choose One Takeaway**  
+  🔍 Go through your journal or daily notes and select one compelling idea.
+
+- **Create a Draft**  
+  - 📝 **If Text-Based:**  
+    - Write a **tweet** (short, punchy takeaway)  
+    - Write a **caption** (for Instagram/LinkedIn)  
+    - Draft **carousel copy** (structured around a hook + value + CTA)
+  
+  - 🎥 **If Video-Based:**  
+    - Write a 3–5 bullet **script** that covers:  
+      1. Hook  
+      2. Context  
+      3. Insight  
+      4. Example or tip  
+      5. Call to action
+
+---
+
+## 🎨 3. Edit & Design
+
+- Use **Canva** to style text or carousels (branding, fonts, layout)  
+- Use **CapCut** to trim, subtitle, and stylize short-form videos  
+- Add music, transitions, or overlays as needed
+
+---
+
+## 🚀 4. Publish or Schedule
+
+- Post immediately on relevant platforms **or**  
+- Use a tool like **Later**, **Buffer**, or **Metricool** to schedule your content
+
+⏱ *Keep momentum—consistency matters more than perfection.*
+
+---
+
+Alhamdulillah
