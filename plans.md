@@ -2,11 +2,11 @@
 
 ---
 
-## Weekly Tracker: https://ssguk6wubeax.sg.larksuite.com/wiki/Fnw2wZi1ViI2YBkhANQlb9Qngbh?sheet=zlHzOa
+> Weekly Tracker: https://ssguk6wubeax.sg.larksuite.com/wiki/Fnw2wZi1ViI2YBkhANQlb9Qngbh?sheet=zlHzOa
 
 ---
 
-# ⏰ Daily Routine Timeline
+# ⏰ Daily Plans
 
 ---
 
@@ -38,7 +38,18 @@
 - Fajr Tilawah *(Juz, Hifz, Salah Surah)*
 
 ---
-7:20-12:20 = ? - office - 5
+
+## 🧑‍💻 7:20 AM – 12:20 PM · `Barakah Bounty Block [5h]`
+
+| **Time**             | **Activity**                                 |
+|----------------------|-----------------------------------------------|
+| *7:20 AM – 7:40 AM*  | - Wake Up  <br> - Wudu  <br> - Get Ready      |
+| *7:40 AM – 8:00 AM*  | - Commute to Office / Settle In               |
+| *8:00 AM – 10:00 AM* | - Deep Work Session 1  <br> - Project Focus   |
+| *10:00 AM – 10:15 AM*| - Short Break  <br> - Hydrate / Walk          |
+| *10:15 AM – 11:45 AM*| - Deep Work Session 2  <br> - Code / Review   |
+| *11:45 AM – 12:20 PM*| - Light Wrap-up  <br> - Emails / Planning     |
+
 ---
 
 ## ☀️ 12:20 PM – 2:00 PM · `Zuhr Zikr Block [1h 40m]`
@@ -51,10 +62,20 @@
 | *2:00 PM*   | - Lunch  <br> - Office           |
 
 ---
-2 - 4:20 = ? - office - 2:20h
+
+## 🧑‍💼 2:00 PM – 4:20 PM · `Rizq Reload Block [2h 20m]`
+
+| **Time**             | **Activity**                                      |
+|----------------------|---------------------------------------------------|
+| *2:00 PM – 2:10 PM*  | - Transition / Quick Reset  <br> - Wudu if needed |
+| *2:10 PM – 3:10 PM*  | - Deep Work Sprint 1  <br> - Review / Execution    |
+| *3:10 PM – 3:20 PM*  | - Stretch / Hydrate  <br> - Eye Break              |
+| *3:20 PM – 4:00 PM*  | - Deep Work Sprint 2  <br> - Wrap Up Tasks         |
+| *4:00 PM – 4:20 PM* | - Entrepreneurship Book  <br> ~ Entrepreneurship Lessons  <br> ~ AWS Lessons |
+
 ---
 
-## 🌅 4:20 PM – 5:45 PM · `Asr ? Block [1h 25m]`
+## 🎙️ 4:20 PM – 5:45 PM · `Asr Air Block [1h 25m]`
 
 ### 🔹 **Accounted Block [35m]**
 
@@ -66,12 +87,13 @@
 ### 🔸 **Unaccounted Block [50m]**
 
 - Curate Content [Workflow](#content-workflow)
-- `Daily Vlog Video` *@Madhvan Park* feat. **Speech Practice**
+- Lessons on **Speech Practice & Articulations**
+- `Daily Vlog Video` *@Madhvan Park* on `walk`
 - Edit/Post Social Content
 
 ---
 
-## 🌅 5:45 PM – 7:15 PM · `Maghrib ? Block [1h 30m]`
+## 💪🏻 5:45 PM – 7:15 PM · `Maghrib Muscle Block [1h 30m]`
 
 ### 🔹 **Accounted Block [40m]**
 
@@ -97,11 +119,24 @@
 | 9:10 PM – 3:30 AM | - Relax |
 
 ---
+> prompt
+Update this according to the task in hand and considerations
 
-# time slots
-- 7AM to 12PM = 5h
-- 2PM to 4:20PM = 2h 20m
-- 5:50PM to 6:30PM = 40m 
+```
+## 🧑‍💻 7:20 AM – 12:20 PM · `Barakah Bounty Block [5h]`
+
+| **Time** | **Activity**  |
+|--|--|
+| *7:20 AM – xx:xx AM*  | - XXXX  <br> - YYYY  |
+| *xx:xx AM – 12:20 PM*| - ZZZZ  <br> - QQQQ |
+
+## 🧑‍💼 2:00 PM – 4:00 PM · `Rizq Reload Block [2h]`
+
+| **Time** | **Activity**  |
+|--|--|
+| *2:00 PM – xx:xx AM*  | - XXXX  <br> - YYYY  |
+| *xx:xx AM – 4:00 PM*| - ZZZZ  <br> - QQQQ |
+```
 
 # tasks in hand
 - Build InMasjid App (primary startup idea)
@@ -109,11 +144,15 @@
 - Learn and solve DSA Problems
 - Learn Low Level Software Designs & Design Patterns
 - Learn High Level Software Designs
-- Learn AWS course on Udemy
-- Read a small portion of an business/ entrepreneurship book
-- Practice Public Speaking and Articulation
-- Strategize content, Post on Social Media Content & Branding / Educational Updates for the Day
 
+---
+Considerations:
+1. You can keep a rotating schedule if required
+2. Daily 1.5hr DSA and 1hr LLD
+3. Want to start my day with InMasjid App
+4. No rest days
+5. I need to run client meeting for my startups somedays
+6. Success in all way, Alhamdulillah
 ---
 
 ## 🕋 1. Ibaadah (Worship)
