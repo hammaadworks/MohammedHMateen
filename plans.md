@@ -41,21 +41,20 @@
 
 ## 🧑‍💻 7:20 AM – 12:20 PM · `Barakah Bounty Block [5h]`
 
-| **Time**             | **Activity**                                 |
-|----------------------|-----------------------------------------------|
-| *7:20 AM – 7:40 AM*  | - Wake Up  <br> - Wudu  <br> - Get Ready      |
-| *7:40 AM – 8:00 AM*  | - Commute to Office / Settle In               |
-| *8:00 AM – 10:00 AM* | - Deep Work Session 1  <br> - Project Focus   |
-| *10:00 AM – 10:15 AM*| - Short Break  <br> - Hydrate / Walk          |
-| *10:15 AM – 11:45 AM*| - Deep Work Session 2  <br> - Code / Review   |
-| *11:45 AM – 12:20 PM*| - Light Wrap-up  <br> - Emails / Planning     |
+| **Time** | **Activity** |
+|-----|-----|
+| *7:20 AM – 9:20 AM*  | - InMasjid App |
+| *9:20 AM – 10:20 AM*  | - DSA |
+| *10:20 AM – 11:20 AM* | - LLD |
+| *11:20 AM – 12:00 PM* | - HLD |
+| *12:00 PM – 12:20 PM* | - Entrepreneurship Book  <br> ~ Entrepreneurship Lessons  <br> ~ AWS Lessons |
 
 ---
 
 ## ☀️ 12:20 PM – 2:00 PM · `Zuhr Zikr Block [1h 40m]`
 
-| **Time**    | **Activity**                    |
-|-------------|---------------------------------|
+| **Time** | **Activity** |
+|-----|-----|
 | *12:20 PM*  | - Docu Progressions  <br> - Home Walk  <br> - Power Nap |
 | *Pre-Salah* | - Zuhr Wudu  <br> - Zuhr Sunnah |
 | *Salah*     | - Zuhr Fard  <br> - Zuhr Sunnah |
@@ -65,13 +64,10 @@
 
 ## 🧑‍💼 2:00 PM – 4:20 PM · `Rizq Reload Block [2h 20m]`
 
-| **Time**             | **Activity**                                      |
-|----------------------|---------------------------------------------------|
-| *2:00 PM – 2:10 PM*  | - Transition / Quick Reset  <br> - Wudu if needed |
-| *2:10 PM – 3:10 PM*  | - Deep Work Sprint 1  <br> - Review / Execution    |
-| *3:10 PM – 3:20 PM*  | - Stretch / Hydrate  <br> - Eye Break              |
-| *3:20 PM – 4:00 PM*  | - Deep Work Sprint 2  <br> - Wrap Up Tasks         |
-| *4:00 PM – 4:20 PM* | - Entrepreneurship Book  <br> ~ Entrepreneurship Lessons  <br> ~ AWS Lessons |
+| **Time** | **Activity** |
+|-----|-----|
+| *2:00 PM – 2:20 PM* | - DSA |
+| *2:20 PM – 4:20 PM* | - ZupFam |
 
 ---
 
@@ -118,41 +114,6 @@
 | 8:20 PM – 9:10 PM | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr |
 | 9:10 PM – 3:30 AM | - Relax |
 
----
-> prompt
-Update this according to the task in hand and considerations
-
-```
-## 🧑‍💻 7:20 AM – 12:20 PM · `Barakah Bounty Block [5h]`
-
-| **Time** | **Activity**  |
-|--|--|
-| *7:20 AM – xx:xx AM*  | - XXXX  <br> - YYYY  |
-| *xx:xx AM – 12:20 PM*| - ZZZZ  <br> - QQQQ |
-
-## 🧑‍💼 2:00 PM – 4:00 PM · `Rizq Reload Block [2h]`
-
-| **Time** | **Activity**  |
-|--|--|
-| *2:00 PM – xx:xx AM*  | - XXXX  <br> - YYYY  |
-| *xx:xx AM – 4:00 PM*| - ZZZZ  <br> - QQQQ |
-```
-
-# tasks in hand
-- Build InMasjid App (primary startup idea)
-- Build ZupFam App (secondary startup idea)
-- Learn and solve DSA Problems
-- Learn Low Level Software Designs & Design Patterns
-- Learn High Level Software Designs
-
----
-Considerations:
-1. You can keep a rotating schedule if required
-2. Daily 1.5hr DSA and 1hr LLD
-3. Want to start my day with InMasjid App
-4. No rest days
-5. I need to run client meeting for my startups somedays
-6. Success in all way, Alhamdulillah
 ---
 
 ## 🕋 1. Ibaadah (Worship)
@@ -338,7 +299,7 @@ At the end of each time block, run a quick reflection to extract value from your
 
 ---
 
-## ✍️ 2. Draft Your Content (4:10–5:00 PM)
+## ✍️ 2. Draft Your Content (4:20–5:45 PM)
 
 Turn your captured insight into a shareable format:
 
