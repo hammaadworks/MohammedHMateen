@@ -112,10 +112,10 @@
 
 | **Time**          | **Activity**                                                                                                                                                     |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 7:15 PM – 8:20 PM | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> ~ Sehri Preparations  <br> ~ Docu Progressions  <br> ~ Edit/Post Social Content  <br> ~ Kinship Uplift |
-| 8:20 PM – 9:10 PM | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr                                                |
-| 9:10 PM – 9:30 PM | - Qur'an Bayyinah Dream Intensive Program ~ Touch Typing Practice                                                                                                |
-| 9:30 PM – 3:30 AM | - Relax                                                                                                                                                          |
+| *7:15 PM – 8:20 PM* | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> ~ Sehri Preparations  <br> ~ Docu Progressions  <br> ~ Edit/Post Social Content  <br> ~ Kinship Uplift |
+| *8:20 PM – 9:10 PM* | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr                                                |
+| *9:10 PM – 9:30 PM* | - Qur'an Bayyinah Dream Intensive Program  <br> ~ Touch Typing Practice                                                                                                |
+| *9:30 PM – 3:30 AM* | - Relax                                                                                                                                                          |
 
 ---
 
