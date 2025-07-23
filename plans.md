@@ -18,7 +18,7 @@
 | *3:30 AM – 3:40 AM* | - Wake Up  <br> - Get Ready                            |
 | *3:40 AM – 4:00 AM* | - Tahajjud Salah  <br> - Dua                           |
 | *4:00 AM – 4:15 AM* | - Sehri                                                |
-| *4:15 AM – 4:40 AM* | - Boxing Bag                                           |
+| *4:15 AM – 4:40 AM* | - Heavy Bag  <br> - Jump Rope                                           |
 | *4:40 AM – 4:50 AM* | - Wudu  <br> - Cooldowns  <br> - Tahajjud              |
 | *4:50 AM – 5:10 AM* | - Hydrate  <br> - Shower  <br> - Ready to Cook the Day |
 
