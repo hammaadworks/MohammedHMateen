@@ -18,7 +18,7 @@
 | *3:30 AM – 3:40 AM* | - Wake Up  <br> - Get Ready                            |
 | *3:40 AM – 4:00 AM* | - Tahajjud Salah  <br> - Dua                           |
 | *4:00 AM – 4:15 AM* | - Sehri                                                |
-| *4:15 AM – 4:40 AM* | - Heavy Bag  <br> - Jump Rope                                           |
+| *4:15 AM – 4:40 AM* | - Heavy Bag  <br> - Jump Rope                          |
 | *4:40 AM – 4:50 AM* | - Wudu  <br> - Cooldowns  <br> - Tahajjud              |
 | *4:50 AM – 5:10 AM* | - Hydrate  <br> - Shower  <br> - Ready to Cook the Day |
 
@@ -110,11 +110,11 @@
 
 ### 🌙 7:15 PM – 3:30 AM · **`Isha Ikhlaas Block`** *(8h 15m)*
 
-| **Time**          | **Activity**                                                                                                                                                     |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Time**            | **Activity**                                                                                                                                                     |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *7:15 PM – 8:20 PM* | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> ~ Sehri Preparations  <br> ~ Docu Progressions  <br> ~ Edit/Post Social Content  <br> ~ Kinship Uplift |
 | *8:20 PM – 9:10 PM* | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr                                                |
-| *9:10 PM – 9:30 PM* | - Qur'an Bayyinah Dream Intensive Program  <br> ~ Touch Typing Practice                                                                                                |
+| *9:10 PM – 9:30 PM* | - Qur'an Bayyinah Dream Intensive Program  <br> ~ Touch Typing Practice                                                                                          |
 | *9:30 PM – 3:30 AM* | - Relax                                                                                                                                                          |
 
 ---
@@ -223,6 +223,12 @@
 6. YouTube
 7. Medium
 
+### What
+
+- ✅ What went well:
+- 🧩 What needs work:
+- 🔁 What I’ll do better tomorrow:
+
 ### When
 
 #### 💻 Code Progress (Daily)
@@ -293,12 +299,6 @@ At the end of each time block, run a quick reflection to extract value from your
 
 - ✅ Post Now
 - ⏳ Or Schedule using: **Later / Buffer / Metricool**
-
-### What
-
-- ✅ What went well:
-- 🧩 What needs work:
-- 🔁 What I’ll do better tomorrow:
 
 ---
 
