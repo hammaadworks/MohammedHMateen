@@ -213,9 +213,60 @@
 
 ## 🎯 Content Workflow
 
----
+### Platforms
 
-### 🔁 Step 1: Reflect & Capture
+1. GitHub
+2. LinkedIn
+3. X
+4. Threads
+5. Instagram
+6. YouTube
+7. Medium
+
+### When
+
+#### 💻 Code Progress (Daily)
+
+- [ ] GitHub Commit
+    - Repo:
+    - Description:
+    - Link:
+
+#### 🧾 Short-form Text (Daily)
+
+- [ ] ✍️ LinkedIn Post
+    - Topic:
+    - Link:
+
+- [ ] 🧵 X (Twitter) Thread
+    - Thread Title:
+    - Link:
+
+#### 🔄 Short-form Video (Daily)
+
+- [ ] 🎥 Instagram Reel / Story
+    - Topic:
+    - Link:
+
+- [ ] 🎬 YouTube Short
+    - Topic:
+    - Link:
+
+#### 📚 Long-form / Valuable Content (Weekly)
+
+- [ ] 📺 YouTube Long-form Video
+    - Title:
+    - Link:
+    - Topic: (Educational / Story-based / Behind-the-scenes)
+
+- [ ] ✍️ Medium Blog Post
+    - Title:
+    - Link:
+    - Summary:
+
+### How
+
+#### 🔁 Step 1: Reflect & Capture
 
 At the end of each time block, run a quick reflection to extract value from your work:
 
@@ -223,29 +274,31 @@ At the end of each time block, run a quick reflection to extract value from your
 - 📸 *Capture:* Screenshot / Diagram / Quote of proof.
 - 📝 *Takeaway:* Paraphrased Insight.
 
----
+#### ✍️ Step 2: Daily Update Draft (4:20–5:45 PM)
 
-### ✍️ Step 2: Daily Update Draft (4:20–5:45 PM)
+- For each takeaway, create a **text/video post**:
+    - **Text-Based**: Tweet · Caption · Carousel
+    - **Video-Based**: Script = Hook → Insight → Tip → CTA
+- Draft your daily **progress vlog**.
 
-- For each takeaway create a text/video post.
-- **Text-Based**: Tweet · Caption · Carousel
-- **Video-Based**: Script: Hook → Insight → Tip → CTA
-- Draft your daily progress update vlog.
+#### 🎨 Step 3: Edit & Design
 
----
+- 🖼️ **Canva** – Design carousels / post assets
+- 🎬 **CapCut** – Edit videos with:
+    - Halaal background music
+    - Transitions
+    - Subtitles / overlays
 
-### 🎨 Step 3: Edit & Design
-
-- 🖼️ **Canva**: Carousels
-- 🎬 **CapCut**: Videos
-- 🎵 Halaal Background + Transitions + Overlays
-
----
-
-### 🚀 Step 4: Publish / Schedule
+#### 🚀 Step 4: Publish / Schedule
 
 - ✅ Post Now
-- ⏳ Schedule via **Later / Buffer / Metricool**
+- ⏳ Or Schedule using: **Later / Buffer / Metricool**
+
+### What
+
+- ✅ What went well:
+- 🧩 What needs work:
+- 🔁 What I’ll do better tomorrow:
 
 ---
 
