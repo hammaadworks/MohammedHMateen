@@ -27,187 +27,98 @@
 
 #### 🔷 **Accounted Block** *(1h 15m)*
 
-| **Time**                               | **Activity**                                                                                                       |
-|----------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| *20M BEFORE FAJR –<br> FAJR JAMA'AH*   | - Fajr Wudu  <br> - Fajr Sunnah  <br> - Masjid Cycle                                                               |
-| *FAJR JAMA'AH –<br> 20M AFTER SUNRISE* | - Fajr Fard  <br> - Fajr Tilawah *(Juz, Hifz, Salah Surah)*                                                        |
-| *20M AFTER SUNRISE –<br> 7:15 AM*      | - Fajr Tilawah *(Juz, Hifz, Salah Surah)*  <br> - Ishraaq  <br> - Office Cycle <br> - Cooldowns <br> - Motivations |
+| **Time**                               | **Activity**                                                                                                                                               |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *20M BEFORE FAJR –<br> FAJR JAMA'AH*   | - Fajr Wudu  <br> - Fajr Sunnah  <br> - Masjid Cycle                                                                                                       |
+| *FAJR JAMA'AH –<br> 20M AFTER SUNRISE* | - Fajr Fard  <br> - Fajr Tilawah *(Juz, Hifz, Salah Surah)*                                                                                                |
+| *20M AFTER SUNRISE –<br> 7:15 AM*      | - Fajr Tilawah *(Juz, Hifz, Salah Surah)*  <br> - Ishraaq  <br> - Office Cycle <br> - Qur'an Bayyinah Dream Intensive  <br> - Cooldowns <br> - Motivations |
 
 #### 🔸 **Unaccounted Block** *(45m)*
 
 - Fajr Tilawah *(Juz, Hifz, Salah Surah)*
+- Qur'an Bayyinah Dream Intensive
 
 ---
 
 ### 💼 7:15 AM – 12:15 PM · **`Barakah Bounty Block`** *(5h)*
 
-| **Time**              | **Activity**                                         |
-|-----------------------|------------------------------------------------------|
-| *7:15 AM – 8:15 AM*   | - LLD                                                |
-| *8:15 AM – 9:15 AM*   | - DSA                                                |
-| *9:15 AM – 10:00 AM*  | - HLD                                                |
-| *10:00 AM – 10:30 PM* | - Docu Progressions  <br> - Home Cycle  <br> - Relax |
-| *10:30 PM – 10:45 PM* | - Entrepreneurship Lessons                           |
-| *10:45 PM – 12:30 PM* | - Startup Success                                    |
+| **Time**              | **Activity**                                                                                                                  |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| *7:15 AM – 8:15 AM*   | - LLD                                                                                                                         |
+| *8:15 AM – 9:00 AM*   | - HLD                                                                                                                         |
+| *9:00 AM – 10:30 AM*  | - Startup Success                                                                                                             |
+| *10:30 AM – 11:30 AM* | - Docu Progressions  <br> - Home Cycle  <br> - Entrepreneurship Book Lessons  <br> - Qur'an/Chores/Relax  <br> - Office Cycle |
+| *11:30 AM – 12:30 PM* | - DSA                                                                                                                         |
+
+> 5M Concentrations
+> - Touch Typing
+> - Pushups
+> - Breathing
+> - Relax
 
 ---
 
-### 🕌 12:30 PM – 2:00 PM · **`Zuhr Zikr Block`** *(1h 40m)*
+### 🕌 12:30 PM – 2:30 PM · **`Zuhr Zikr Block`** *(2h)*
 
-| **Time**             | **Activity**                                                                        |
-|----------------------|-------------------------------------------------------------------------------------|
-| *12:30 PM - 1:00 PM* | - Docu Progressions  <br> - Home/Masjid Cycle  <br> - Zuhr Wudu  <br> - Zuhr Sunnah |
-| *Pre-Salah*          | - Zuhr Wudu  <br> - Zuhr Sunnah                                                     |
-| *Salah*              | - Zuhr Fard  <br> - Zuhr Sunnah                                                     |
-| *2:00 PM*            | - Lunch  <br> - Office                                                              |
-
----
-
-### 💼 2:00 PM – 4:20 PM · **`Rizq Reload Block`** *(2h 20m)*
-
-| **Time**         | **Activity**                                                                 |
-|------------------|------------------------------------------------------------------------------|
-| *2:00 – 2:20 PM* | - Entrepreneurship Book  <br> ~ Entrepreneurship Lessons  <br> ~ AWS Lessons |
-| *2:20 – 3:00 PM* | - Client Meetings <br> - Market Research                                     |
-| *3:00 – 4:20 PM* | - ZupFam                                                                     |
+| **Time**             | **Activity**                                                                                               |
+|----------------------|------------------------------------------------------------------------------------------------------------|
+| *12:30 PM - 1:00 PM* | - Jumu'ah Masjid Cycle  <br> ~ DSA                                                                         |
+| *1:00 PM - 2:00 PM*  | - Zuhr Home Cycle  <br> - Zuhr Wudu  <br> - Zuhr Sunnah  <br> - Zuhr Masjid Cycle <br> - Jumu'ah/Zuhr Fard |
+| *2:00 PM - 2:30 PM*  | - Home Cycle  <br> - Zuhr Sunnah  <br> - Surah Al Fath                                                     |
 
 ---
 
-### 🎙️ 4:20 PM – 5:45 PM · **`Asr Air Block`** *(1h 25m)*
+### 📈 2:30 PM – ASR · **`Rizq Reload Block`** *(3h)*
 
-#### 🔷 **Accounted Block** *(35m)*
+| **Time**            | **Activity**                       |
+|---------------------|------------------------------------|
+| *2:30 PM - 3:15 PM* | - Office Cycle  <br> - DSA/LLD/HLD |
+| *3:15 PM - ASR*     | - Startup Success                  |
 
-| **Time**                                 | **Activity**                                                                 |
-|------------------------------------------|------------------------------------------------------------------------------|
-| 10M BEFORE ASR JAMA'AH –<br> ASR JAMA'AH | - Asr Wudu  <br> - Masjid Walk                                               |
-| ASR JAMA'AH –<br> 25M AFTER ASR JAMA'AH  | - Asr Fard  <br> - Asr Zikr  <br> - Madhvan Park Walk  <br> - Curate Content |
+---
 
-#### 🔸 **Unaccounted Block** *(50m)*
+### 💪🏻️ ASR – MAGHRIB · **`Asr Athletic Block`** *(1h 30m)*
+
+| **Time**                       | **Activity**                                                   |
+|--------------------------------|----------------------------------------------------------------|
+| *10M BEFORE ASR –<br> ASR*     | - Masjid Cycle  <br> - Asr Wudu                                |
+| *ASR –<br> 10M BEFORE MAGHRIB* | - Asr Fard  <br> - Asr Zikr  <br> - Home Cycle  <br> - Workout |
+
+---
+
+### 💪🏻 MAGHRIB – 8:15 PM · **`Maghrib Alhamdulillah Block`** *(1h 30m)*
+
+| **Time**                                                    | **Activity**                                                                                                                                                     |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *5M BEFORE MAGHRIB –<br> MAGHRIB JAMA'AH*                   | - Maghrib Wudu  <br> - Masjid Cycle                                                                                                                              |
+| *MAGHRIB JAMA'AH –<br> 10M AFTER MAGHRIB JAMA'AH*           | - Maghrib Fard  <br> - Maghrib Zikr                                                                                                                              |
+| *10M AFTER MAGHRIB JAMA'AH –<br> 30M AFTER MAGHRIB JAMA'AH* | - Home Cycle  <br> - Surah Al Waaqiah  <br> - Surah Al Naba  <br> - Maghrib Sunnah  <br> - Cooldowns                                                             |
+| *30M AFTER MAGHRIB JAMA'AH –<br> 8:15 PM*                   | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> ~ Sehri Preparations  <br> ~ Docu Progressions  <br> ~ Edit/Post Social Content  <br> ~ Kinship Uplift |
+
+#### 🔸 **Unaccounted Block**
 
 - Curate Content [Workflow](#-content-workflow)
 - Lessons on **Speech Practice & Articulations**
-- `Daily Vlog Video` *@Madhvan Park* on `walk`
 - Edit/Post Social Content
 
 ---
 
-### 💪🏻 5:45 PM – 7:15 PM · **`Maghrib Muscle Block`** *(1h 30m)*
+### 8:15 PM – 3:45 AM · **`Isha Ibaadah Block`** *(7h 30m)*
 
-#### 🔷 **Accounted Block** *(40m)*
-
-| **Time**                                                  | **Activity**                                                                                        |
-|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 5M BEFORE MAGHRIB –<br> MAGHRIB JAMA'AH                   | - Maghrib Wudu  <br> - Masjid Walk                                                                  |
-| MAGHRIB JAMA'AH –<br> 10M AFTER MAGHRIB JAMA'AH           | - Maghrib Fard  <br> - Maghrib Zikr                                                                 |
-| 10M AFTER MAGHRIB JAMA'AH –<br> 30M AFTER MAGHRIB JAMA'AH | - Home Walk  <br> - Surah Al Waaqiah  <br> - Surah Al Mulk  <br> - Maghrib Sunnah  <br> - Cooldowns |
-
-#### 🔸 **Unaccounted Block** *(50m)*
-
-- Workout Platter *[@ Home Gym](#-workout-platter)*
-- Edit/Post Social Content
-
----
-
-### 🌙 7:15 PM – 3:30 AM · **`Isha Ikhlaas Block`** *(8h 15m)*
-
-| **Time**            | **Activity**                                                                                                                                                     |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *7:15 PM – 8:20 PM* | - Alhamdulillah FamTime  <br> - Iftaar  <br> - Dars  <br> ~ Sehri Preparations  <br> ~ Docu Progressions  <br> ~ Edit/Post Social Content  <br> ~ Kinship Uplift |
-| *8:20 PM – 9:10 PM* | - Masjid Walk  <br> - Isha Fard  <br> - Home Walk  <br> - Bright Fam Future  <br> - Isha Sunnah  <br> - Isha Witr                                                |
-| *9:10 PM – 9:30 PM* | - Qur'an Bayyinah Dream Intensive Program  <br> ~ Touch Typing Practice                                                                                          |
-| *9:30 PM – 3:30 AM* | - Relax                                                                                                                                                          |
+| **Time**            | **Activity**                                                                                                                          |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| *8:15 PM – 9:20 PM* | - Isha Wudu  <br> - Masjid Cycle  <br> - Isha Fard  <br> - Bright Fam Future  <br> - Home Cycle  <br> - Isha Sunnah  <br> - Isha Witr |
+| *9:20 PM – 3:45 AM* | - Relax                                                                                                                               |
 
 ---
 
 ## 🏋️‍♂️ Workout Platter
 
----
+### Date % 3 + 1
 
-### 💪 Monday/Thursday: Push + Core *(Chest, Shoulders, Triceps, Abs)*
-
-#### 🔹 Warm-Up (5–8 min)
-
-- Arm circles, shoulder rolls – 1 min
-- Jumping jacks – 2 min
-- Incline push-ups – 2 sets of 10
-
-#### 🔸 Main Workout
-
-| Exercise                      | Sets | Reps   | Notes                               |
-|-------------------------------|------|--------|-------------------------------------|
-| Push-Ups (Incline or Full)    | 4    | 10–15  | Controlled, slow reps               |
-| Dumbbell Overhead Press       | 4    | 10     | Full range, press straight overhead |
-| Dumbbell Side Raise           | 3    | 12     | Focus on form, light weight         |
-| Push-Up to Shoulder Tap       | 3    | 10     | Great for core + shoulder stability |
-| Kettle-bell Swings *(opt.)*   | 3    | 15     | Power + fat burn                    |
-| Dumbbell Floor Press *(opt.)* | 3    | 10     | Chest focus                         |
-| Isometric Push-Up Hold        | 2    | 30 sec | Hold halfway down, chest squeeze    |
-
-#### 🔹 Core Finisher (10 min)
-
-- Leg Raises – 3 x 15
-- Plank – 3 x 30–45 sec
-- Russian Twists – 3 x 20 (10/side)
-
----
-
-### 🍗 Tuesday/Saturday: Pull + Legs *(Back, Biceps, Glutes, Legs)*
-
-#### 🔹 Warm-Up (5–8 min)
-
-- Leg swings, hip circles – 2 min
-- Bodyweight squats – 2 sets of 10
-- Pullup Hold – 2 x 15 sec
-
-#### 🔸 Main Workout
-
-| Exercise                   | Sets | Reps      | Notes                         |
-|----------------------------|------|-----------|-------------------------------|
-| Negative Pull-Ups          | 4    | 3–5       | 5–10 sec slow descent         |
-| Dumbbell Rows (1-arm)      | 4    | 10–12     | Squeeze shoulder blades       |
-| Dumbbell Curls             | 3    | 12        | Full range, strict form       |
-| Squats (Bodyweight/Goblet) | 4    | 15        | Controlled depth              |
-| Dumbbell Lunges            | 3    | 10/leg    | Step far enough to hit glutes |
-| Glute Bridges              | 3    | 15        | Squeeze glutes at top         |
-| Wall Sit Hold              | 2    | 45–60 sec | Burnout for quads             |
-
-#### 🔹 Pull Finishers
-
-- Pullup Hold – 2 x 30 sec
-- Hammer Curls *(opt.)* – 2 x 10
-
----
-
-### 🔥 Wednesday: HIIT + Core
-
-#### 🔹 Warm-Up (5–8 min)
-
-- Jumping jacks – 2 min
-- Arm swings + hip openers – 2 min
-- High knees – 30 sec
-
-#### 🔸 Circuit (3–4 Rounds)
-
-| Exercise                 | Reps/Time | Notes                      |
-|--------------------------|-----------|----------------------------|
-| Burpees                  | 10 reps   | Explosive, full-body       |
-| Mountain Climbers        | 30 sec    | Fast, consistent pace      |
-| Pushup Hold (Halfway)    | 20 sec    | Chest/triceps tension      |
-| Leg Raises               | 15 reps   | Slow, controlled core work |
-| Glute Bridges            | 15 reps   | Hip drive, glutes squeeze  |
-| High Knees / Jump Squats | 30 sec    | Finisher – max effort      |
-
-**Rest:** 60–90 sec between rounds
-
-#### 🔹 Optional Core Burnout (10 min)
-
-- Plank Shoulder Taps – 3 x 10/side
-- Russian Twists (weighted) – 3 x 20
-- Bicycle Crunches – 3 x 20
-
----
-
-### Friday/Sunday: Alhamdulillah FamTime, Stretch-Mobility, Active Recovery, Relax
+1. HIIT / Stretch / Mobility
+2. Upper Body Strength
+3. Lower Body Strength
 
 ---
 
