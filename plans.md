@@ -11,55 +11,55 @@
 
 ---
 
-### 🌌 3:30 AM – 5:10 AM · **`Tahajjud Tijarah Block`** *(1h 40m)*
+### 🌌 3:45 AM – 5:15 AM · **`Tahajjud Tijarah Block`** *(1h 30m)*
 
 | **Time**            | **Activity**                                           |
 |---------------------|--------------------------------------------------------|
-| *3:30 AM – 3:40 AM* | - Wake Up  <br> - Get Ready                            |
-| *3:40 AM – 4:00 AM* | - Tahajjud Salah  <br> - Dua                           |
-| *4:00 AM – 4:15 AM* | - Sehri                                                |
-| *4:15 AM – 4:40 AM* | - Heavy Bag  <br> - Jump Rope                          |
-| *4:40 AM – 4:50 AM* | - Wudu  <br> - Cooldowns  <br> - Tahajjud              |
-| *4:50 AM – 5:10 AM* | - Hydrate  <br> - Shower  <br> - Ready to Cook the Day |
+| *3:45 AM – 4:00 AM* | - Wake Up  <br> - Get Ready                            |
+| *4:00 AM – 4:20 AM* | - Tahajjud Salah  <br> - Dua                           |
+| *4:20 AM – 4:40 AM* | - Sehri                                                |
+| *4:40 AM – 5:00 AM* | - Heavy Bag  <br> - Jump Rope                          |
+| *5:00 AM – 5:15 AM* | - Hydrate  <br> - Shower  <br> - Ready to Cook the Day |
 
 ---
 
-### 🌄 5:10 AM – 7:20 AM · **`Fajr Fath Block`** *(2h 10m)*
+### 🌄 5:15 AM – 7:15 AM · **`Fajr Fath Block`** *(2h)*
 
-#### 🔷 **Accounted Block** *(1h 20m)*
+#### 🔷 **Accounted Block** *(1h 15m)*
 
-| **Time**                               | **Activity**                                                                                                      |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| *20M BEFORE FAJR –<br> FAJR JAMA'AH*   | - Fajr Wudu  <br> - Fajr Sunnah  <br> - Masjid Walk                                                               |
-| *FAJR JAMA'AH –<br> 20M AFTER SUNRISE* | - Fajr Fard  <br> - Fajr Tilawah *(Juz, Hifz, Salah Surah)*                                                       |
-| *20M AFTER SUNRISE –<br> 7:20 AM*      | - Fajr Tilawah *(Juz, Hifz, Salah Surah)*  <br> - Ishraaq  <br> - Office Walk <br> - Cooldowns <br> - Motivations |
+| **Time**                               | **Activity**                                                                                                       |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| *20M BEFORE FAJR –<br> FAJR JAMA'AH*   | - Fajr Wudu  <br> - Fajr Sunnah  <br> - Masjid Cycle                                                               |
+| *FAJR JAMA'AH –<br> 20M AFTER SUNRISE* | - Fajr Fard  <br> - Fajr Tilawah *(Juz, Hifz, Salah Surah)*                                                        |
+| *20M AFTER SUNRISE –<br> 7:15 AM*      | - Fajr Tilawah *(Juz, Hifz, Salah Surah)*  <br> - Ishraaq  <br> - Office Cycle <br> - Cooldowns <br> - Motivations |
 
-#### 🔸 **Unaccounted Block** *(50m)*
+#### 🔸 **Unaccounted Block** *(45m)*
 
 - Fajr Tilawah *(Juz, Hifz, Salah Surah)*
 
 ---
 
-### 💼 7:20 AM – 12:20 PM · **`Barakah Bounty Block`** *(5h)*
+### 💼 7:15 AM – 12:15 PM · **`Barakah Bounty Block`** *(5h)*
 
-| **Time**              | **Activity**   |
-|-----------------------|----------------|
-| *7:20 AM – 9:20 AM*   | - InMasjid App |
-| *9:20 AM – 10:20 AM*  | - DSA          |
-| *10:20 AM – 11:20 AM* | - LLD          |
-| *11:20 AM – 12:00 PM* | - HLD          |
-| *12:00 PM – 12:20 PM* | - DSA          |
+| **Time**              | **Activity**                                         |
+|-----------------------|------------------------------------------------------|
+| *7:15 AM – 8:15 AM*   | - LLD                                                |
+| *8:15 AM – 9:15 AM*   | - DSA                                                |
+| *9:15 AM – 10:00 AM*  | - HLD                                                |
+| *10:00 AM – 10:30 PM* | - Docu Progressions  <br> - Home Cycle  <br> - Relax |
+| *10:30 PM – 10:45 PM* | - Entrepreneurship Lessons                           |
+| *10:45 PM – 12:30 PM* | - Startup Success                                    |
 
 ---
 
-### 🕌 12:20 PM – 2:00 PM · **`Zuhr Zikr Block`** *(1h 40m)*
+### 🕌 12:30 PM – 2:00 PM · **`Zuhr Zikr Block`** *(1h 40m)*
 
-| **Time**    | **Activity**                                            |
-|-------------|---------------------------------------------------------|
-| *12:20 PM*  | - Docu Progressions  <br> - Home Walk  <br> - Power Nap |
-| *Pre-Salah* | - Zuhr Wudu  <br> - Zuhr Sunnah                         |
-| *Salah*     | - Zuhr Fard  <br> - Zuhr Sunnah                         |
-| *2:00 PM*   | - Lunch  <br> - Office                                  |
+| **Time**             | **Activity**                                                                        |
+|----------------------|-------------------------------------------------------------------------------------|
+| *12:30 PM - 1:00 PM* | - Docu Progressions  <br> - Home/Masjid Cycle  <br> - Zuhr Wudu  <br> - Zuhr Sunnah |
+| *Pre-Salah*          | - Zuhr Wudu  <br> - Zuhr Sunnah                                                     |
+| *Salah*              | - Zuhr Fard  <br> - Zuhr Sunnah                                                     |
+| *2:00 PM*            | - Lunch  <br> - Office                                                              |
 
 ---
 
