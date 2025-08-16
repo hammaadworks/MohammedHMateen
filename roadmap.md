@@ -1,5 +1,8 @@
 <details>
-<summary>August 2025 Roadmap</summary>
+<summary>August 2025</summary>
+
+<details>
+<summary>Roadmap</summary>
 
 ### Project Deliverables
 
@@ -106,23 +109,21 @@ Focus: Pharmacies + Grocery Stores as primary launch verticals, with potential e
 - **Topics**
   - Trees
   - Graphs
-  > 8 QPD
+  > 8Q PD
 - **Domains**
   - Leetcode
   - Notes
   - ipynb
 
 #### LLD
-- 10 Design Patterns
-  > P1.5D
-- 4 LLQ
-  > P4D
+- 15 Design Patterns
+  > PD
 
 #### HLD
 - 6 HLQ
   > P2.5D
-- DDIA: 75 Pages
-  > 5 PPD
+- DDIA: 90 Pages
+  > 6 PPD
 
 #### Miscellaneous
 - **Juz 1 x30**
@@ -131,15 +132,80 @@ Focus: Pharmacies + Grocery Stores as primary launch verticals, with potential e
   > Entire Book
 
 ---
+</details>
 
-Alhamdulillah, I’ve decided to start this from 15th August and check my progress at the month end.
+<details>
+<summary>Progress</summary>
 
-May Allah SWT make this effort a means of barakah in Imaan, health, wealth, prosperity, peace, and guidance for me, my pyari family, and the Ummah of Rasoolullah ﷺ in both worlds. Aameen.
+<details>
+<summary>Day 1 - 17</summary>
+- Fajr Sunnah + Surah Al Yaseen
+- 
+</details>
 
+<details>
+<summary>Day 2 - 18</summary>
+</details>
+
+<details>
+<summary>Day 3 - 19</summary>
+</details>
+
+<details>
+<summary>Day 4 - 20</summary>
+</details>
+
+<details>
+<summary>Day 5 - 21</summary>
+</details>
+
+<details>
+<summary>Day 6 - 22</summary>
+</details>
+
+<details>
+<summary>Day 7 - 23</summary>
+</details>
+
+<details>
+<summary>Day 8 - 24</summary>
+</details>
+
+<details>
+<summary>Day 9 - 25</summary>
+</details>
+
+<details>
+<summary>Day 10 - 26</summary>
+</details>
+
+<details>
+<summary>Day 11 - 27</summary>
+</details>
+
+<details>
+<summary>Day 12 - 28</summary>
+</details>
+
+<details>
+<summary>Day 13 - 29</summary>
+</details>
+
+<details>
+<summary>Day 14 - 30</summary>
+</details>
+
+<details>
+<summary>Day 15 - 31</summary>
+</details>
+
+</details>
 </details>
 
 ---
 
+<details>
+<summary> InMasjid Discussions </summary>
 # 🕌 Masjid & Iqaamah Search — Full Architecture & Design Log
 
 **Purpose:**
@@ -494,5 +560,5 @@ CREATE TABLE notification_queue (
 * **Clean separation**: Occasional and non-prayer data moved out.
 * **Future-proof**: Supports global timezone expansion.
 * **Resilient notifications**: Audit + queue separation ensures delivery without blocking writes. Decoupled notification handling.
-
 ---
+</details>
