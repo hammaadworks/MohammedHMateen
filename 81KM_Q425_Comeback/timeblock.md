@@ -8,15 +8,15 @@
 
 | **Duration** | **Activity**     |
 | ------------ | ---------------- |
-| 1hr          | Salah            |
-| 30M          | Qur'an Majeed    |
-| 30M          | Workout          |
-| 2hr 15M      | Entrepreneurship |
-| 1hr 15M      | DSA              |
-| 1hr          | LLD              |
-| 30M          | HLD              |
-| 30M          | Content Practice |
-| 30M          | Portfolio        |
+| 1          | Salah            |
+| 1          | Qur'an Majeed    |
+| 1          | Product Development          |
+| 1      | Product Development & AI |
+| 1      | Product Development & HLD              |
+| 1          | DSA              |
+| 1          | LLD              |
+| 1        | Content Productions/Portfolio |
+| 1          | Workout        |
 
 ### 🔑 Time Management
 
