@@ -8,51 +8,52 @@ We have 90 slots for each of the 9 categories.
 
 ## Goals
 
-1. Salah Athan — Perform every Athan on time and record completion daily for 7 consecutive days.
+> Focused, trackable goals for each category — main goal (bold) followed by a short summary (italic) and actionable sub-goals (blockquote).
 
-- Mark completion for Fajr, Dhuhr, Asr, Maghrib, Isha each day.
-- Attend congregational prayer at least 4 times this week.
-- Log reasons and recovery plan for any missed Athan.
+1. **Salah Athan** — _Perform every Athan on time and record completion daily for 7 consecutive days._
 
-2. Qur'an Majeed — Memorize/review one short surah (or 5–10 ayat) per week from Juz 27 onward.
+   > - **Daily:** Mark completion for Fajr, Dhuhr, Asr, Maghrib, Isha.
+   > - **Congregation:** Attend congregation at least 4 times this week.
+   > - **Recovery:** Log reasons and a short recovery plan for any missed Athan.
 
-- Recite selected ayat daily with tajweed focus.
-- Record an audio review at the end of the week.
+2. **Qur'an Majeed** — _Memorize/review one short surah (5–10 ayat) per week from Juz 27._
 
-3. LLD — Produce one complete LLD notebook with examples and an accompanying explainer each week.
+   > - **Daily practice:** Recite selected ayat with tajweed focus.
+   > - **Weekly deliverable:** Record a short audio review (30–90s).
 
-- Draft notebook outline and key examples by mid-week.
-- Produce a short explainer (500–800 words) or 5–7 minute video.
+3. **LLD** — _Produce one complete LLD notebook with examples and an explainer each week._
 
-4. Product Development: IM — Ship a small interactive demo (SpecKit prototype) for one feature within 2 weeks.
+   > - **By mid-week:** Draft notebook outline and key examples.
+   > - **Deliverable:** Publish an IPYNB and a 500–800 word or 5–7 minute explainer.
 
-- Identify the feature and draft UI/UX spec in 2 days.
-- Build a minimal working demo and deploy to a preview environment.
+4. **Product Development: IM** — _Ship a small interactive demo (SpecKit prototype) for one feature in 2 weeks._
 
-5. Product Development: ZP & HLD — Draft a clear high-level design document for the next landing page by the next sprint.
+   > - **Plan:** Identify feature and draft UI/UX spec within 2 days.
+   > - **Build:** Create minimal demo and deploy to a preview environment.
 
-- Create wireframes and list required components.
-- Define API contract and data flow at a high level.
+5. **Product Development: ZP & HLD** — _Draft a high-level design doc for the next landing page by next sprint._
 
-6. Product Development: ME & AI — Integrate and test one agent end-to-end in SpecKit within 10 days.
+   > - **Design:** Create wireframes and list required components.
+   > - **Architecture:** Define API contract and high-level data flow.
 
-- Implement agent prototype and test on one real dataset.
-- Add basic monitoring/validation for agent outputs.
+6. **Product Development: ME & AI** — _Integrate and test one agent end-to-end in SpecKit within 10 days._
 
-7. DSA — Solve and write up 3 algorithm problems with explanations every week.
+   > - **Prototype:** Implement agent and run on one real dataset.
+   > - **Validation:** Add basic monitoring and quick validation checks.
 
-- Pick problems across Easy/Medium/Hard spectrum.
-- Add time/space analysis and sample inputs/outputs.
+7. **DSA** — _Solve and write up 3 algorithm problems with explanations every week._
 
-8. Workout — Complete and log 4 structured workouts this week (including one heavy-bag session).
+   > - **Selection:** Pick problems across Easy / Medium / Hard.
+   > - **Write-up:** Include time & space complexity and sample inputs/outputs.
 
-- Schedule workouts (days and type) at start of week.
-- Track reps/time and subjective intensity after each session.
+8. **Workout** — _Complete and log 4 structured workouts this week (including one heavy-bag session)._
 
-9. Portfolio & Content Productions — Publish one portfolio piece or short content item (blog/video) every 2 weeks.
+   > - **Schedule:** Plan workout days/types at start of the week.
+   > - **Log:** Track reps, time, and subjective intensity after each session.
 
-- Draft the piece and gather visuals/assets in the first 3 days.
-- Publish and share; track engagement metrics.
+9. **Portfolio & Content Productions** — _Publish one portfolio piece or short content item every 2 weeks._
+   > - **Draft:** Prepare the piece and gather visuals/assets within 3 days.
+   > - **Publish:** Post, share, and track basic engagement metrics.
 
 ---
 
@@ -70,7 +71,7 @@ We have 90 slots for each of the 9 categories.
 |  89 |   1 | Workout                         |
 |  90 |   0 | Portfolio & Content Productions |
 | 800 |  10 | **Total**                       |
-| -62 |  72 | Day Deficit = 8 (x9)             |
+| -62 |  72 | Day Deficit = 8 (x9)            |
 
 ---
 
@@ -130,7 +131,7 @@ We have 90 slots for each of the 9 categories.
 - Singleton design pattern
 - Notebook with code
 
-#### WIP: x.2 — Qur'an Majeed
+#### x.2 — Qur'an Majeed
 
 - Juz 27 (Surah At Tur [Al Barr Ar Raheem])
 - Musabbihaat (Surah Al [Hadeed, Hashr, Jumu'ah])
