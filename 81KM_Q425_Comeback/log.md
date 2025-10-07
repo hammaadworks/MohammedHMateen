@@ -8,44 +8,51 @@ We have 90 slots for each of the 9 categories.
 
 ## Goals
 
-One-line goals for each category (quick, actionable targets):
-
 1. Salah Athan — Perform every Athan on time and record completion daily for 7 consecutive days.
-  - Mark completion for Fajr, Dhuhr, Asr, Maghrib, Isha each day.
-  - Attend congregational prayer at least 4 times this week.
-  - Log reasons and recovery plan for any missed Athan.
+
+- Mark completion for Fajr, Dhuhr, Asr, Maghrib, Isha each day.
+- Attend congregational prayer at least 4 times this week.
+- Log reasons and recovery plan for any missed Athan.
 
 2. Qur'an Majeed — Memorize/review one short surah (or 5–10 ayat) per week from Juz 27 onward.
-  - Recite selected ayat daily with tajweed focus.
-  - Record an audio review at the end of the week.
+
+- Recite selected ayat daily with tajweed focus.
+- Record an audio review at the end of the week.
 
 3. LLD — Produce one complete LLD notebook with examples and an accompanying explainer each week.
-  - Draft notebook outline and key examples by mid-week.
-  - Produce a short explainer (500–800 words) or 5–7 minute video.
+
+- Draft notebook outline and key examples by mid-week.
+- Produce a short explainer (500–800 words) or 5–7 minute video.
 
 4. Product Development: IM — Ship a small interactive demo (SpecKit prototype) for one feature within 2 weeks.
-  - Identify the feature and draft UI/UX spec in 2 days.
-  - Build a minimal working demo and deploy to a preview environment.
+
+- Identify the feature and draft UI/UX spec in 2 days.
+- Build a minimal working demo and deploy to a preview environment.
 
 5. Product Development: ZP & HLD — Draft a clear high-level design document for the next landing page by the next sprint.
-  - Create wireframes and list required components.
-  - Define API contract and data flow at a high level.
+
+- Create wireframes and list required components.
+- Define API contract and data flow at a high level.
 
 6. Product Development: ME & AI — Integrate and test one agent end-to-end in SpecKit within 10 days.
-  - Implement agent prototype and test on one real dataset.
-  - Add basic monitoring/validation for agent outputs.
+
+- Implement agent prototype and test on one real dataset.
+- Add basic monitoring/validation for agent outputs.
 
 7. DSA — Solve and write up 3 algorithm problems with explanations every week.
-  - Pick problems across Easy/Medium/Hard spectrum.
-  - Add time/space analysis and sample inputs/outputs.
+
+- Pick problems across Easy/Medium/Hard spectrum.
+- Add time/space analysis and sample inputs/outputs.
 
 8. Workout — Complete and log 4 structured workouts this week (including one heavy-bag session).
-  - Schedule workouts (days and type) at start of week.
-  - Track reps/time and subjective intensity after each session.
+
+- Schedule workouts (days and type) at start of week.
+- Track reps/time and subjective intensity after each session.
 
 9. Portfolio & Content Productions — Publish one portfolio piece or short content item (blog/video) every 2 weeks.
-  - Draft the piece and gather visuals/assets in the first 3 days.
-  - Publish and share; track engagement metrics.
+
+- Draft the piece and gather visuals/assets in the first 3 days.
+- Publish and share; track engagement metrics.
 
 ---
 
