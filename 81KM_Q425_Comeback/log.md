@@ -98,12 +98,12 @@ We have 90 slots for each of the 9 categories.
 
 #### x.2 — Workout
 
-- 15 / 100
+- 45 / 100
 - Found new 5Mx workout plans to tackle the deficit
 
 #### x.2 — Salah Athan
 
-- 12A / 13A — Alhamdulillah
+- 11 / 13A — Alhamdulillah
 
 #### x.3 — LLD
 
@@ -130,6 +130,18 @@ We have 90 slots for each of the 9 categories.
 - Explainer content
 - Singleton design pattern
 - Notebook with code
+
+#### x.4 — Qur'an Majeed
+
+- Juz 27
+- Musabbihaat (Surah Al [Isra, Hadeed, Hashr, Saff, Jumu'ah, Taghabun, A'la])
+- Salah Surah (Surah Al [Yaseen, Fath, Nuh])
+
+#### x.3 — Qur'an Majeed
+
+- Juz 27
+- Musabbihaat (Surah Al [Isra, Hashr, Jumu'ah, Taghabun, A'la])
+- Salah Surah (Surah Al [Yaseen, Fath, Nuh])
 
 #### x.2 — Qur'an Majeed
 
