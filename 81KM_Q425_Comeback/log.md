@@ -1,125 +1,174 @@
-We have 90 slots for each of the 9 categories
-Total = 90 * 9 = 810 slots = 81KM Alhamdulillah!!
+# 81KM_Q425_Comeback — Log
 
----------------------------------
-| YTS | WIP | OK  | Categories  |
----------------------------------
-| 89  | 0   | 1   | Salah Athan |
-| 88  | 1   | 1   | Qur'an  |
-| 90  | 0   | 0   | Product Development |
-| 87  | 3   | 0   | Product Development & AI  |
-| 90  | 0   | 0   | Product Development & HLD |
-| 90  | 0   | 0   | DSA |
-| 89  | 1   | 0   | LLD |
-| 89  | 1   | 0   | Workout |
-| 90  | 0   | 0   | Portfolio & Content Productions |
----------------------------
-| 808 | 0   | 2   | Total |
----------------------------
+## Summary
 
-----------------------------------------------------------------------------------------
+We have 90 slots for each of the 9 categories.
 
-# 1007
+- Total slots: **90 × 9 = 810** (81KM) — Alhamdulillah!
+
+## Goals
 
 
-## WIP: x.2 : Salah Athan
-Log:
-  - 7/13A Alhamdulillah
+---
 
-## WIP: 6.1 : LLD
-Log:
-  - WIP:
-    - 60/100
-    - Timelapse recording
-  - Singleton Design Pattern
-  - Strategy Design Pattern
-  - Notebook with code.
+## Progress Chart
+ 
+| YTS | OK | Categories |
 
-## WIP: 3.2 : Qur'an Majeed
-Log:
-  - Surah Al (Isra, Waaqiah, A'la, Mulk)
-  - Juz 27[:Surah Ar Tur(Al Barr Ar Raheem)]
+| 89 | 1 | Salah Athan |
+| 88 | 1 | Qur'an Majeed |
+| 90 | 0 | LLD |
+| 90 | 0 | Product Development:IM |
+| 90 | 0 | Product Development:ZP & HLD |
+| 83 | 7 | Product Development:ME & AI |
+| 90 | 0 | DSA |
+| 89 | 1 | Workout |
+| 90 | 0 | Portfolio & Content Productions |
+| 800 | 10 | Total |
+| -53 | 63 | Day Deficit = 7 (x9) | 
 
-----------------------------------------------------------------------------------------
+---
 
-# 1006
+## Logs
 
-## 10.1 : Workout
-Log:
-  - Cycled to Masjid Al Mamoor
-  - 20M intense Heavy Bag.
-  - Scrapped Diet, Full Fat Full Sugar
+### 1008
 
-## 9.1 : Entrepreneurship (Product Development)
-Log:
-  - ZupFam Menu Feature
-  - Runway development using SpecKit
+---
 
-## 8.6 : AI
-Log:
-  - [Dishgram Comparisions](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink)
-  - Kickoff Unified Tasks plan > Jules
-  - Push a vibe coding platform like lovable
-  - Compare Jules , Speckit , Vibe coding (lovable)
+### 1007
 
+#### x.8 — Product Development: ME & AI
 
-## 7.5 : AI
-Log:
-  - [Dishgram Comparisions](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink)
-  - Updated AGENTS.md to deploy to vercel
-  - Starting Vanilla Spec Kit + Agents
-  - Starting Mod SpecKit + Agents
-  - Comparing the Tasks Plans of vanilla and mod
+- Full focus on ZupFam menu feature: SpecKit + Jules
+- Need to build a process to develop good sites for businesses with AI
+- Potential Clients:
+  1. Menu
+    - Al Taiba Chicken
+    - Local Vendors
+    - Publicity Stunt
+  2. Classified Websites
+    - Boom Pizza
+    - Side Hustle
 
-## 6.4 : AI
-Log:
-  - [Dishgram Comparisions](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink)
-  - Updated AGENTS.md to deploy to vercel
-  - Learnt about jina.ai/reader. They have a two cool stuff
-    1. Reader r.jina.ai/url : HTML to LLM md
-    2. s.jina.ai/url: HTML to SERP data
-    3. reader: HTML to md/json
-    4. mcp.jina.ai.
-    5. This can cutout CORS acting as a global CORS proxy.
-  - Started Jules Vibe Task
-  - Starting Vanilla Spec Kit + Agents
-  - Starting Mod SpecKit + Agents
-  - Comparing the Tasks Plans of vanilla and mod
-  - Kickoff Unified Tasks plan > Jules
-  - Push a vibe coding platform like lovable
-  - Compare Jules , Speckit , Vibe coding (lovable)
+#### x.2 — Workout
 
-## 5.3 : AI
-Log:
-  - Pulled in changes from [`GitHub SpecKit`](https://github.com/github/spec-kit) and [`PRPs`](https://github.com/Wirasm/PRPs-agentic-eng) for modifications.
-  - Updated `clarify` and removed the 5 questions limit.
-  - Looks like I only need to maintain `AGENTS.md` as the other stuff has hardly changed.
-  - Nonetheless, pushed the updated to [specialized-spec-kit](https://github.com/hammaadworks/specialized-spec-kit)
+- 15 / 100
+- Found new 5Mx workout plans to tackle the deficit
 
-## 4.2 : AI
-Log:
-  - Built `AGENTS.md` to leverage `GitHub SpecKit` for the best frontend dev.
-  - Plans to compare speckit with jules vibe coding
-  - Making dishgram for test comparisons.
+#### x.2 — Salah Athan
 
-## 3.1 : AI
-Log:
-  - Updated macOS and iOS to glassmorphic UI
-  - Installed Jules with Google Pro
-  - SpecKit modifications for the best frontend dev
-  - Started tweaking AGENTS.md for SpecKit
-  - Inspirations from Unicorn.studio and other cool landing.love and 21dev mcp too.
+- 12A / 13A — Alhamdulillah
 
-----------------------------------------------------------------------------------------
+#### x.3 — LLD
 
-# 1005
+- Handwritten notes
+- IPYNB (notebook)
+- Udemy + example walkthroughs
+- Singleton design patterns
+- Strategy design patterns
+- Notebook with runnable code
 
-## 2.1 : Qur'an Majeed
-Log:
-  - Juz 27
-  - Musabbihaat
-  - Salah Surah
+#### x.2 — LLD
 
-## 1.1 : Salah Athan
-Log:
-  - 13A/13A Alhamdulillah
+- Handwritten notes
+- IPYNB
+- Udemy + examples
+- Strategy design pattern
+- Notebook with code
+
+#### x.1 — LLD
+
+- Handwritten notes
+- IPYNB
+- Udemy + examples
+- Explainer content
+- Singleton design pattern
+- Notebook with code
+
+#### WIP: x.2 — Qur'an Majeed
+
+- Juz 27 (Surah At Tur [Al Barr Ar Raheem])
+- Musabbihaat (Surah Al [Hadeed, Hashr, Jumu'ah]) 
+- Salah Surah (Surah Al [Yaseen, Nuh]) 
+
+---
+
+### 1006
+
+#### 10.1 — Workout
+
+- Cycled to Masjid Al Mamoor
+- 20 minutes intense heavy bag
+- Diet: reverted to full fat / full sugar (scrapped previous diet)
+
+#### 9.7 — Product Development: ME & AI
+
+- ZupFam menu feature
+- Runway development using SpecKit + Jules
+
+#### 8.6 — Product Development: ME & AI
+
+- Dishgram comparisons — link preserved
+  ([Dishgram Comparisons](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink))
+- Kickoff unified tasks plan (Jules)
+- Exploring a 'vibe coding' platform (Lovable); compare Jules, SpecKit, Vibe coding
+
+#### 7.5 — Product Development: ME & AI
+
+- Dishgram comparisons (see link above)
+- Updated `AGENTS.md` for Vercel deployment
+- Started: Vanilla SpecKit + Agents and Mod SpecKit + Agents
+- Comparing task plans between vanilla and mod
+
+#### 6.4 — Product Development: ME & AI
+
+- Dishgram comparisons (link above)
+- Updated `AGENTS.md` for Vercel
+- Notes on jina.ai/reader (useful utilities):
+  1. r.jina.ai/url — HTML → LLM-ready markdown
+  2. s.jina.ai/url — HTML → SERP-like data
+  3. reader — HTML → md/json
+  4. mcp.jina.ai (MCP endpoints)
+  5. Can be used to bypass CORS (acts like a global CORS proxy in some workflows)
+- Started Jules Vibe task and continued SpecKit + Agents work
+- Comparing plans and pushing unified task kickoff (Jules)
+
+#### 5.3 — Product Development: ME & AI
+
+- Pulled changes from `GitHub SpecKit` and `PRPs` for modifications
+- Updated `clarify` and removed the 5-questions limit
+- `AGENTS.md` appears to be the main file to maintain; other upstream files changed little
+- Pushed updates to [specialized-spec-kit](https://github.com/hammaadworks/specialized-spec-kit)
+
+#### 4.2 — Product Development: ME & AI
+
+- Built `AGENTS.md` to leverage `GitHub SpecKit` for frontend development
+- Planned comparisons between SpecKit and Jules (vibe coding)
+- Created Dishgram tests for comparisons
+
+#### 3.1 — Product Development: ME & AI
+
+- Updated macOS and iOS concepts to glassmorphic UI
+- Installed Jules with Google Pro
+- SpecKit tweaks for improved frontend development
+- Began refining `AGENTS.md` for SpecKit
+- Inspirations: Unicorn.studio, landing.love, 21dev MCP
+
+---
+
+### 1005
+
+#### 2.1 — Qur'an Majeed
+
+- Juz 27
+- Musabbihaat recitation
+- Salah surah practice
+
+#### 1.1 — Salah Athan
+
+- 13A / 13A — Alhamdulillah
+
+---
+
+This is my last chance!
+Alhamdulillah — Need to please ALLAH SWT, following Rasoolullah SAW, empowering my family, achieving my goals and fixing myself.
