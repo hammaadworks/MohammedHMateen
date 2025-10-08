@@ -61,27 +61,46 @@ We have 90 slots for each of the 9 categories.
 
 | YTS |  OK | Categories                      |
 | --: | --: | :------------------------------ |
-|  89 |   1 | Salah Athan                     |
+|  89 |   2 | Salah Athan                     |
 |  88 |   1 | Qur'an Majeed                   |
 |  90 |   0 | LLD                             |
 |  90 |   0 | Product Development: IM         |
 |  90 |   0 | Product Development: ZP & HLD   |
 |  83 |   7 | Product Development: ME & AI    |
 |  90 |   0 | DSA                             |
-|  89 |   1 | Workout                         |
+|  89 |   2 | Workout                         |
 |  90 |   0 | Portfolio & Content Productions |
-| 800 |  10 | **Total**                       |
-| -62 |  72 | Day Deficit = 8 (x9)            |
+| 800 |  12 | **Total**                       |
+| -69 |  81 | Day Deficit = 9 (x9)            |
 
 ---
 
 ## Logs
 
-### 1008
+### 1009
+
+#### x.10 — Product Development: ME & AI
+
+- Dishgram comparisons — _complete content recording_
+  ([Dishgram Comparisons](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink))
+
 
 ---
 
-### 1007
+### 1008
+
+#### x.9 — Product Development: ME & AI
+
+- Full focus on ZupFam menu feature: SpecKit + Jules
+- Need to build a process to develop good sites for businesses with AI
+- Potential Clients:
+  1. Menu
+  - Al Taiba Chicken
+  - Local Vendors
+  - Publicity Stunt
+  2. Classified Websites
+  - Boom Pizza
+  - Side Hustle
 
 #### x.8 — Product Development: ME & AI
 
@@ -95,15 +114,6 @@ We have 90 slots for each of the 9 categories.
   2. Classified Websites
   - Boom Pizza
   - Side Hustle
-
-#### x.2 — Workout
-
-- 45 / 100
-- Found new 5Mx workout plans to tackle the deficit
-
-#### x.2 — Salah Athan
-
-- 11 / 13A — Alhamdulillah
 
 #### x.3 — LLD
 
@@ -139,15 +149,33 @@ We have 90 slots for each of the 9 categories.
 
 #### x.3 — Qur'an Majeed
 
-- Juz 27
-- Musabbihaat (Surah Al [Isra, Hashr, Jumu'ah, Taghabun, A'la])
+- Juz 27 [- Surah Al [Waaqiah]]
+- Musabbihaat (Surah Al [Isra, Hashr])
 - Salah Surah (Surah Al [Yaseen, Fath, Nuh])
 
 #### x.2 — Qur'an Majeed
 
 - Juz 27 (Surah At Tur [Al Barr Ar Raheem])
-- Musabbihaat (Surah Al [Hadeed, Hashr, Jumu'ah])
-- Salah Surah (Surah Al [Yaseen, Nuh])
+- Musabbihaat (Surah Al [Hashr])
+- Salah Surah (Surah Al [Yaseen])
+
+#### 11.3 — Salah Athan
+
+- 0 / 13A — Alhamdulillah
+
+---
+
+### 1007
+
+#### 12.2 — Workout
+
+- 45 / 100
+- Found new 5Mx workout plans to tackle the deficit
+- Extreme cycling and aggressive heavy punches hack.
+
+#### 11.2 — Salah Athan
+
+- 13A / 13A — Alhamdulillah
 
 ---
 
