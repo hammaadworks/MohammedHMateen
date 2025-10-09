@@ -77,12 +77,12 @@ We have 90 slots for each of the 9 categories.
 
 ## Logs
 
-> Starting the YumYum challenge 10, 11, 12
+> Bismillah, Starting the YumYum challenge 10, 11, 12
 > Need to complete
 > 3 Salah, 3 Qur'an, 6 PDAI (Frontend), 6 PDHLD (Conversations), 6PDIMZP (Product)
 > 3 LLD, 3 Workout, 1 Content Raw Clippings and Ideas to Edit
 > Total 31 => -65 manageable deficit log
-> Celebrations!!
+> Celebrations Alhamdulillah!!
 
 ### 1009
 
