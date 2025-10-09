@@ -61,21 +61,28 @@ We have 90 slots for each of the 9 categories.
 
 | YTS |  OK | Categories                      |
 | --: | --: | :------------------------------ |
-|  89 |   2 | Salah Athan                     |
-|  88 |   1 | Qur'an Majeed                   |
-|  90 |   0 | LLD                             |
-|  90 |   0 | Product Development: IM         |
-|  90 |   0 | Product Development: ZP & HLD   |
-|  83 |   7 | Product Development: ME & AI    |
-|  90 |   0 | DSA                             |
-|  89 |   2 | Workout                         |
-|  90 |   0 | Portfolio & Content Productions |
+|  88 |  02 | Salah Athan                     |
+|  89 |  01 | Qur'an Majeed                   |
+|  90 |  00 | LLD                             |
+|  90 |  00 | Product Development: IM & ZP    |
+|  90 |  00 | Product Development: ZP & HLD   |
+|  83 |  07 | Product Development: ME & AI    |
+|  90 |  00 | DSA                             |
+|  89 |  02 | Workout                         |
+|  90 |  00 | Portfolio & Content Productions |
 | 800 |  12 | **Total**                       |
-| -69 |  81 | Day Deficit = 9 (x9)            |
+| -96 | 108 | Day Deficit = 12 (x9)            |
 
 ---
 
 ## Logs
+
+> Starting the YumYum challenge 10, 11, 12
+> Need to complete
+> 3 Salah, 3 Qur'an, 6 PDAI (Frontend), 6 PDHLD (Conversations), 6PDIMZP (Product)
+> 3 LLD, 3 Workout, 1 Content Raw Clippings and Ideas to Edit
+> Total 31 => -65 manageable deficit log
+> Celebrations!!
 
 ### 1009
 
@@ -94,13 +101,10 @@ We have 90 slots for each of the 9 categories.
 - Full focus on ZupFam menu feature: SpecKit + Jules
 - Need to build a process to develop good sites for businesses with AI
 - Potential Clients:
-  1. Menu
+  1. Menu: Focus
   - Al Taiba Chicken
   - Local Vendors
   - Publicity Stunt
-  2. Classified Websites
-  - Boom Pizza
-  - Side Hustle
 
 #### x.8 — Product Development: ME & AI
 
@@ -141,17 +145,23 @@ We have 90 slots for each of the 9 categories.
 - Singleton design pattern
 - Notebook with code
 
+#### x.1 — DSA
+
+- Kickoff TUF A2Z program
+- Handwritten
+- IPYNB
+
 #### x.4 — Qur'an Majeed
 
-- Juz 27
-- Musabbihaat (Surah Al [Isra, Hadeed, Hashr, Saff, Jumu'ah, Taghabun, A'la])
+- Juz 27 [- Surah Al [Waaqiah]]
+- Musabbihaat (Surah Al [Hadeed, Hashr, Saff, Jumu'ah, Taghabun, A'la])
 - Salah Surah (Surah Al [Yaseen, Fath, Nuh])
 
 #### x.3 — Qur'an Majeed
 
 - Juz 27 [- Surah Al [Waaqiah]]
-- Musabbihaat (Surah Al [Isra, Hashr])
-- Salah Surah (Surah Al [Yaseen, Fath, Nuh])
+- Musabbihaat (Surah Al [Hashr])
+- Salah Surah (Surah Al [Yaseen, Nuh])
 
 #### x.2 — Qur'an Majeed
 
@@ -159,9 +169,15 @@ We have 90 slots for each of the 9 categories.
 - Musabbihaat (Surah Al [Hashr])
 - Salah Surah (Surah Al [Yaseen])
 
-#### 11.3 — Salah Athan
+#### x.3 — Salah Athan
 
-- 0 / 13A — Alhamdulillah
+- 1A / 13A — Alhamdulillah
+
+#### x.3 — Workout
+
+- 30 / 100
+- 5Mx aggressive heavy bag / workout plans.
+- Cycling
 
 ---
 
