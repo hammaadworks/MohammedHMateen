@@ -8,55 +8,6 @@ We have 90 slots for each of the 9 categories.
 
 ## Goals
 
-> Focused, trackable goals for each category — main goal (bold) followed by a short summary (italic) and actionable sub-goals (blockquote).
-
-1. **Salah Athan** — _Perform every Athan on time and record completion daily for 7 consecutive days._
-
-   > - **Daily:** Mark completion for Fajr, Dhuhr, Asr, Maghrib, Isha.
-   > - **Congregation:** Attend congregation at least 4 times this week.
-   > - **Recovery:** Log reasons and a short recovery plan for any missed Athan.
-
-2. **Qur'an Majeed** — _Memorize/review one short surah (5–10 ayat) per week from Juz 27._
-
-   > - **Daily practice:** Recite selected ayat with tajweed focus.
-   > - **Weekly deliverable:** Record a short audio review (30–90s).
-
-3. **LLD** — _Produce one complete LLD notebook with examples and an explainer each week._
-
-   > - **By mid-week:** Draft notebook outline and key examples.
-   > - **Deliverable:** Publish an IPYNB and a 500–800 word or 5–7 minute explainer.
-
-4. **Product Development: IM** — _Ship a small interactive demo (SpecKit prototype) for one feature in 2 weeks._
-
-   > - **Plan:** Identify feature and draft UI/UX spec within 2 days.
-   > - **Build:** Create minimal demo and deploy to a preview environment.
-
-5. **Product Development: ZP & HLD** — _Draft a high-level design doc for the next landing page by next sprint._
-
-   > - **Design:** Create wireframes and list required components.
-   > - **Architecture:** Define API contract and high-level data flow.
-
-6. **Product Development: ME & AI** — _Integrate and test one agent end-to-end in SpecKit within 10 days._
-
-   > - **Prototype:** Implement agent and run on one real dataset.
-   > - **Validation:** Add basic monitoring and quick validation checks.
-
-7. **DSA** — _Solve and write up 3 algorithm problems with explanations every week._
-
-   > - **Selection:** Pick problems across Easy / Medium / Hard.
-   > - **Write-up:** Include time & space complexity and sample inputs/outputs.
-
-8. **Workout** — _Complete and log 4 structured workouts this week (including one heavy-bag session)._
-
-   > - **Schedule:** Plan workout days/types at start of the week.
-   > - **Log:** Track reps, time, and subjective intensity after each session.
-
-9. **Portfolio & Content Productions** — _Publish one portfolio piece or short content item every 2 weeks._
-   > - **Draft:** Prepare the piece and gather visuals/assets within 3 days.
-   > - **Publish:** Post, share, and track basic engagement metrics.
-
----
-
 ## Progress Chart
 
 | YTS |  OK | Categories                      |
