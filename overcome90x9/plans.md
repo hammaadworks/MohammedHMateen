@@ -69,7 +69,7 @@ In Sha Allah the reward for satifactory completions of the challenge is Kochi Wo
 - [ ] 4:30 AM Tahajjud Salah
 - [ ] Athan Practice
 - [ ] 13 x 2 Rakahs Sunnah
-- [ ] 31 Fasts
+- [ ] 33 Fasts
 
 ### 2. Qur'an Majeed
 **Goal:** Juz 27, Musabbihaat, Salah Surahs

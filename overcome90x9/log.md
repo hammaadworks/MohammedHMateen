@@ -10,28 +10,27 @@ We have 90 slots for each of the 9 categories.
 
 ## Progress Chart
 
-| YTS |  OK | Categories                      |
-| --: | --: | :------------------------------ |
-|  87 |  03 | Salah Athan                     |
-|  89 |  01 | Qur'an Majeed                   |
-|  90 |  00 | LLD                             |
-|  90 |  00 | Product Development: IM & ZP    |
-|  90 |  00 | Product Development: ZP & HLD   |
-|  83 |  07 | Product Development: ME & AI    |
-|  90 |  00 | DSA                             |
-|  87 |  03 | Workout                         |
-|  90 |  00 | Portfolio & Content Productions |
-| 800 |  14 | **Total**                       |
-|-166 | 180 | Day Deficit = 20 (x9)            |
+|  YTS |  OK | Categories                      |
+| ---: | --: | :------------------------------ |
+|   87 |  03 | Salah                           |
+|   89 |  01 | Qur'an Majeed                   |
+|   90 |  00 | LLD                             |
+|   90 |  00 | InMasjid                        |
+|   90 |  00 | ZupFam & Side Hustles           |
+|   83 |  07 | AI & HLD                        |
+|   90 |  00 | DSA                             |
+|   87 |  03 | Workout                         |
+|   90 |  00 | Portfolio & Content Productions |
+|  800 |  14 | **Total**                       |
+| -166 | 180 | Day Deficit = 20 (x9)            |
 
 ---
 
 ## Logs
 
-
 ### 1008
 
-#### x.8 — Product Development: ME & AI
+#### x.8 — AI & HLD
 
 - Full focus on ZupFam menu feature: SpecKit + Jules
 - Need to build a process to develop good sites for businesses with AI
@@ -45,7 +44,6 @@ We have 90 slots for each of the 9 categories.
   - Side Hustle
 - Dishgram comparisons — _complete content recording_
   ([Dishgram Comparisons](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink))
-
 
 #### x.1 — LLD
 
@@ -78,12 +76,11 @@ We have 90 slots for each of the 9 categories.
 
 - Juz 27 (Surah At Tur [Al Barr Ar Raheem], Qamar, Rahaman, Najm:41)
 
-
 ---
 
 ### 1017
 
-#### 14.3 — Salah Athan
+#### 14.3 — Salah
 
 - 13A / 13A — Alhamdulillah
 
@@ -100,7 +97,7 @@ We have 90 slots for each of the 9 categories.
 - Found new 5Mx workout plans to tackle the deficit
 - Extreme cycling and aggressive heavy punches hack.
 
-#### 11.2 — Salah Athan
+#### 11.2 — Salah
 
 - 13A / 13A — Alhamdulillah
 
@@ -114,26 +111,26 @@ We have 90 slots for each of the 9 categories.
 - 20 minutes intense heavy bag
 - Diet: reverted to full fat / full sugar (scrapped previous diet)
 
-#### 9.7 — Product Development: ME & AI
+#### 9.7 — AI & HLD
 
 - ZupFam menu feature
 - Runway development using SpecKit + Jules
 
-#### 8.6 — Product Development: ME & AI
+#### 8.6 — AI & HLD
 
 - Dishgram comparisons — link preserved
   ([Dishgram Comparisons](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink))
 - Kickoff unified tasks plan (Jules)
 - Exploring a 'vibe coding' platform (Lovable); compare Jules, SpecKit, Vibe coding
 
-#### 7.5 — Product Development: ME & AI
+#### 7.5 — AI & HLD
 
 - Dishgram comparisons (see link above)
 - Updated `AGENTS.md` for Vercel deployment
 - Started: Vanilla SpecKit + Agents and Mod SpecKit + Agents
 - Comparing task plans between vanilla and mod
 
-#### 6.4 — Product Development: ME & AI
+#### 6.4 — AI & HLD
 
 - Dishgram comparisons (link above)
 - Updated `AGENTS.md` for Vercel
@@ -146,20 +143,20 @@ We have 90 slots for each of the 9 categories.
 - Started Jules Vibe task and continued SpecKit + Agents work
 - Comparing plans and pushing unified task kickoff (Jules)
 
-#### 5.3 — Product Development: ME & AI
+#### 5.3 — AI & HLD
 
 - Pulled changes from `GitHub SpecKit` and `PRPs` for modifications
 - Updated `clarify` and removed the 5-questions limit
 - `AGENTS.md` appears to be the main file to maintain; other upstream files changed little
 - Pushed updates to [specialized-spec-kit](https://github.com/hammaadworks/specialized-spec-kit)
 
-#### 4.2 — Product Development: ME & AI
+#### 4.2 — AI & HLD
 
 - Built `AGENTS.md` to leverage `GitHub SpecKit` for frontend development
 - Planned comparisons between SpecKit and Jules (vibe coding)
 - Created Dishgram tests for comparisons
 
-#### 3.1 — Product Development: ME & AI
+#### 3.1 — AI & HLD
 
 - Updated macOS and iOS concepts to glassmorphic UI
 - Installed Jules with Google Pro
@@ -177,7 +174,7 @@ We have 90 slots for each of the 9 categories.
 - Musabbihaat recitation
 - Salah surah practice
 
-#### 1.1 — Salah Athan
+#### 1.1 — Salah
 
 - 13A / 13A — Alhamdulillah
 
