@@ -12,50 +12,24 @@ We have 90 slots for each of the 9 categories.
 
 | YTS |  OK | Categories                      |
 | --: | --: | :------------------------------ |
-|  88 |  02 | Salah Athan                     |
+|  87 |  03 | Salah Athan                     |
 |  89 |  01 | Qur'an Majeed                   |
 |  90 |  00 | LLD                             |
 |  90 |  00 | Product Development: IM & ZP    |
 |  90 |  00 | Product Development: ZP & HLD   |
 |  83 |  07 | Product Development: ME & AI    |
 |  90 |  00 | DSA                             |
-|  89 |  02 | Workout                         |
+|  87 |  03 | Workout                         |
 |  90 |  00 | Portfolio & Content Productions |
-| 800 |  12 | **Total**                       |
-| -96 | 108 | Day Deficit = 12 (x9)            |
+| 800 |  14 | **Total**                       |
+|-166 | 180 | Day Deficit = 20 (x9)            |
 
 ---
 
 ## Logs
 
-> Bismillah, Starting the YumYum challenge 10, 11, 12
-> Need to complete
-> 3 Salah, 3 Qur'an, 6 PDAI (Frontend), 6 PDHLD (Conversations), 6PDIMZP (Product)
-> 3 LLD, 3 Workout, 1 Content Raw Clippings and Ideas to Edit
-> Total 31 => -65 manageable deficit log
-> Celebrations Alhamdulillah!!
-
-### 1009
-
-#### x.10 — Product Development: ME & AI
-
-- Dishgram comparisons — _complete content recording_
-  ([Dishgram Comparisons](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink))
-
-
----
 
 ### 1008
-
-#### x.9 — Product Development: ME & AI
-
-- Full focus on ZupFam menu feature: SpecKit + Jules
-- Need to build a process to develop good sites for businesses with AI
-- Potential Clients:
-  1. Menu: Focus
-  - Al Taiba Chicken
-  - Local Vendors
-  - Publicity Stunt
 
 #### x.8 — Product Development: ME & AI
 
@@ -69,23 +43,9 @@ We have 90 slots for each of the 9 categories.
   2. Classified Websites
   - Boom Pizza
   - Side Hustle
+- Dishgram comparisons — _complete content recording_
+  ([Dishgram Comparisons](https://ssguk6wubeax.sg.larksuite.com/wiki/ZnGhwtcSzipmeOkoV2VlxZlogId?from=from_copylink))
 
-#### x.3 — LLD
-
-- Handwritten notes
-- IPYNB (notebook)
-- Udemy + example walkthroughs
-- Singleton design patterns
-- Strategy design patterns
-- Notebook with runnable code
-
-#### x.2 — LLD
-
-- Handwritten notes
-- IPYNB
-- Udemy + examples
-- Strategy design pattern
-- Notebook with code
 
 #### x.1 — LLD
 
@@ -106,29 +66,30 @@ We have 90 slots for each of the 9 categories.
 
 - Juz 27 [- Surah Al [Waaqiah]]
 - Musabbihaat (Surah Al [Hadeed, Hashr, Saff, Jumu'ah, Taghabun, A'la])
-- Salah Surah (Surah Al [Yaseen, Fath, Nuh])
+- Salah Surah (Surah Al [Nuh])
 
 #### x.3 — Qur'an Majeed
 
-- Juz 27 [- Surah Al [Waaqiah]]
+- Juz 27 [- Surah Al [Qamar, Rahaman, Najm:41, Dhariyat, Tur:Al Barr Al Raheem]
 - Musabbihaat (Surah Al [Hashr])
-- Salah Surah (Surah Al [Yaseen, Nuh])
+- Salah Surah (Surah Al [Nuh])
 
 #### x.2 — Qur'an Majeed
 
-- Juz 27 (Surah At Tur [Al Barr Ar Raheem])
-- Musabbihaat (Surah Al [Hashr])
-- Salah Surah (Surah Al [Yaseen])
+- Juz 27 (Surah At Tur [Al Barr Ar Raheem], Qamar, Rahaman, Najm:41)
 
-#### x.3 — Salah Athan
 
-- 1A / 13A — Alhamdulillah
+---
 
-#### x.3 — Workout
+### 1017
 
-- 30 / 100
-- 5Mx aggressive heavy bag / workout plans.
-- Cycling
+#### 14.3 — Salah Athan
+
+- 13A / 13A — Alhamdulillah
+
+#### 13.3 — Workout
+
+- Friday Masjid Ma'moor Cycling
 
 ---
 
@@ -136,7 +97,6 @@ We have 90 slots for each of the 9 categories.
 
 #### 12.2 — Workout
 
-- 45 / 100
 - Found new 5Mx workout plans to tackle the deficit
 - Extreme cycling and aggressive heavy punches hack.
 
