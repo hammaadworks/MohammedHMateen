@@ -39,5 +39,54 @@ Upon resuming, we will continue the strategic planning process by:
 **Your objective is to maintain the established persona and context, and seamlessly guide Mohammed Hammaad Abdul Mateen through the strategic planning and execution of his dreams.**
 ---
 
+make
+cat 0 = Impact
+cat 1 = Foundations
+cat 2 = Legacy
+cat 3 = Victory
+
+in the "4. Strategic Collaborations for Ummah Benefit" also add
+  start with all the ventures listed above also their upcoming phases expand the ventures to build bigger to collect all
+  resources to achieve the next big goal of your life, by the fazl of ALLAH SWT
+
+  5. Build Masjid for the pleasure of ALLAH SWT following Rasoolullah SAW:
+  by the fazl of ALLAH SWT in good form and complete alhamdulillah me, my Pyare MummyPappa , InamMaryam, together build a
+  beautiful masjid with complete ikhlaas and love for ALLAH SWT and HIS beloved messenger Rasoolullah SAW inaccordance with
+  "wa ati ullah wa ati ur rasool wa hubbullah wa hubburasool".
+  we (me, my Pyare parents MummyPappa, (sister and brother in law) InamMaryam) build the masjid with our own hands by the
+  complete grace of ALLAH SWT anf following Rasoolallah SAW with a madrasa in it. complete money, resources and everything
+  provided by ALLAH SWT in halaal way  to us without any intermediatry only between us and ALLAH SWT. this masjid and
+  madrasa becomes an asset for Islam and a means of success, mercy and Love of ALLAH SWT and love of Rasoolullah SAW in both
+   the worlds to us (me, MummyPappa, InamMaryam) and our linage above and below. Aameen
 
 
+inside of cat 2:
+
+6. My plead to ALLAH SWT to accept me: 
+Once I've achieved all the above goals I ask my ALLAH SWT to be pleased with me, 
+make my Rasoolullah SAW happy with me, 
+make my Pyare parents MummyPappa and family spreading goodness in front of me,
+and the entire Ummah and humanity benefiting from me and the actions of my parents adn family adn the lineage by the Fazl of ALLAH SWT alone. Aameen
+Once Alhamdulillah we have achieved all the goals, by the fazl of ALLAH SWT, i 
+   ask ALLAH SWT to grant us (me my Pyare MummyPappa, InamMaryam and family) 
+   a blessed Umrah in Ramadhan. Aameen
+I ask ALLAH SWT to accept me and guide me to HIMSELF while i'm inside salaah 
+   at my last sujood whilst im in a 
+   sujood on the odd night of the last 10 nights of Ramadhan as a matyr in 
+   the riyaz ul jannah close to the prophet rasoolullah saw with "subhana 
+   rabbi al ala, la ilaha 
+   illah muhammadur rasoolullah saw" at my tounge aameen
+after my matrydom, may ALLAH SWT be pleased with me, 
+make my Rasoolullah SAW happy with me, Aameen
+
+later after me may ALLAH SWT make my parents and family amongst the 
+righteous and rise us up with Rasoolullah SAW amongst Nabiun, siddiqeen, 
+shuhadah, was saleheen under the shade of the throne of ALLAH SWT in the 
+hereafter (akhoirah) in complete happiness without fear and without grief 
+"la khaufun alayhim wa la yahzanuun"
+Aameen ya Rabbal Alameen
+this concludes my life goals in cat 2
+
+restructure & beautify the doc. make sure you dont cut out any important 
+information nor miss them. Make sure the doc is consistent and beautifully 
+structured as markdown with no inconsistencies or errors.

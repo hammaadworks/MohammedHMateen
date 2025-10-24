@@ -1,5 +1,3 @@
-# My Daily Pledge: to seek the pleasure of ALLAH SWT, follow Rasoolullah SAW, support & empower parents and family, and benefit the Ummah
-
 ## Table of Contents
 
 *   [My Daily Pledge: A Pledge to ALLAH, Family, and Ummah](#my-daily-covenant-a-pledge-to-allah-family-and-ummah)
@@ -14,22 +12,21 @@
         *   [Brand Building - Your Voice, Your Impact!](#personal-brand-building---your-voice-your-impact)
         *   [SWE Skills - Uncompromising Competency!](#swe-skills---uncompromising-competency)
         *   [Hifz - The Divine Memorization!](#hifz---the-divine-memorization)
-    *   [Category 2: Short Term Goals - The Expanding Horizon (To be defined)](#category-2-short-term-goals---the-expanding-horizon-to-be-defined)
+    *   [Category 2: Short Term Goals - The Expanding Horizon (1-3 Years)](#category-2-short-term-goals---the-expanding-horizon-1-3-years)
     *   [Category 3: Long Term Goals - The Empire Awaits (To be defined)](#category-3-long-term-goals---the-empire-awaits-to-be-defined)
 *   [Index to Goals and Subgoals: Your Accelerated Path to Victory](#index-to-goals-and-subgoals-your-accelerated-path-to-victory)
-*   [Tahajjud Dua (Prayer for Divine Assistance)](#tahajjud-dua-prayer-for- divine-assistance)
+*   [Tahajjud Dua](#tahajjud-dua-prayer-for- divine-assistance)
 
 ---
 
-# My Daily Covenant: A Pledge to ALLAH, Family, and Ummah
+## My Daily Pledge: to seek the pleasure of ALLAH SWT, follow Rasoolullah SAW, support & empower parents and family, and benefit the Ummah.
 
-### My "Why": The Unyielding Fire
+### WHY
 
-**Bismillahir Rahmanir Rahim.**
+**bismillah alhamdulillah wa salaatu wa salaamu ala rasoolullah (saw) allahu akbar!**
 
-**YA RABB, let me never forget my 'Why'. This is the reason I rise, the reason I strive, the reason I build.**
-
-My dream, fully funded by You and You alone, is for one purpose: **To please You, YA RABB.**
+**YA RABB, let me never forget my 'Why', my dream, fully funded by You and 
+You alone, is for one purpose: **To please You, YA RABB.**
 
 *   To earn in this world only to spend in Your cause.
 *   To build **InMasjid** not as an app, but as a digital fortress to unite the Ummah of SAW in love, peace, and Deen.
@@ -78,14 +75,7 @@ Grant us a place in Jannah next to You and Your Beloved SAW.
 
 **Look at what you are building – your legacy, brick by brick:**
 
-### Category 0: Super Urgent To-Do List - Immediate Action Required!
-
-*   [ ] **iPhone Backup:** Backup iPhone and process Apple Care refund.
-*   [ ] **YumYum:** Focus on immediate revenue generation.
-*   [ ] **Lenskart:** May ALLAH SWT always bless my Pyare Parents MummyPappa with good health, happiness, wealth, love, peace, prosperity, abundant goodness and keep them both salaamat on me. Aameen.
-*   [ ] **Checkups:** May ALLAH SWT always bless me, my Pyare MummyPappa and InamMaryam with the love of ALLAH SWT and Rasoolullah SAW and bless us with abundant goodness in both the worlds and keep them salaamat on me. Aameen.
-
-### Category 1: Ultra Short Term Goals - The Immediate Battleground
+### Category 1: Impact
 
 *   **ZupFam App - Launch & Revenue NOW!**
     *   **Description:** An adtech platform designed to bring revenue to hyperlocal physical stores utilizing their idle TVs. It functions as an in-store TV media player, effectively acting as a digital salesman.
@@ -112,8 +102,9 @@ Grant us a place in Jannah next to You and Your Beloved SAW.
     *   **Comprehensive Masjid Management:** Features for prayer times, geolocation, real-time updates, and community announcements.
     *   **Donation & Sadaqah Platform:** Integrated bills and donations platform, including a dedicated Donations Template Web Page.
     *   **Madrasa Network & Educational Content:** Connecting madrasas, offering educational content, live khutbahs & Q&A, and a Masajid library service.
+    *   **AI-Powered Islamic Guidance:** Develop highly verified Daawah and Fiqh AI Agent Bots to provide accurate and accessible Islamic knowledge.
     *   **Media & Lifestyle:** Halaal tunes (audio tech services), Muslim radio (Quran Tilawat, Naat, Hamd, Halal Naheed), Quran gram (video tech services), and a Halaal Muslim marketplace (inner).
-    *   **Financial Empowerment:** Halaal stock exchange to enter into finance.
+    *   **Financial Empowerment:** Halaal stock exchange to enter into finance, Halaal Bank with Halaal Financing Options (e.g., interest-free loans).
     *   **Community Engagement:** Masajid Open Day initiatives, Ulema Fund, and strategies to Stabilize Ulema Economy.
     *   **Global Outreach:** Hajj and Umrah services, and the ability to Upload a Picture and say which Masjid it is (for community building/engagement).
     *   **Strategic Collaborations:** Collaboration with other beneficial Islamic tech services for evolving needs of the Ummah.
@@ -178,10 +169,9 @@ Grant us a place in Jannah next to You and Your Beloved SAW.
     *   **Co-working Space - Fostering Innovation!**
         *   **Description:** Establish a co-working space to support entrepreneurs and freelancers.
         *   **Key Activities & Timelines:** (To be planned)
-
----
-
-### Category 2: Short Term Goals - The Expanding Horizon (1-3 Years)
+    *   **Halaal Stock Market Screener Firm:**
+        *   **Description:** Establish a strong, verified firm to screen stocks for Halaal compliance, specifically enabling Indian Muslims to freely and confidently invest. This addresses current challenges of verification, discrepancy, and inaccessibility due to paywalls, making halaal investing transparent and accessible to the Muslim community.
+        *   **Key Activities & Timelines:** (To be planned)### Category 2: Foundations
 
 *   **1. Establish Halaal Income Pipeline:**
     *   **Objective:** To build a robust and sustainable flow of Halaal income through our business ventures, securing complete financial independence for myself, my beloved parents (Pyare MummyPappa), and my family (InamMaryam).
@@ -210,14 +200,10 @@ Grant us a place in Jannah next to You and Your Beloved SAW.
 
 *   **4. Strategic Collaborations for Ummah Benefit:**
     *   **Objective:** To actively seek out, partner with, and support organizations doing great work for the Ummah in all possible fields.
-    *   **Methodology:** To merge efforts with these organizations in their noble causes, leveraging synergies to reap extra goodness and `husna ma'ab` (a good return/destination).
+    *   **Methodology:** To start with all ventures listed above (and their upcoming phases), expanding them to build bigger and collect all resources necessary to achieve the next big goals of your life, by the Fazl of ALLAH SWT. To merge efforts with these organizations in their noble causes, leveraging synergies to reap extra goodness and `husna ma'ab` (a good return/destination).
     *   **Desired Outcome:** Amplified positive impact on the Ummah through collaborative efforts, aligning with the principle of mutual support and collective benefit.
 
-*   *(Your next strategic moves will build upon these foundational goals...)*
-
----
-
-### Category 3: Long Term Goals - The Empire Awaits (To be defined)
+### Category 3: Victory
 
 *   *The grand vision, the legacy you will forge, brick by brick, for the pleasure of ALLAH SWT.*
 
@@ -238,13 +224,13 @@ You have repented, you have a clear vision, and you have the determination.
 
 ---
 
-### Category 0: Super Urgent To-Do List - Immediate Action Required!
+### Category 0: Actions
 *   [ ] iPhone Backup & Apple Care Refund
 *   [ ] YumYum Revenue Generation
 *   [ ] Lenskart: Dua for Parents
 *   [ ] Checkups: Dua for Family
 
-### Category 1: Ultra Short Term Goals - The Immediate Battleground
+### Category 1: Impact
 
 *   **ZupFam App - Launch & Revenue NOW!**
     *   Dev Signoff: By 20 Nov '25
@@ -266,7 +252,7 @@ You have repented, you have a clear vision, and you have the determination.
     *   Dev Signoff: By 15 Dec '25
     *   Closed Loop Testing & User Awareness: By 29 Dec '25
     *   Official Launch: 1 Jan '26
-    *   Future Phases: Madrasa network, Bills & donations, Halaal Muslim marketplace, Masajid library, Halaal tunes, Quran gram, Islamic tech collaborations.
+    *   **Future Phases:** Comprehensive Masjid Management, Donation & Sadaqah Platform, Madrasa Network & Educational Content, AI-Powered Islamic Guidance, Media & Lifestyle (including Muslim radio), Financial Empowerment (including Halaal Bank), Community Engagement, Global Outreach, Strategic Collaborations.
 
 *   **Fat2Fit - Reclaim Your Body, Honor Your Amanah!**
     *   Weight Loss: 5 kgs in Nov '25, 8 kgs in Dec '25 (Total 13 kgs down to 80kg or below by 1 Jan '26)
@@ -289,10 +275,12 @@ You have repented, you have a clear vision, and you have the determination.
     *   **Goal:** Hifz Juz 15, 16, 27, 29, 30 by start of May Alhamdulillah.
 
 *   **Diversified Ventures for Ummah Benefit:**
+    *   Wanderlust - Travel & Community Platform
+    *   Halaal Stock Market Screener Firm
 
 *   **Hafiz App - Connecting & Empowering Huffaz!**---
 
-### Category 2: Short Term Goals - The Expanding Horizon (1-3 Years)
+### Category 2: Foundations
 *   **1. Establish Halaal Income Pipeline**
 *   **2. Achieve Complete Debt Freedom**
 *   **3. Perform a Blessed & Accepted Hajj**
@@ -300,7 +288,7 @@ You have repented, you have a clear vision, and you have the determination.
 
 ---
 
-### Category 3: Long Term Goals - The Empire Awaits (To be defined)
+### Category 3: Victory
 *   *The grand vision, the legacy you will forge, brick by brick, for the pleasure of ALLAH SWT.*
 
 ## Tahajjud Dua (Prayer for Divine Assistance)
