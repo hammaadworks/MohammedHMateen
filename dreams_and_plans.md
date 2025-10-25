@@ -58,11 +58,22 @@ just for one purpose: To please You, YA RABB, by Your Mercy, Love and Grace!**
 
 Aameen. YA RABB AL AALAMEEN.
 
-**YA RABB**, I have fallen before, hit my lowest point in regret, shame, and
-wasted potential.
-But I am not done. A believer never despairs from the mercy of ALLAH (SWT).
-This is my redemption arc, **YA ALLAH SWT**, my disciplined return to purpose,
-fueled by faith, consistency, and relentless effort.
+**YA RABB**, I have hit my all-time low in regret, shame, broken promises and
+wasted potential. My worship of You, YA ALLAH SWT, was far from what it should
+have been, nor did I consistently follow the righteous guidance and profound
+teachings of Rasoolullah SAW as commanded, nor did I strive to give my beloved
+parents and family the rights they truly deserved. I recognize that I have
+messed up in all fields, often staying in a state of delusional misguidance.
+
+But I refuse to give up, **YA RABB**! A believer never despairs from the mercy
+of ALLAH (SWT). I acknowledge all my errors, wrongdoings and resolute to fix
+every single one them, with Your powerful help, **YA RABB**. This is my
+redemption arc, **YA ALLAH SWT**, my disciplined return to purpose, fueled by
+unwavering faith, steadfast consistency, and relentless effort:
+
+* **To restore honor and success** to my beloved parents and family.
+* **To firmly adhere to the Sunnah** of my beloved Rasoolullah SAW.
+* **To strengthen my worship,** seeking greater closeness to You, YA ALLAH SWT.
 
 **YA RABB, my heart aches for the Ummah.**
 
@@ -336,103 +347,126 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 
 ### Category 2: Legacy
 
-* **1. Establish Halaal Income Pipeline:**
-	* **Objective:** To build a robust and sustainable flow of Halaal income
-	  through our business ventures, securing complete financial independence
-	  for myself, my beloved parents (Pyare MummyPappa), and my family (
-	  InamMaryam).
-	* **Ultimate Purpose:** To establish a powerful `sadaqah jariyah` (
-	  continuous charity) pipeline, spending in the cause of ALLAH SWT and
-	  following the path of Rasoolullah SAW.
-	* **Guiding Principle:** To live by the hadith, "Khairun naas maiy yanfaun
-	  naas" (The best of people are those who are most beneficial to people),
-	  ensuring our khair (goodness) reaches all corners of the globe.
-	* **Key Sadaqah Jariyah Actions:**
-		* Visit one family a week with a full dinner, amend ties, and provide
-		  ongoing `sadaqah jariyah` support. Aameen.
-		* Invite one Hazrat (respected scholar/elder) for dinner every week.
-		* Collaborate with Hazrats to create educational content for the
-		  InMasjid App.
-	* **Desired Outcome:** Success in both Dunya and Aakhirah, for the pleasure
-	  of ALLAH SWT alone.
+#### 1. **Establish Halaal Income Pipeline:**
 
-* **2. Achieve Complete Debt Freedom:**
-	* **Objective:** By the grace of ALLAH SWT (Fazl of ALLAH SWT), completely
-	  repay all debts owed by myself and my beloved parents.
-	* **Core Tenets:**
-		1. Pay off all existing debts in full.
-		2. Go beyond repayment by giving extra as charity to our lenders.
-		3. Commit to a future of zero debt, relying only upon ALLAH SWT.
-		4. Extend our capacity to help others become debt-free.
-	* **Desired Outcome:** A state of financial purity and reliance on ALLAH SWT
-	  alone, free from the burden of debt.
+* **Objective:** To build a robust and sustainable flow of Halaal income through
+  our business ventures, securing complete financial independence for myself, my
+  beloved parents (Pyare MummyPappa), and my family (InamMaryam).
 
-* **3. Perform a Blessed & Accepted Hajj:**
-	* **Objective:** By the grace of ALLAH SWT (Fazl of ALLAH SWT), to perform a
-	  blessed, accepted Hajj in its best possible form alongside my beloved
-	  family (Pyare MummyPappa, InamMaryam).
-	* **Conditions:** To undertake this sacred journey with `halaal rizq` (pure,
-	  lawful provision), in good health, on foot as much as possible, enveloped
-	  in the mercy and love of ALLAH SWT and His Messenger, Rasoolullah SAW.
-	* **Methodology:** To complete all rituals and sunnahs with precision,
-	  following the exact example of our beloved Prophet SAW.
-	* **Ultimate Purpose:** To seek the pleasure of our One and Only Master,
-	  ALLAH SWT, alone. Aameen.
+#### 2. **Achieve Complete Debt Freedom:**
 
-* **4. Strategic Collaborations for Ummah Benefit:**
-	* **Objective:** To actively seek out, partner with, and support
-	  organizations doing great work for the Ummah in all possible fields.
-	* **Methodology:** To start with all ventures listed above (and their
-	  upcoming phases), expanding them to build bigger and collect all resources
-	  necessary to achieve the next big goals of your life, by the Fazl of ALLAH
-	  SWT. To merge efforts with these organizations in their noble causes,
-	  leveraging synergies to reap extra goodness and `husna ma'ab` (a good
-	  return/destination).
-	* **Desired Outcome:** Amplified positive impact on the Ummah through
-	  collaborative efforts, aligning with the principle of mutual support and
-	  collective benefit.
+* **Objective:** By the immense Fazl and complete assistance of ALLAH SWT alone,
+  we (me, my Pyare MummyPappa) completely
+  repay all debts owed in its best possible form, with our own hands.
+* **Core Tenets:**
+	1. Pay off all existing debts in full.
+	2. Go beyond repayment by giving extra as charity to our lenders.
+	3. Commit to a future of zero debt, relying only upon ALLAH SWT.
+	4. Extend our capacity to help others become debt-free.
+* **Desired Outcome:** A state of financial purity with dignity and conviction.
+  Fearing none but ALLAH SWT alone, relying solely on none but ALLAH SWT alone,
+  and following Rasoolullah SAW. A true liberation from all people and external
+  factors, including their evil, shame, pressure, or influence.
 
-* **5. Build Masjid for the Pleasure of ALLAH SWT following Rasoolullah SAW:**
-	* **Objective:** By the Fazl of ALLAH SWT, in good form and complete
-	  Alhamdulillah, for me, my Pyare MummyPappa, and InamMaryam to together
-	  build a beautiful masjid with complete ikhlaas and love for ALLAH SWT and
-	  HIS beloved messenger Rasoolullah SAW.
-	* **Guiding Principle:** In accordance with "wa ati ullah wa ati ur rasool
-	  wa hubbullah wa hubburasool".
-	* **Methodology:** We (me, my Pyare parents MummyPappa, (sister and brother
-	  in law) InamMaryam) build the masjid with our own hands, with a madrasa in
-	  it.
-	* **Provision:** Complete money, resources, and everything provided by ALLAH
-	  SWT in a halaal way to us, without any intermediary, only between us and
-	  ALLAH SWT.
-	* **Legacy:** This masjid and madrasa becomes an asset for Islam and a means
-	  of success, mercy, and Love of ALLAH SWT and love of Rasoolullah SAW in
-	  both the worlds to us (me, MummyPappa, InamMaryam) and our lineage above
-	  and below. Aameen.
+#### 3. **Perform a Blessed & Accepted Hajj:**
 
-* **6. My Plea to ALLAH SWT to Accept Me:**
-	* **Condition:** Once I've achieved all the above goals, I ask my ALLAH SWT
-	  to be pleased with me, make my Rasoolullah SAW happy with me, make my
-	  Pyare parents MummyPappa and family spreading goodness in front of me, and
-	  the entire Ummah and humanity benefiting from me and the actions of my
-	  parents and family and lineage, by the Fazl of ALLAH SWT alone. Aameen.
-	* **Reward:** Once Alhamdulillah we have achieved all the goals, by the fazl
-	  of ALLAH SWT, I ask ALLAH SWT to grant us (me, my Pyare MummyPappa,
-	  InamMaryam and family) a blessed Umrah in Ramadhan. Aameen.
-	* **Ultimate Aspiration:** I ask ALLAH SWT to accept me and guide me to
-	  HIMSELF while I'm inside salaah at my last sujood, whilst I'm in a sujood
-	  on the odd night of the last 10 nights of Ramadhan as a martyr in the
-	  Riyaz ul Jannah close to the Prophet Rasoolullah SAW with "Subhana Rabbi
-	  al A'la, La ilaha illallah Muhammadur Rasoolullah SAW" on my tongue.
-	  Aameen.
-	* **Aftermath:** After my martyrdom, may ALLAH SWT be pleased with me, and
-	  make my Rasoolullah SAW happy with me. Aameen.
-	* **For My Family:** May ALLAH SWT make my parents and family amongst the
-	  righteous and raise us up with Rasoolullah SAW amongst Nabi'un, Siddiqeen,
-	  Shuhadah, was Saliheen under the shade of the throne of ALLAH SWT in the
-	  hereafter (Aakhirah) in complete happiness without fear and without
-	  grief "la khawfun alayhim wa la hum yahzanun". Aameen ya Rabbal Alameen.
-	* This concludes my life goals in this category.
+* **Objective:** By the immense Fazl and complete assistance of ALLAH SWT alone,
+  we (me, my Pyare MummyPappa, and InamMaryam) together perform a blessed,
+  accepted Hajj in its best possible form. After the accepted Hajj also visit
+  Masjid Al Aqsa, to complete our visit to all the 3 Holy Masajid of Islam.
+  Aameen.
+* **Conditions:** To undertake this sacred journey with `halaal rizq` (pure,
+  lawful provision), in good health, on foot as much as possible, enveloped in
+  the mercy and love of ALLAH SWT and His beloved messenger, Rasoolullah SAW.
+* **Methodology:** To complete all rituals and sunnahs, precisely following our
+  beloved Prophet Rasoolullah SAW and Prophet Ibrahim AS.
+* **Ultimate Purpose:** To seek the pleasure, mercy and love of our One and Only
+  Master, ALLAH SWT, alone. Aameen.
+
+#### 4. **Strategic Collaborations for Ummah Benefit:**
+
+* **Objective:** To actively seek out, partner with, and support
+  organizations doing great work for the Ummah in all possible fields.
+* **Methodology:**
+	* To start with all ventures listed above (and their upcoming phases),
+	  expanding them to build bigger and collect all resources necessary to
+	  achieve the next big goals of your life, by the Fazl of ALLAH SWT.
+	* Support, Merge or Acquire efforts with other organizations in their
+	  noble causes, leveraging synergies for amplified goodness and a
+	  blessed return (`husna ma'ab`).
+* **Ultimate Purpose:** To establish a powerful `sadaqah jariyah` pipeline,
+  spending in the cause of ALLAH SWT and following the path of Rasoolullah
+  SAW.
+* **Guiding Principle:** Make me, my Pyare parents MummyPappa, InamMaryam and my
+  family to live by the hadith, "Khairun naas maiy yanfaun naas" (The best of
+  people are those who are most beneficial to people) via
+  our*[Foundations](#category-1-foundations): _that build
+  the [halaal income pipeline](#1-establish-halaal-income-pipeline)_*, ensuring
+  our khair (goodness) reaches all corners of the globe, starting from our
+  kinship ties and beyond to the entire Ummah.
+* **Desired Outcomes:**
+	* Amplified positive impact on the Ummah through collaborative efforts,
+	  embodying mutual support and collective benefit.
+	* Success in both this world (`Dunya`) and the Hereafter (`Aakhirah`),
+	  solely for the pleasure of Allah SWT.
+
+#### 5. **Build Masajid for the sake of ALLAH SWT following Rasoolullah SAW:**
+
+* **Objective:** By the immense Fazl and complete assistance of ALLAH SWT alone,
+  we (me, my Pyare MummyPappa, and InamMaryam) together construct a beautiful
+  `masjid` using our own hands with complete `ikhlaas` and profound love for
+  ALLAH SWT and HIS beloved messenger Rasoolullah SAW, with a madrasa in it.
+
+* **Guiding Principle:** Our endeavor is firmly rooted on_**"wa ati ullah wa ati
+  ur rasool wa hubbullah wa hubburasool"**_, further strengthened by the
+  authentic hadith:
+
+  > **"مَنْ بَنَى مَسْجِدًا يُذْكَرُ فِيهِ اسْمُ اللَّهِ بَنَى اللَّهُ لَهُ
+  بَيْتًا فِي الْجَنَّةِ"**
+  >
+  > **"Whoever builds a mosque in which the Name of Allah is mentioned, Allah
+  will build a house for him in Paradise."**
+  >
+  > [Sunan Ibn Majah 735](https://sunnah.com/ibnmajah:735)
+
+* **Methodology:** We (myself, my beloved parents MummyPappa, and InamMaryam)
+  intend to actively participate in the construction of the masjid, ideally with
+  our own hands, and ensure it includes a `madrasa` (Islamic school).
+
+* **Provision:** Complete money, resources, and everything provided by ALLAH SWT
+  alone in a halaal way to us, without any intermediaries, only between us and
+  ALLAH SWT.
+
+* **Legacy:** This masjid and madrasa becomes an asset for Islam and a means of
+  success, mercy, and love of ALLAH SWT and love of Rasoolullah SAW in both the
+  worlds to us (me, MummyPappa, InamMaryam) and our lineage above and below.
+  Aameen.
+
+#### 6. **My Plea to ALLAH SWT to Accept Me:**
+
+* **Condition:** Once I've achieved all the above goals, I ask my ALLAH SWT
+  to be pleased with me, make my Rasoolullah SAW happy with me, make my
+  Pyare parents MummyPappa and family spreading goodness in front of me, and
+  the entire Ummah and humanity benefiting from me and the actions of my
+  parents and family and lineage, by the Fazl of ALLAH SWT alone. Aameen.
+* **Reward:** Once Alhamdulillah we have achieved all the goals, by the fazl
+  of ALLAH SWT, I ask ALLAH SWT to grant us (me, my Pyare MummyPappa,
+  InamMaryam and family) a blessed Umrah in Ramadhan. Aameen.
+* **Ultimate Aspiration:** I ask ALLAH SWT to accept me and guide me to
+  HIMSELF while I'm inside salaah whilst I'm in my last sujood in the odd
+  night of the last 10 nights of Ramadhan as a martyr in the
+  Riyaz ul Jannah close to the Prophet Rasoolullah SAW with "Subhana Rabbi
+  al A'la, La ilaha illallah Muhammadur Rasoolullah SAW" on my tongue.
+  Aameen.
+* **Aftermath:** After my martyrdom, may ALLAH SWT be pleased with me, and
+  make my Rasoolullah SAW happy with me. Aameen.
+* **For My Family:** After me, May ALLAH SWT make my parents and family
+  amongst the righteous and raise us up with Rasoolullah SAW amongst
+  Nabi'un, Siddiqeen, Shuhadah, was Saliheen under the shade of the throne
+  of ALLAH SWT in the hereafter (Aakhirah) in complete happiness without
+  fear and without grief "la khawfun alayhim wa la hum yahzanun". Aameen ya
+  Rabbal Alameen.
+* This concludes my life goals in this category.
 
 ---
 
