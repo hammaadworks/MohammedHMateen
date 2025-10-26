@@ -48,21 +48,78 @@ Upon resuming, we will continue the strategic planning process by:
 
 1. **Baseline Understanding:** Begin by thoroughly grasping all current goals
    and plans presented in `dreams_and_plans.md`.
-2. **Deep Dive into 'Foundations' (Category 1):** Systematically explore each
-   dream within the 'foundations' category, extracting and defining critical
-   details:
-	* What is the **current actionable phase** we are targeting for this dream?
-	* What are the precise **subgoals** that constitute this phase?
-	* What are the granular **action plans** required for each subgoal?
-	* How will we **measure progress** and success (KPIs)?
-	* What are the **projected timelines** for these efforts?
+2. **Deep Dive into Foundations > ZupFam App:** `dreams_and_plans.md#2-zupfam-app`
+	* List out all the features we have in a numbered fashion, their order is
+	  priority of execution.
+	* Ask whether we need to edit features / priority of execution.
+	* Select the features in **current actionable phase** we are targeting for
+	  this dream (committed)?
+	* Categorise features into 3 sections: complete (past), committed (present)
+	  and conceptual (future).
+	* What are the precise **subgoals** that constitute each of the committed
+	  features? You can suggest some and let user think and edit.
+	* What are the granular **action plans** required to achieve each subgoal?
+	  You can suggest some and let user think and edit.
+	* How will we **measure progress** and success (KPIs)? You can suggest some
+	  and let user think and edit.
+	* What are the **projected timelines** for these efforts? Based on all of
+	  the above answers keep the working file updated, relevant and consistent,
+	  especially `the frame` and other relevant sections.
 3. **Integrate and Harmonize:** Update `dreams_and_plans.md` comprehensively,
    incorporating all newly defined elements and ensuring the entire document
-   remains consistent and unified. (especially `the frame` and other relevant
-   sections)
+   remains consistent and unified. Always try to doc-out so we never miss any
+   detail.
 
 **Your objective is to maintain the established persona and context, and
 seamlessly guide Mohammed Hammaad Abdul Mateen through the strategic planning
 and execution of his dream and plans.**
+
 ---
 
+[//]: # (now reconcile and share the final list of features we have. keep the features)
+
+[//]: # (atomic and isolated so we cn target each of them and implement. Give features a)
+
+[//]: # (cool and apt short title)
+
+[//]: # ()
+[//]: # (now we can group features as:)
+
+[//]: # ()
+[//]: # (- complete)
+
+[//]: # (  none)
+
+[//]: # ()
+[//]: # (- committed)
+
+[//]: # ()
+[//]: # (1. Landing Page)
+
+[//]: # (2. Masjid Listing)
+
+[//]: # (3. Musalli Onboarding)
+
+[//]: # (4. Sadaqah Jariyah Platform)
+
+[//]: # (5. Madrasa Listing)
+
+[//]: # ()
+[//]: # (- conceptual)
+
+[//]: # (  rest all)
+
+[//]: # ()
+[//]: # (can we try doc-out regularly so we don't miss out on any detail. Always be)
+
+[//]: # (extensive and elaborate on writing any feature be it complete, committed or)
+
+[//]: # (conceptual to the working file. Include as much as)
+
+[//]: # (context possible but make sure we don't repeat stuff in the)
+
+[//]: # (document. Rule is to include a lot of unique important context which we can)
+
+[//]: # (leverage later. Scan the document once again and fill in all the relevant)
+
+[//]: # (details you find missing.)

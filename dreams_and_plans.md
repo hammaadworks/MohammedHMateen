@@ -209,56 +209,109 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 
 ### The Foundations
 
-#### 1. **InMasjid App**
+#### 1. InMasjid App
 
-> The Project of my Heart, Fee Sabeelillah!**
+> The Project of my Heart, Fee Sabeelillah!
 
-* **Description:** A tech product for Masajids of ALLAH SWT, completely Fee
-  Sabeelillah. It aims to build a network of masajid, connecting Muslims,
-  showing prayer times, and masjid announcements.
-* **Later Phases will include:**
-	* **Comprehensive Masjid Management:** Features for prayer times,
-	  geolocation, real-time updates, and community announcements.
-	* **Donation & Sadaqah Platform:** Integrated bills and donations
-	  platform, including a dedicated Donations Template Web Page.
-	* **Madrasa Network & Educational Content:** Connecting madrasas,
-	  offering educational content, live khutbahs & Q&A, and a Masajid
-	  library service.
-	* **AI-Powered Islamic Guidance:** Develop highly verified Daawah and
-	  Fiqh AI Agent Bots to provide accurate and accessible Islamic
-	  knowledge.
-	* **Media & Lifestyle:** Halaal tunes (audio tech services), Muslim
-	  radio (Quran Tilawat, Naat, Hamd, Halal Naheed), Quran gram (video
-	  tech services), and a Halaal Muslim marketplace (inner).
-	* **Financial Empowerment:** Halaal stock exchange to enter into
-	  finance, Halaal Bank with Halaal Financing Options (e.g.,
-	  interest-free loans).
-	* **Community Engagement:** Masajid Open Day initiatives, Ulema Fund,
-	  and strategies to Stabilize Ulema Economy.
-	* **Global Outreach:** Hajj and Umrah services, and the ability to
-	  Upload a Picture and say which Masjid it is (for community
-	  building/engagement).
-	* **Strategic Collaborations:** Collaboration with other beneficial
-	  Islamic tech services for evolving needs of the Ummah.
-	* **Hafiz App - Connecting & Empowering Huffaz!**
-		* **Description:** Develop a comprehensive app to connect Huffaz (those
-		  who
-		  have memorized the Quran) and Talaba (students), offering tools for
-		  Hifz
-		  tracking, daily revision reminders, convenient auto-replay, and other
-		  features to aid in becoming a proficient Hafiz (e.g., inspired by
-		  QURAN
-		  HIVE).
-		* **Ultimate Purpose:** To facilitate and strengthen the memorization
-		  and
-		  preservation of the Quran within the Ummah.
-		* **Key Activities & Timelines:** (To be planned)
-* **Dev Signoff:** *By 15 Dec '25* - Dedication to the sacred.
-* **Closed Loop Testing & User Awareness:** *By 29 Dec '25* - Connect the
-  Ummah.
-* **Official Launch:** *1 Jan '26* - A new dawn for Masajids.
+1. **Description:** A tech product for Masajids of ALLAH SWT, completely Fee
+   Sabeelillah. It aims to build a network of masajid, connecting Muslims,
+   showing prayer times, and masjid announcements.
 
-#### 2. **ZupFam App**
+2. **Feature Roadmap:**
+	
+	* **Complete:**
+		1. None.
+	
+	* **Committed:**
+		1. **Landing Page:** A visually appealing and informative public-facing page
+		   that clearly articulates the InMasjid App.
+			* **Subgoals:**
+				* **1.1:** Create context documentations for AI systems.
+				* **1.2:** Clearly articulate the website design and copy including
+				  vision, mission, features, benefits, etc.
+				* **1.3:** Ensure visually appealing, mobile-responsive designs with
+				  audits and seamless deployments.
+		2. **Masajid Listing and Search:** Digital onboarding of Masajid profiles.
+		   This includes essential information like
+		   `name, address, geo-location, prayer times, contact details, updates, etc.`.
+		   This forms the core of the Masjid network. We also need to implement
+		   advanced search functionality into this.
+		3. **Musallee Onboarding and Follow:** A structured user registration system
+		   with a clear hierarchy (e.g., Imam, Super Musallee, Musallee, Guest).
+		   This will ensure data integrity by allowing verified members to
+		   contribute and maintain information while providing read-only access to
+		   guests. Allowing users to select and follow their local or preferred
+		   Masajid by creating a personalized user feed with relevant information.
+		4. **Sadaqah Jariyah Platform:** A secure and transparent donation system.
+		   This will focus on enabling direct donations to specific Masajids to
+		   support operational costs like utility bills and maintenance, raise funds
+		   for specific, large-scale projects like new constructions, expansions, or
+		   major renovations, with features for users to track history, receipts and
+		   impact of their contributions. All crowd funded for greater Ummah benefit
+		   and impact. Extremely trust, audit and metric centric feature.
+	
+	* **Conceptual:**
+		1. **Market:**
+			* **Madrasa Listing and Search:** Similar to Masjid Listing, this feature
+			  will allow for the digital onboarding of Madrasas and Islamic Centers.
+			  It will display key details like
+			  `classes offered, curriculum, staff, administrative contacts, etc.`.
+			  Madrasas can also apply to be listed in the `Sadaqah Jariyah` Platform.
+			  We also need to implement advanced search functionality into this.
+			* **Muslim Store (Marketplace):** A curated e-commerce marketplace for
+			  Islamic goods like books, tasbeeh, modest attire inner and outer, and
+			  other Islamic essential goods.
+			* **Masjid Library:** A feature to digitize Masjid libraries, creating
+			  searchable catalogs and potentially offering digital borrowing options
+			  for the community.
+		2. **Media:**
+			* **QGram (Video):** A dedicated, curated, and distraction-free Islamic
+			  video streaming platform for authentic Quranic recitations, Tafseer,
+			  Hadith & Zikr. Strictly Qur'an and Sunnah (with wudu mode).
+			* **Halal Chords (Audio):** A library of Shariah-compliant background
+			  music, nasheeds, poems without haram instruments for Muslim content
+			  creators.
+			* **Islamic Radio (24/7):** A live and on-demand Islamic audio streaming
+			  service featuring 24/7 Qur'an recitations, halaal music, podcasts, etc.
+			* **Live Masjid Streams:** A feature to allow Masajids to stream events
+			  like Jumu'ah khutbahs, halaqas, and special lectures live to the
+			  community.
+			* **Hifz Companion App:** A dedicated tool or integrated feature-set to
+			  help Huffaz and students track Hifz progress, set revision reminders,
+			  and use tools like auto-replay to aid memorization.
+		3. **Finance:**
+			* **Halal Financing and Banking:** A financial platform to facilitate
+			  halaal interest free money financing options. Revolutionise the banking
+			  sector in halaal, interest free, Islam friendly ways to seek the
+			  pleasure of ALLAH SWT, following Rasoolullah SAW.
+			* **Halal Stock Screener:** A financial tool to help users screen stocks
+			  for Shariah compliance, making Halal investing more transparent and
+			  accessible, also enter into the halaal stock market ecosystem.
+			* **Ulema Fund:** A dedicated charitable fund within the platform to
+			  financially support Islamic scholars and their work.
+		4. **Community:**
+			* **Nikah Connect:** A trusted, private, Halal matrimony service with
+			  verified profiles to facilitate local matchmaking within Islamic
+			  guidelines.
+			* **Ulema Monitored AI Daawah Bots:** An AI-powered knowledge hub advisor
+			  controlled by Islamic experts to provide guidance and verified answers
+			  to common Islamic questions on imaan, ibaadah, akhlaaq, daawah,
+			  mu'amalaat, business, life, etc.
+			* **Masjid Events Calendar:** A centralized, interactive calendar for
+			  users to discover and track all upcoming events, classes, and gatherings
+			  at their local Masajid.
+			* **Open Masjid Days and Community Connect:** A platform to help Masajids
+			  organize, promote, and manage "Open Day" events to welcome the wider
+			  non-Muslim community and foster understanding in Ummah as a whole.
+
+3. **Timeframe (for committed features)**
+	
+	* **Dev Signoff:** *By 15 Dec '25* - Dedication to the sacred.
+	* **Closed Loop Testing & User Awareness:** *By 29 Dec '25* - Connect the
+	  Ummah.
+	* **Official Launch:** *1 Jan '26* - A new dawn for Masajids.
+
+#### 2. ZupFam App
 
 > Launch & Revenue NOW!
 
@@ -484,7 +537,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 * **Guiding Principle:** Our endeavor is firmly rooted on
   _**"wa ati allah wa ati ur rasool wa hubbullah wa hubburasool"**_, further
   strengthened by the authentic hadith:
-
+  
   > **"مَنْ بَنَى مَسْجِدًا يُذْكَرُ فِيهِ اسْمُ اللَّهِ بَنَى اللَّهُ لَهُ
   بَيْتًا فِي الْجَنَّةِ"**
   >
