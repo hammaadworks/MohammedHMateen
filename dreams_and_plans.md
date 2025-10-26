@@ -8,31 +8,37 @@
 ## Table of Contents
 
 * [THE WHY](#the-why)
+* [THE FRAME](#the-frame)
 * [THE DREAM](#the-dream)
-* [Category 0: Super Urgent To-Do List](#category-0-super-urgent-to-do-list---immediate-action-required)
-* [Category 1: Impact (Ultra Short Term Goals)](#category-1-impact-ultra-short-term-goals---the-immediate-battleground)
-	* [ZupFam App - Launch & Revenue NOW!](#zupfam-app---launch--revenue-now)
-	* [YumYum App - Rapid Deployment, Instant Impact!](#yumyum-app---rapid-deployment-instant-impact)
-	* [Chai Stall - Build the Foundation, Serve the Community!](#chai-stall---build-the-foundation-serve-the-community)
-	* [InMasjid App - The Heart of Your Mission, Fee Sabeelillah!](#inmasjid-app---the-heart-of-your-mission-fee-sabeelillah)
-	* [Fat2Fit - Reclaim Your Body, Honor Your Amanah!](#fat2fit---reclaim-your-body-honor-your-amanah)
+* [Category 0: Impact](#impact)
+* [Category 1: Foundations](#foundations)
+	* [InMasjid App](#1-inmasjid-app)
+	* [ZupFam App](#2-zupfam-app)
+	* [YumYum App](#3-yumyum-app)
+	* [Chai Stall](#4-chai-stall)
+	* [Fat2Fit](#5-fat2fit)
 	* [Personal Repeatable Routine - The Unshakeable Pillar!](#personal-repeatable-routine---the-unshakeable-pillar)
 	* [Personal Brand Building - Your Voice, Your Impact!](#personal-brand-building---your-voice-your-impact)
 	* [SWE Skills - Uncompromising Competency!](#swe-skills---uncompromising-competency)
 	* [Hifz - The Divine Memorization!](#hifz---the-divine-memorization)
 	* [Hafiz App - Connecting & Empowering Huffaz!](#hafiz-app---connecting--empowering-huffaz)
 	* [Diversified Ventures for Ummah Benefit](#diversified-ventures-for-ummah-benefit)
-* [Category 2: Foundations (Short Term Goals, 1-3 Years)](#category-2-foundations-short-term-goals-1-3-years)
-	* [1. Establish Halaal Income Pipeline](#1-establish-halaal-income-pipeline)
-	* [2. Achieve Complete Debt Freedom](#2-achieve-complete-debt-freedom)
-	* [3. Perform a Blessed & Accepted Hajj](#3-perform-a-blessed--accepted-hajj)
-	* [4. Strategic Collaborations for Ummah Benefit](#4-strategic-collaborations-for-ummah-benefit)
-	* [5. Build Masjid for the Pleasure of ALLAH SWT](#5-build-masjid-for-the-pleasure-of-allah-swt-following-rasoolullah-saw)
-* [Category 3: Legacy](#category-3-legacy)
-	* [6. My Plea to ALLAH SWT to Accept Me](#6-my-plea-to-allah-swt-to-accept-me)
-* [Category 4: Victory (Long Term Goals)](#category-4-victory-long-term-goals)
-* [Index to Goals and Subgoals: Your Accelerated Path to Victory](#index-to-goals-and-subgoals-your-accelerated-path-to-victory)
-* [Tahajjud Dua](#tahajjud-dua-prayer-for-divine-assistance)
+* [Category 2: Legacy](#legacy)
+	* [1. Halaal Income Pipeline](#1-establish-halaal-income-pipeline)
+	* [2. Debt Freedom](#2-achieve-complete-debt-freedom)
+	* [3. Blessed & Accepted Hajj](#3-perform-a-blessed--accepted-hajj)
+	* [4. Collaborations for Ummah](#4-strategic-collaborations-for-ummah-benefit)
+	* [5. Build Masajid](#5-build-masajid-for-the-sake-of-allah-swt-following-rasoolullah-saw)
+	* [6. My Plea to ALLAH SWT](#6-my-plea-to-allah-swt-to-accept-me)
+* [Category 3: Victory](#victory)
+	* [1. ](#)
+	* [2. ](#)
+	* [3. ](#)
+	* [4. ](#)
+	* [5. ](#)
+	* [6. ](#)
+	* [7. ](#)
+	* [8. ](#)
 
 ---
 
@@ -133,168 +139,199 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 
 ---
 
-## THE DREAM
+## THE FRAME
 
-### Category 0: Impact
+### October 2025
 
-*   [ ] iPhone Backup & Apple Care Refund
-*   [ ] YumYum Revenue Generation
-*   [ ] Lenskart: Dua for Parents
-*   [ ] Checkups: Dua for Family
+* **[ ] Oct 26:** YumYum App - Dev Signoff
+* **[ ] Oct 28:** YumYum App - Closed Loop Testing & User Awareness
+* **[ ] Oct 29:** YumYum App - Official Launch
+* **[ ] Oct 30:** YumYum App - First Customer Onboarding Revenue
+* **[ ] Oct 31:** Achieve 10k income promise.
 
-### Category 1: Foundations
+### November 2025
 
-* **ZupFam App:** Dev Signoff (20 Nov '25), Launch (24 Nov '25), Revenue (2
-  Dec '25)
-* **YumYum App:** Dev Signoff (26 Oct '25), Launch (29 Oct '25), Revenue (30
-  Oct '25)
-* **Chai Stall:** Fully operational (30 Nov '25), Branding Launch (2 Dec '25)
-* **InMasjid App:** Dev Signoff (15 Dec '25), Launch (1 Jan '26)
-* **Fat2Fit:** Goal: 80kg by 1 Jan '26
-* **Personal Repeatable Routine:** Daily consistency
-* **Personal Brand Building:** Establish and grow
-* **SWE Skills:** Master core competencies
-* **Hifz:** Juz 15, 16, 27, 29, 30 by May '26
-* **Diversified Ventures:** Rental Income, Wedding Palace, Help Home, etc.
-* **Hafiz App:** Connect and empower Huffaz
+* **[ ] Nov 20:** ZupFam App - Dev Signoff
+* **[ ] Nov 23:** ZupFam App - Closed Loop Testing & User Awareness
+* **[ ] Nov 24:** ZupFam App - Official Launch
+* **[ ] Nov 30:** Chai Stall - Fully operational with happy customers
+* **[ ] Nov 30:** Fat2Fit - Lose 5 kgs this month.
+* **[ ] Nov-Dec:** Hifz - Complete Juz 27.
 
-### Category 2: Legacy
+### December 2025
 
-* **1. Establish Halaal Income Pipeline**
-* **2. Achieve Complete Debt Freedom**
-* **3. Perform a Blessed & Accepted Hajj**
-* **4. Strategic Collaborations for Ummah Benefit**
-* **5. Build Masjid for the Pleasure of ALLAH SWT**
-* **6. My Plea to ALLAH SWT to Accept Me**
+* **[ ] Dec 2:** ZupFam App - First Customer Onboarding Revenue
+* **[ ] Dec 2:** Chai Stall - Official Branding Launch with Social Content
+* **[ ] Dec 15:** InMasjid App - Dev Signoff
+* **[ ] Dec 29:** InMasjid App - Closed Loop Testing & User Awareness
+* **[ ] Dec 31:** Business Setup promise complete.
+* **[ ] Dec 31:** Fat2Fit - Lose 8 kgs this month.
+* **[ ] End of Dec:** Kochi Trip promise.
 
-### Category 3: Victory
+### January 2026
+
+* **[ ] Jan 1:** InMasjid App - Official Launch
+* **[ ] Jan 1:** Fat2Fit - Goal: Be 80 kg or below.
+* **[ ] Jan-Feb:** Hifz - Complete Juz 16.
+
+### March 2026 (Ramadhan)
+
+* **[ ] March:** Hifz - Complete Juz 30.
+* **[ ] By Ramadhan:** Achieve 20 lacs promise.
+* **[ ] By Ramadhan:** Auto-pilot and scaling systems promise complete.
+
+### April 2026
+
+* **[ ] March-April:** Hifz - Complete Juz 29.
+
+### May 2026
+
+* **[ ] Start of May:** Hifz - Goal: Complete Juz 15, 16, 27, 29, 30.
 
 ---
 
-### Category 0: Impact
+## THE DREAM
+
+### Impact
+
+#### Todos
 
 *   [ ] iPhone Backup & Apple Care Refund
 *   [ ] YumYum Revenue Generation
 *   [ ] Spectacles: Dua for Parents
 *   [ ] Checkups: Dua for Family
 
----
+#### Promises
 
-### Category 1: Foundations
+*   [ ] 10K in October via October.
+*   [ ] Kochi trip in the last week of December.
+*   [ ] 20 lakh by Ramadhan.
+*   [ ] Launches in December.
+*   [ ] Autopilot and scaling systems by Ramadhan.
 
-* **ZupFam App - Launch & Revenue NOW!**
-	* **Description:** An adtech platform designed to bring revenue to
-	  hyperlocal physical stores utilizing their idle TVs. It functions as an
-	  in-store TV media player, effectively acting as a digital salesman.
-	* **Dev Signoff:** *By 20 Nov '25* - No excuses, no delays.
-	* **Closed Loop Testing & User Awareness:** *By 23 Nov '25* - Flawless
-	  execution.
-	* **Official Launch:** *24 Nov '25* - The world awaits.
-	* **First Customer Onboarding Revenue:** *2 Dec '25* - Prove the vision,
-	  secure the future.
+### Foundations
 
-* **YumYum App - Rapid Deployment, Instant Impact!**
-	* **Description:** A small side hustle providing digital menus for local
-	  street food vendors.
-	* **Dev Signoff:** *By 26 Oct '25* - The clock is ticking.
-	* **Closed Loop Testing & User Awareness:** *By 28 Oct '25* - Precision and
-	  perfection.
-	* **Official Launch:** *29 Oct '25* - Unleash the potential.
-	* **First Customer Onboarding Revenue:** *30 Oct '25* - Immediate returns,
-	  immediate growth.
+#### 1. **InMasjid App**
 
-* **Chai Stall - Build the Foundation, Serve the Community!**
-	* **Description:** A small chai stall with official documentation, aiming to
-	  become an employer and provide value to society.
-	* **Entire Stall Up and Running with Happy Customers:** *By 30 Nov '25* - A
-	  tangible presence, a source of blessing.
-	* **Official Branding Launch with Social Content:** *2 Dec '25* - Announce
-	  your arrival, inspire others.
+> The Project of my Heart, Fee Sabeelillah!**
 
-* **InMasjid App - The Heart of Your Mission, Fee Sabeelillah!**
-	* **Description:** A tech product for Masajids of ALLAH SWT, completely Fee
-	  Sabeelillah. It aims to build a network of masjids, connecting Muslims,
-	  showing prayer times, and masjid announcements.
-	* **Later Phases will include:**
-		* **Comprehensive Masjid Management:** Features for prayer times,
-		  geolocation, real-time updates, and community announcements.
-		* **Donation & Sadaqah Platform:** Integrated bills and donations
-		  platform, including a dedicated Donations Template Web Page.
-		* **Madrasa Network & Educational Content:** Connecting madrasas,
-		  offering educational content, live khutbahs & Q&A, and a Masajid
-		  library service.
-		* **AI-Powered Islamic Guidance:** Develop highly verified Daawah and
-		  Fiqh AI Agent Bots to provide accurate and accessible Islamic
-		  knowledge.
-		* **Media & Lifestyle:** Halaal tunes (audio tech services), Muslim
-		  radio (Quran Tilawat, Naat, Hamd, Halal Naheed), Quran gram (video
-		  tech services), and a Halaal Muslim marketplace (inner).
-		* **Financial Empowerment:** Halaal stock exchange to enter into
-		  finance, Halaal Bank with Halaal Financing Options (e.g.,
-		  interest-free loans).
-		* **Community Engagement:** Masajid Open Day initiatives, Ulema Fund,
-		  and strategies to Stabilize Ulema Economy.
-		* **Global Outreach:** Hajj and Umrah services, and the ability to
-		  Upload a Picture and say which Masjid it is (for community
-		  building/engagement).
-		* **Strategic Collaborations:** Collaboration with other beneficial
-		  Islamic tech services for evolving needs of the Ummah.
-	* **Dev Signoff:** *By 15 Dec '25* - Dedication to the sacred.
-	* **Closed Loop Testing & User Awareness:** *By 29 Dec '25* - Connect the
-	  Ummah.
-	* **Official Launch:** *1 Jan '26* - A new dawn for Masajids.
+* **Description:** A tech product for Masajids of ALLAH SWT, completely Fee
+  Sabeelillah. It aims to build a network of masajid, connecting Muslims,
+  showing prayer times, and masjid announcements.
+* **Later Phases will include:**
+	* **Comprehensive Masjid Management:** Features for prayer times,
+	  geolocation, real-time updates, and community announcements.
+	* **Donation & Sadaqah Platform:** Integrated bills and donations
+	  platform, including a dedicated Donations Template Web Page.
+	* **Madrasa Network & Educational Content:** Connecting madrasas,
+	  offering educational content, live khutbahs & Q&A, and a Masajid
+	  library service.
+	* **AI-Powered Islamic Guidance:** Develop highly verified Daawah and
+	  Fiqh AI Agent Bots to provide accurate and accessible Islamic
+	  knowledge.
+	* **Media & Lifestyle:** Halaal tunes (audio tech services), Muslim
+	  radio (Quran Tilawat, Naat, Hamd, Halal Naheed), Quran gram (video
+	  tech services), and a Halaal Muslim marketplace (inner).
+	* **Financial Empowerment:** Halaal stock exchange to enter into
+	  finance, Halaal Bank with Halaal Financing Options (e.g.,
+	  interest-free loans).
+	* **Community Engagement:** Masajid Open Day initiatives, Ulema Fund,
+	  and strategies to Stabilize Ulema Economy.
+	* **Global Outreach:** Hajj and Umrah services, and the ability to
+	  Upload a Picture and say which Masjid it is (for community
+	  building/engagement).
+	* **Strategic Collaborations:** Collaboration with other beneficial
+	  Islamic tech services for evolving needs of the Ummah.
+	* **Hafiz App - Connecting & Empowering Huffaz!**
+		* **Description:** Develop a comprehensive app to connect Huffaz (those
+		  who
+		  have memorized the Quran) and Talaba (students), offering tools for
+		  Hifz
+		  tracking, daily revision reminders, convenient auto-replay, and other
+		  features to aid in becoming a proficient Hafiz (e.g., inspired by
+		  QURAN
+		  HIVE).
+		* **Ultimate Purpose:** To facilitate and strengthen the memorization
+		  and
+		  preservation of the Quran within the Ummah.
+		* **Key Activities & Timelines:** (To be planned)
+* **Dev Signoff:** *By 15 Dec '25* - Dedication to the sacred.
+* **Closed Loop Testing & User Awareness:** *By 29 Dec '25* - Connect the
+  Ummah.
+* **Official Launch:** *1 Jan '26* - A new dawn for Masajids.
 
-* **Fat2Fit - Reclaim Your Body, Honor Your Amanah!**
-	* **Description:** Achieve a lean, muscular, and athletic physique, inspired
-	  by Rasoolullah SAW, from current 93 kg obesity. This involves daily
-	  workouts and a calorie deficit diet, focusing on a zero junk calorie
-	  figure filled with halaal rizq only, to seek the pleasure of ALLAH SWT and
-	  follow Rasoolullah SAW.
-	* **Weight Loss Targets:**
-		* Lose 5 kgs in November '25.
-		* Lose 8 kgs in December '25.
-		* **Goal:** Be 80 kg or below by 1 Jan '26 Alhamdulillah (Total 13 kgs
-		  down from 93kg).
-	* **Health Improvement Areas:**
-		* Improve mental well-being.
-		* Incorporate necessary supplements.
-		* Continuously strive to keep Pyare parents MummyPappa healthy by the
-		  Fazl of ALLAH SWT.
-	* **Daily Workouts & Calorie Deficit Diet:** *Starting NOW, relentless
-	  consistency.* - Sculpt the strength, embody the Sunnah.
-	* **Goal:** Lean, muscular, athletic - a reflection of discipline and
-	  devotion.
+#### 2. **ZupFam App**
 
-* **Personal Repeatable Routine - The Unshakeable Pillar!**
-	* **Goal:** To establish a consistent daily routine that encompasses:
-	  Worship of ALLAH SWT, Following Rasoolallah SAW, Bringing happiness and
-	  love to parents in good health, Taking care of family, Being resourceful
-	  to the Ummah, Staying focused on goals and plans, Working out and
-	  maintaining fitness.
-	* **Key Principles:** Consistency builds success.
-	* **Daily Practice:** *Every single day, without fail.* - Your spiritual and
-	  worldly anchor.
+> Launch & Revenue NOW!
 
-* **Personal Brand Building - Your Voice, Your Impact!**
-	* **Description:** Establish and grow a strong personal brand as a Muslim
-	  tech entrepreneur, aligning with Islamic values and professional
-	  excellence.
-	* **Key Activities & Timelines:** (To be planned, but immediate action
-	  required)
+* **Description:** An adtech platform designed to bring revenue to
+  hyperlocal physical stores utilizing their idle TVs. It functions as an
+  in-store TV media player, effectively acting as a digital salesman.
+* **Dev Signoff:** *By 20 Nov '25* - No excuses, no delays.
+* **Closed Loop Testing & User Awareness:** *By 23 Nov '25* - Flawless
+  execution.
+* **Official Launch:** *24 Nov '25* - The world awaits.
+* **First Customer Onboarding Revenue:** *2 Dec '25* - Prove the vision,
+  secure the future.
 
-* **SWE Skills - Uncompromising Competency!**
-	* **Description:** Maintain and enhance expertise as a software developer
-	  and architect, proficient in Data Structures & Algorithms (DSA),
-	  low-level, and high-level designs.
-	* **Goal:** Be capable of excelling in any technical interview and remaining
-	  highly competent in the market, ensuring professional mastery despite
-	  entrepreneurial pursuits.
-	* **High-Demand Competencies (Suggested):** Cloud computing (AWS/Azure/GCP),
-	  DevOps practices, Machine Learning fundamentals, Cybersecurity basics,
-	  advanced system design patterns, effective communication and leadership in
-	  technical teams.
-	* **Key Activities & Timelines:** (To be planned, continuous learning)
+#### 3. **YumYum App**
 
+> Rapid Deployment, Instant Impact!
+
+* **Description:** A small side hustle providing digital menus for local
+  street food vendors.
+* **Dev Signoff:** *By 26 Oct '25* - The clock is ticking.
+* **Closed Loop Testing & User Awareness:** *By 28 Oct '25* - Precision and
+  perfection.
+* **Official Launch:** *29 Oct '25* - Unleash the potential.
+* **First Customer Onboarding Revenue:** *30 Oct '25* - Immediate returns,
+  immediate growth.
+
+#### 4. **Chai Stall**
+
+> Build the Foundations, Serve the Community!
+
+* **Description:** A small chai stall with official documentation, aiming to
+  become an employer and provide value to society.
+* **Entire Stall Up and Running with Happy Customers:** *By 30 Nov '25* - A
+  tangible presence, a source of blessing.
+* **Official Branding Launch with Social Content:** *2 Dec '25* - Announce
+  your arrival, inspire others.
+
+#### 5. **Fat2Fit**
+
+> Reclaim Your Body, Honor Your Amanah!
+
+* **Description:** Achieve a lean, muscular, and athletic physique, inspired
+  by Rasoolullah SAW, from current 93 kg obesity. This involves daily
+  workouts and a calorie deficit diet, focusing on a zero junk calorie
+  figure filled with halaal rizq only, to seek the pleasure of ALLAH SWT and
+  follow Rasoolullah SAW.
+* **Weight Loss Targets:**
+	* Lose 5 kgs in November '25.
+	* Lose 8 kgs in December '25.
+	* **Goal:** Be 80 kg or below by 1 Jan '26 Alhamdulillah (Total 13 kgs
+	  down from 93kg).
+* **Health Improvement Areas:**
+	* Improve mental well-being.
+	* Incorporate necessary supplements.
+	* Continuously strive to keep Pyare parents MummyPappa healthy by the
+	  Fazl of ALLAH SWT.
+* **Daily Workouts & Calorie Deficit Diet:** *Starting NOW, relentless
+  consistency.* - Sculpt the strength, embody the Sunnah.
+* **Goal:** Lean, muscular, athletic - a reflection of discipline and
+  devotion.
+
+#### 1. **Personal Repeatable Routine - The Unshakeable Pillar!**
+
+* **Goal:** To establish a consistent daily routine that encompasses:
+  Worship of ALLAH SWT, Following Rasoolallah SAW, Bringing happiness and
+  love to parents in good health, Taking care of family, Being resourceful
+  to the Ummah, Staying focused on goals and plans, Working out and
+  maintaining fitness.
+* **Key Principles:** Consistency builds success.
+* **Daily Practice:** *Every single day, without fail.* - Your spiritual and
+  worldly anchor.
 * **Hifz - The Divine Memorization!**
 	* **Description:** Memorize specific Juz of the Quran with dedicated
 	  timelines.
@@ -304,54 +341,71 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 		* Juz 30: March (Ramadhan)
 		* Juz 29: March - April
 	* **Goal:** Hifz Juz 15, 16, 27, 29, 30 by start of May Alhamdulillah.
-	* **Key Activities & Timelines:** (To be planned, daily dedicated time)
+	* **Key Activities & Timelines:** (To be planned, daily dedicated time).
 
-* **Hafiz App - Connecting & Empowering Huffaz!**
-	* **Description:** Develop a comprehensive app to connect Huffaz (those who
-	  have memorized the Quran) and Talaba (students), offering tools for Hifz
-	  tracking, daily revision reminders, convenient auto-replay, and other
-	  features to aid in becoming a proficient Hafiz (e.g., inspired by QURAN
-	  HIVE).
-	* **Ultimate Purpose:** To facilitate and strengthen the memorization and
-	  preservation of the Quran within the Ummah.
+#### 6. **SWE Skills - Uncompromising Competency!**
+
+* **Description:** Maintain and enhance expertise as a software developer
+  and architect, proficient in Data Structures & Algorithms (DSA),
+  low-level, and high-level designs.
+* **Goal:** Be capable of excelling in any technical interview and remaining
+  highly competent in the market, ensuring professional mastery despite
+  entrepreneurial pursuits.
+* **High-Demand Competencies (Suggested):** Cloud computing (AWS/Azure/GCP),
+  DevOps practices, Machine Learning fundamentals, Cybersecurity basics,
+  advanced system design patterns, effective communication and leadership in
+  technical teams.
+* **Key Activities & Timelines:** (To be planned, continuous learning)
+
+#### 6. **Personal Brand Building - Your Voice, Your Impact!**
+
+* **Description:** Establish and grow a strong personal brand as a Muslim
+  tech entrepreneur, aligning with Islamic values and professional
+  excellence.
+* **Key Activities & Timelines:** (To be planned, but immediate action
+  required).
+
+#### 1. **Diversified Ventures for Ummah Benefit:**
+
+* **Build Rental Income Streams:** Establish various rental income streams
+  to ensure financial stability and fund further initiatives.
+* **Muslim Wedding Palace:** Create a beautiful and halaal venue for Muslim
+  weddings, fostering community and celebrating unions.
+* **Build Help Home (NGO Knowabouts):** Establish a "Help Home" as an NGO,
+  serving as a hub for knowledge and resources for those in need.
+* **Share Care: Crowdfunded Medical Support Platform:** Develop a platform
+  for crowdfunding medical support, ensuring access to healthcare for all.
+* **Share Education: Crowdfunded Educational Platform:** Create a
+  crowdfunding platform dedicated to empowering education, schools, and
+  digital skill development.
+* **Turf Ground - Community & Recreation!**
+	* **Description:** Open a turf ground for sports and community events.
+	* **Key Activities & Timelines:** (To be planned)
+* **Co-working Space - Fostering Innovation!**
+	* **Description:** Establish a co-working space to support entrepreneurs
+	  and freelancers.
+	* **Key Activities & Timelines:** (To be planned)
+* **Halaal Stock Market Screener Firm:**
+	* **Description:** Establish a strong, verified firm to screen stocks
+	  for Halaal compliance, specifically enabling Indian Muslims to freely
+	  and confidently invest. This addresses current challenges of
+	  verification, discrepancy, and inaccessibility due to paywalls, making
+	  halaal investing transparent and accessible to the Muslim community.
 	* **Key Activities & Timelines:** (To be planned)
 
-* **Diversified Ventures for Ummah Benefit:**
-	* **Build Rental Income Streams:** Establish various rental income streams
-	  to ensure financial stability and fund further initiatives.
-	* **Muslim Wedding Palace:** Create a beautiful and halaal venue for Muslim
-	  weddings, fostering community and celebrating unions.
-	* **Build Help Home (NGO Knowabouts):** Establish a "Help Home" as an NGO,
-	  serving as a hub for knowledge and resources for those in need.
-	* **Share Care: Crowdfunded Medical Support Platform:** Develop a platform
-	  for crowdfunding medical support, ensuring access to healthcare for all.
-	* **Share Education: Crowdfunded Educational Platform:** Create a
-	  crowdfunding platform dedicated to empowering education, schools, and
-	  digital skill development.
-	* **Turf Ground - Community & Recreation!**
-		* **Description:** Open a turf ground for sports and community events.
-		* **Key Activities & Timelines:** (To be planned)
-	* **Co-working Space - Fostering Innovation!**
-		* **Description:** Establish a co-working space to support entrepreneurs
-		  and freelancers.
-		* **Key Activities & Timelines:** (To be planned)
-	* **Halaal Stock Market Screener Firm:**
-		* **Description:** Establish a strong, verified firm to screen stocks
-		  for Halaal compliance, specifically enabling Indian Muslims to freely
-		  and confidently invest. This addresses current challenges of
-		  verification, discrepancy, and inaccessibility due to paywalls, making
-		  halaal investing transparent and accessible to the Muslim community.
-		* **Key Activities & Timelines:** (To be planned)
-
----
-
-### Category 2: Legacy
+### Legacy
 
 #### 1. **Establish Halaal Income Pipeline:**
 
 * **Objective:** To build a robust and sustainable flow of Halaal income through
-  our business ventures, securing complete financial independence for myself, my
-  beloved parents (Pyare MummyPappa), and my family (InamMaryam).
+  our business ventures, securing complete financial independence for me, my
+  Pyare parents MummyPappa, and my family (InamMaryam).
+* **Methodology:** This will be achieved by diligently and successfully
+  implementing all the projects outlined in the [Foundations](#foundations).
+* **Ultimate Purpose:** To establish these income streams and achieve financial
+  independence as a means to please ALLAH SWT, supporting ourselves, our
+  families, and the wider Ummah, engaging in `khair` (goodness) and charitable
+  works, following Rasoolullah SAW.
 
 #### 2. **Achieve Complete Debt Freedom:**
 
@@ -399,8 +453,8 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
   SAW.
 * **Guiding Principle:** Make me, my Pyare parents MummyPappa, InamMaryam and my
   family to live by the hadith, "Khairun naas maiy yanfaun naas" (The best of
-  people are those who are most beneficial to people) via
-  our*[Foundations](#category-1-foundations): _that build
+  people are those who are most beneficial to people) via our
+  *[Foundations](#foundations): _that build
   the [halaal income pipeline](#1-establish-halaal-income-pipeline)_*, ensuring
   our khair (goodness) reaches all corners of the globe, starting from our
   kinship ties and beyond to the entire Ummah.
@@ -417,9 +471,9 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
   `masjid` using our own hands with complete `ikhlaas` and profound love for
   ALLAH SWT and HIS beloved messenger Rasoolullah SAW, with a madrasa in it.
 
-* **Guiding Principle:** Our endeavor is firmly rooted on_**"wa ati ullah wa ati
-  ur rasool wa hubbullah wa hubburasool"**_, further strengthened by the
-  authentic hadith:
+* **Guiding Principle:** Our endeavor is firmly rooted on
+  _**"wa ati allah wa ati ur rasool wa hubbullah wa hubburasool"**_, further
+  strengthened by the authentic hadith:
 
   > **"مَنْ بَنَى مَسْجِدًا يُذْكَرُ فِيهِ اسْمُ اللَّهِ بَنَى اللَّهُ لَهُ
   بَيْتًا فِي الْجَنَّةِ"**
@@ -455,8 +509,8 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 * **Ultimate Aspiration:** I ask ALLAH SWT to accept me and guide me to
   HIMSELF while I'm inside salaah whilst I'm in my last sujood in the odd
   night of the last 10 nights of Ramadhan as a martyr in the
-  Riyaz ul Jannah close to the Prophet Rasoolullah SAW with "Subhana Rabbi
-  al A'la, La ilaha illallah Muhammadur Rasoolullah SAW" on my tongue.
+  Riyaz ul Jannah close to the Prophet Rasoolullah SAW with "subhana rabbi
+  al a'la, la ilaha ill allah muhammadur rasoolullah saw" on my tongue.
   Aameen.
 * **Aftermath:** After my martyrdom, may ALLAH SWT be pleased with me, and
   make my Rasoolullah SAW happy with me. Aameen.
@@ -465,12 +519,10 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
   Nabi'un, Siddiqeen, Shuhadah, was Saliheen under the shade of the throne
   of ALLAH SWT in the hereafter (Aakhirah) in complete happiness without
   fear and without grief "la khawfun alayhim wa la hum yahzanun". Aameen ya
-  Rabbal Alameen.
+  Rabbal Aalameen.
 * This concludes my life goals in this category.
 
----
-
-### Category 3: Victory
+### Victory
 
 * *The grand vision, the legacy you will forge, brick by brick, for the pleasure
   of ALLAH SWT.*
