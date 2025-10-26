@@ -10,8 +10,8 @@
 * [THE WHY](#the-why)
 * [THE FRAME](#the-frame)
 * [THE DREAM](#the-dream)
-* [Category 0: Impact](#impact)
-* [Category 1: Foundations](#foundations)
+* [Category 0: Impact](#the-impact)
+* [Category 1: Foundations](#the-foundations)
 	* [InMasjid App](#1-inmasjid-app)
 	* [ZupFam App](#2-zupfam-app)
 	* [YumYum App](#3-yumyum-app)
@@ -23,14 +23,14 @@
 	* [Hifz - The Divine Memorization!](#hifz---the-divine-memorization)
 	* [Hafiz App - Connecting & Empowering Huffaz!](#hafiz-app---connecting--empowering-huffaz)
 	* [Diversified Ventures for Ummah Benefit](#diversified-ventures-for-ummah-benefit)
-* [Category 2: Legacy](#legacy)
+* [Category 2: Legacy](#the-legacy)
 	* [1. Halaal Income Pipeline](#1-establish-halaal-income-pipeline)
 	* [2. Debt Freedom](#2-achieve-complete-debt-freedom)
 	* [3. Blessed & Accepted Hajj](#3-perform-a-blessed--accepted-hajj)
 	* [4. Collaborations for Ummah](#4-strategic-collaborations-for-ummah-benefit)
 	* [5. Build Masajid](#5-build-masajid-for-the-sake-of-allah-swt-following-rasoolullah-saw)
 	* [6. My Plea to ALLAH SWT](#6-my-plea-to-allah-swt-to-accept-me)
-* [Category 3: Victory](#victory)
+* [Category 3: Victory](#the-victory)
 	* [1. ](#)
 	* [2. ](#)
 	* [3. ](#)
@@ -192,7 +192,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 
 ## THE DREAM
 
-### Impact
+### The Impact
 
 #### Todos
 
@@ -209,7 +209,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 *   [ ] Launches in December.
 *   [ ] Autopilot and scaling systems by Ramadhan.
 
-### Foundations
+### The Foundations
 
 #### 1. **InMasjid App**
 
@@ -393,7 +393,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 	  halaal investing transparent and accessible to the Muslim community.
 	* **Key Activities & Timelines:** (To be planned)
 
-### Legacy
+### The Legacy
 
 #### 1. **Establish Halaal Income Pipeline:**
 
@@ -522,7 +522,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
   Rabbal Aalameen.
 * This concludes my life goals in this category.
 
-### Victory
+### The Victory
 
 * *The grand vision, the legacy you will forge, brick by brick, for the pleasure
   of ALLAH SWT.*
