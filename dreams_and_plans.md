@@ -17,12 +17,10 @@
 	* [YumYum App](#3-yumyum-app)
 	* [Chai Stall](#4-chai-stall)
 	* [Fat2Fit](#5-fat2fit)
-	* [Personal Repeatable Routine - The Unshakeable Pillar!](#personal-repeatable-routine---the-unshakeable-pillar)
-	* [Personal Brand Building - Your Voice, Your Impact!](#personal-brand-building---your-voice-your-impact)
-	* [SWE Skills - Uncompromising Competency!](#swe-skills---uncompromising-competency)
-	* [Hifz - The Divine Memorization!](#hifz---the-divine-memorization)
-	* [Hafiz App - Connecting & Empowering Huffaz!](#hafiz-app---connecting--empowering-huffaz)
-	* [Diversified Ventures for Ummah Benefit](#diversified-ventures-for-ummah-benefit)
+	* [SWE Skills](#6-swe-skills)
+	* [Brand Building](#7-personal-brand-building)
+	* [Repeatable Routine](#8-repeatable-routine)
+	* [Barakah Archive](#9-barakah-archive)
 * [Category 2: Legacy](#the-legacy)
 	* [1. Halaal Income Pipeline](#1-establish-halaal-income-pipeline)
 	* [2. Debt Freedom](#2-achieve-complete-debt-freedom)
@@ -322,7 +320,36 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 * **Goal:** Lean, muscular, athletic - a reflection of discipline and
   devotion.
 
-#### 1. **Personal Repeatable Routine - The Unshakeable Pillar!**
+#### 6. **SWE Skills**
+
+> Uncompromising Competency!
+
+* **Description:** Maintain and enhance expertise as a software developer
+  and architect, proficient in Data Structures & Algorithms (DSA),
+  low-level, and high-level designs.
+* **Goal:** Be capable of excelling in any technical interview and remaining
+  highly competent in the market, ensuring professional mastery despite
+  entrepreneurial pursuits.
+* **High-Demand Competencies (Suggested):** Cloud computing (AWS/Azure/GCP),
+  DevOps practices, Machine Learning fundamentals, Cybersecurity basics,
+  advanced system design patterns, effective communication and leadership in
+  technical teams.
+* **Key Activities & Timelines:** (To be planned, continuous learning)
+
+#### 7. **Personal Brand Building**
+
+> Your Voice, Your Impact!
+
+* **Description:** Establish and grow a strong personal brand as a Muslim
+  tech entrepreneur, aligning with Islamic values and professional
+  excellence.
+* **Key Activities & Timelines:** (To be planned, but immediate action
+  required).
+* Make a content engine to build trust with your customers.
+
+#### 8. **Repeatable Routine**
+
+> Disciplined Consistency
 
 * **Goal:** To establish a consistent daily routine that encompasses:
   Worship of ALLAH SWT, Following Rasoolallah SAW, Bringing happiness and
@@ -342,30 +369,13 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 		* Juz 29: March - April
 	* **Goal:** Hifz Juz 15, 16, 27, 29, 30 by start of May Alhamdulillah.
 	* **Key Activities & Timelines:** (To be planned, daily dedicated time).
+* Add Fitness `fat2fit` as a part of this.
+* Add SWE skills as a part of this.
+* Add personal brand building as a part of this.
 
-#### 6. **SWE Skills - Uncompromising Competency!**
+#### 9. **Barakah Archive**
 
-* **Description:** Maintain and enhance expertise as a software developer
-  and architect, proficient in Data Structures & Algorithms (DSA),
-  low-level, and high-level designs.
-* **Goal:** Be capable of excelling in any technical interview and remaining
-  highly competent in the market, ensuring professional mastery despite
-  entrepreneurial pursuits.
-* **High-Demand Competencies (Suggested):** Cloud computing (AWS/Azure/GCP),
-  DevOps practices, Machine Learning fundamentals, Cybersecurity basics,
-  advanced system design patterns, effective communication and leadership in
-  technical teams.
-* **Key Activities & Timelines:** (To be planned, continuous learning)
-
-#### 6. **Personal Brand Building - Your Voice, Your Impact!**
-
-* **Description:** Establish and grow a strong personal brand as a Muslim
-  tech entrepreneur, aligning with Islamic values and professional
-  excellence.
-* **Key Activities & Timelines:** (To be planned, but immediate action
-  required).
-
-#### 1. **Diversified Ventures for Ummah Benefit:**
+> Diversified Ventures for Ummah Benefit:
 
 * **Build Rental Income Streams:** Establish various rental income streams
   to ensure financial stability and fund further initiatives.
@@ -401,7 +411,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
   our business ventures, securing complete financial independence for me, my
   Pyare parents MummyPappa, and my family (InamMaryam).
 * **Methodology:** This will be achieved by diligently and successfully
-  implementing all the projects outlined in the [Foundations](#foundations).
+  implementing all the projects outlined in the [Foundations](#the-foundations).
 * **Ultimate Purpose:** To establish these income streams and achieve financial
   independence as a means to please ALLAH SWT, supporting ourselves, our
   families, and the wider Ummah, engaging in `khair` (goodness) and charitable
@@ -454,7 +464,7 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 * **Guiding Principle:** Make me, my Pyare parents MummyPappa, InamMaryam and my
   family to live by the hadith, "Khairun naas maiy yanfaun naas" (The best of
   people are those who are most beneficial to people) via our
-  *[Foundations](#foundations): _that build
+  *[Foundations](#the-foundations): _that build
   the [halaal income pipeline](#1-establish-halaal-income-pipeline)_*, ensuring
   our khair (goodness) reaches all corners of the globe, starting from our
   kinship ties and beyond to the entire Ummah.
