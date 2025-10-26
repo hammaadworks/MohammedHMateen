@@ -315,15 +315,159 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 
 > Launch & Revenue NOW!
 
-* **Description:** An adtech platform designed to bring revenue to
-  hyperlocal physical stores utilizing their idle TVs. It functions as an
-  in-store TV media player, effectively acting as a digital salesman.
-* **Dev Signoff:** *By 20 Nov '25* - No excuses, no delays.
-* **Closed Loop Testing & User Awareness:** *By 23 Nov '25* - Flawless
-  execution.
-* **Official Launch:** *24 Nov '25* - The world awaits.
-* **First Customer Onboarding Revenue:** *2 Dec '25* - Prove the vision,
-  secure the future.
+1. **Description:** An AI-driven Hyperlocal Digital Out-of-Home (HDOOH)
+   advertising network designed to turn ZupPartners' (host retailers) existing
+   Smart TVs into revenue-generating Display Units.
+
+2. **Feature Roadmap:**
+	* **Complete:**
+		1. None.
+	* **Committed (MVP: "Publisher-First" Launch):**
+	  *This MVP is strategically ordered to get the first Display Units live and
+	  generating data as quickly as possible. The focus is on onboarding
+	  ZupPartners first to create an inventory of screens, which can then be sold
+	  to advertisers.*
+		1. **ZupFam Screen App:**
+			* **Description:** A lightweight, secure, and resilient application built
+			  for a target TV operating system (e.g., Android TV, Fire OS). This app
+			  is the core on-premise component that turns any TV into a smart Display
+			  Unit.
+			* **Subgoals:**
+				* **1.1:** Develop a robust application package (APK for Android TV)
+				  capable of running in kiosk mode.
+				* **1.2:** On first boot, the app must display a unique, short-lived
+				  pairing code.
+				* **1.3:** Once paired, it must periodically call a secure,
+				  authenticated API endpoint to fetch a JSON-based playlist.
+				* **1.4:** It must reliably render and loop through the playlist
+				  content, handling network interruptions gracefully and reporting
+				  playback analytics.
+		2. **Screen Pairing & QR Generation:**
+			* **Description:** The foundational process that securely links a physical
+			  Display Unit to a ZupPartner account, designed to be simple for a
+			  non-technical user.
+			* **Subgoals:**
+				* **2.1:** A backend service to generate a unique, 6-digit pairing code
+				  with a short expiry.
+				* **2.2:** A simple UI in the Partner HQ dashboard for inputting this
+				  code.
+				* **2.3:** A backend validation service that links the device's unique
+				  hardware ID to the ZupPartner's account ID.
+				* **2.4:** Upon successful pairing, the system generates a permanent,
+				  unique QR code that encodes the ZupPartner's ID for the AdGram
+				  experience.
+		3. **Internal Admin & Playlist Service (Mission Control):**
+			* **Description:** The central command center for the ZupFam team to
+			  operate the network during the MVP phase.
+			* **Subgoals:**
+				* **3.1:** A secure, role-based web dashboard for the ZupFam team.
+				* **3.2:** CRUD interfaces for managing ZupPartner and Advertiser
+				  accounts.
+				* **3.3:** A playlist management tool to assemble JSON playlists and
+				  assign them to Display Units.
+				* **3.4:** A content moderation queue for manual approval of ad
+				  creatives.
+		4. **Public Landing Page (ZupFam.com):**
+			* **Description:** A static, high-performance, SEO-optimized landing page
+			  for lead generation, serving as the primary digital storefront.
+			* **Subgoals:**
+				* **4.1:** Design a clear, dual-funnel UI for both Partners and
+				  Advertisers.
+				* **4.2:** Implement a "How it Works" section with simple iconography.
+				* **4.3:** Integrate a lead capture form that sends data to a backend
+				  endpoint for manual onboarding.
+				* **4.4:** Craft compelling, keyword-rich copy for SEO.
+		5. **Core Analytics Engine (Insight Engine):**
+			* **Description:** The foundational data-processing layer responsible for
+			  tracking all billable and analytical events across the network.
+			* **Subgoals:**
+				* **5.1:** A high-throughput, asynchronous API endpoint for event
+				  ingestion.
+				* **5.2:** The ZupFam TV App must send a "display" event (PPD) to this
+				  endpoint for every ad shown.
+				* **5.3:** The AdGram frontend must send "view" and "click" events for
+				  all ad interactions.
+				* **5.4:** Events are processed and aggregated into an analytics
+				  database for reporting.
+		6. **Advertiser Campaign Creation (Ad Suite v1):**
+			* **Description:** The first version of the self-serve portal for
+			  advertisers to create campaigns with minimal friction.
+			* **Subgoals:**
+				* **6.1:** A simple web interface for an authenticated advertiser to
+				  create a new campaign.
+				* **6.2:** An upload mechanism for ad creatives to a cloud storage
+				  bucket.
+				* **6.3:** Form fields to define a campaign name, budget, and select
+				  target locations.
+				* **6.4:** A basic dashboard to view campaign status and performance.
+		7. **Publisher Live Ad-Blocking (Partner HQ v1):**
+			* **Description:** A key trust-building feature giving ZupPartners
+			  ultimate control over the content displayed in their establishment.
+			* **Subgoals:**
+				* **7.1:** The Partner HQ dashboard must display all ad creatives active
+				  on their Display Unit.
+				* **7.2:** Each creative must have a "Block" button.
+				* **7.3:** Clicking "Block" triggers a backend service to immediately
+				  remove the ad from the ZupPartner's playlist.
+		8. **ZupFam AdGram:**
+			* **Description:** The interactive, mobile-first web application that
+			  serves as the primary engagement and data-capture point for the
+			  end-customer.
+			* **Subgoals:**
+				* **8.1:** A lightweight, fast-loading web application.
+				* **8.2:** It must parse the ZupPartner ID from the incoming URL.
+				* **8.3:** It must fetch the relevant playlist and render it in a
+				  vertical, swipeable, "reel-style" UI.
+				* **8.4:** It must also have logic to fetch and display a generic "
+				  trending" feed.
+		9. **Publisher-Owned Content (Partner HQ v1):**
+			* **Description:** A feature that adds direct value to the ZupPartner by
+			  allowing them to use their own screen for their own promotions.
+			* **Subgoals:**
+				* **9.1:** An interface in the Partner HQ dashboard for a ZupPartner to
+				  upload their own promotional content.
+				* **9.2:** A mechanism in Mission Control to specify the ratio of paid
+				  ads to owned content.
+	* **Conceptual (Future Enhancements):**
+		1. **AI Core & Data Moat:**
+			* **AI UGC Ad Generator:** An AI to automatically create ad content from
+			  simple text inputs.
+			* **Geo-Temporal Ad Optimizer:** An AI to dynamically place and price ads
+			  using real-time local data.
+			* **Advanced FTL (Foot Traffic Lift) Reporting:** The full analytical
+			  model to prove incremental foot traffic.
+		2. **Social Proof Engine (Smiirl-like Features):**
+			* **Live Google Reviews Widget:** A screen app component to display the
+			  ZupPartner's live Google star rating and scroll recent positive reviews.
+			* **Real-Time Social Counters:** Live, animated counters for Instagram
+			  followers and YouTube subscribers to create a sense of "hype".
+			* **Custom Slideshow Builder:** An advanced tool for ZupPartners to create
+			  their own layouts, mixing social proof widgets with their own
+			  promotional content.
+		3. **Automation & Scale:**
+			* **Automated Onboarding:** Self-serve registration for ZupPartners and
+			  advertisers.
+			* **Automated Billing & Payouts:** Fully automated advertiser billing and
+			  ZupPartner payouts (IPV).
+		4. **Ecosystem & Community:**
+			* **Ad Creator Community/Marketplace:** A platform connecting advertisers
+			  with freelance creative professionals.
+		5. **Advanced Advertiser Features:**
+			* **Brand Verification System:** A formal process for advertisers to
+			  become "verified."
+			* **Advanced Campaign Controls:** Day-parting, frequency capping, A/B
+			  testing.
+			* **Vertical-Based Targeting:** Allowing advertisers to target business
+			  categories.
+
+3. **Timeframe (for committed features)**
+	
+	* **Dev Signoff:** *By 20 Nov '25* - No excuses, no delays.
+	* **Closed Loop Testing & User Awareness:** *By 23 Nov '25* - Flawless
+	  execution.
+	* **Official Launch:** *24 Nov '25* - The world awaits.
+	* **First Customer Onboarding Revenue:** *2 Dec '25* - Prove the vision,
+	  secure the future.
 
 #### 3. **YumYum App**
 

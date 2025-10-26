@@ -76,50 +76,32 @@ and execution of his dream and plans.**
 
 ---
 
-[//]: # (now reconcile and share the final list of features we have. keep the features)
+now reconcile and share the final list of features we have. keep the features
+atomic and isolated so we cn target each of them and implement. Give features a
+cool and apt short title
 
-[//]: # (atomic and isolated so we cn target each of them and implement. Give features a)
 
-[//]: # (cool and apt short title)
+now we can group features as:
+- complete
+  none
+- committed
+1. Landing Page
+2. Masjid Listing
+3. Musalli Onboarding
+4. Sadaqah Jariyah Platform
+5. Madrasa Listing
+- conceptual
+  rest all
 
-[//]: # ()
-[//]: # (now we can group features as:)
 
-[//]: # ()
-[//]: # (- complete)
+can we try doc-out regularly so we don't miss out on any detail. Always be
+extensive and elaborate on writing any feature be it complete, committed or
+conceptual to the working file. Include as much as
+context possible but make sure we don't repeat stuff in the
+document. Rule is to include a lot of unique important context which we can
+leverage later. Scan the document once again and fill in all the relevant
+details you find missing.
 
-[//]: # (  none)
 
-[//]: # ()
-[//]: # (- committed)
 
-[//]: # ()
-[//]: # (1. Landing Page)
-
-[//]: # (2. Masjid Listing)
-
-[//]: # (3. Musalli Onboarding)
-
-[//]: # (4. Sadaqah Jariyah Platform)
-
-[//]: # (5. Madrasa Listing)
-
-[//]: # ()
-[//]: # (- conceptual)
-
-[//]: # (  rest all)
-
-[//]: # ()
-[//]: # (can we try doc-out regularly so we don't miss out on any detail. Always be)
-
-[//]: # (extensive and elaborate on writing any feature be it complete, committed or)
-
-[//]: # (conceptual to the working file. Include as much as)
-
-[//]: # (context possible but make sure we don't repeat stuff in the)
-
-[//]: # (document. Rule is to include a lot of unique important context which we can)
-
-[//]: # (leverage later. Scan the document once again and fill in all the relevant)
-
-[//]: # (details you find missing.)
+---
