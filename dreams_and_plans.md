@@ -32,6 +32,8 @@
 * [Category 3: Victory](#the-victory)
 	* [1. Resurrection with Rasoolullah SAW](#1-resurrection-with-rasoolullah-saw)
 	* [2. Shade of YOUR Throne, YA ALLAH SWT](#2-shade-of-your-throne-ya-allah-swt)
+	* [3. Seeing ALLAH SWT](#3-seeing-allah-swt)
+	* [4. Protect from YOUR anger and hellfire](#4-protect-from-your-anger-and-hellfire)
 
 ---
 
@@ -766,5 +768,26 @@ the shade of YOUR ARSH on a day when no other shade is present except your
 shade. YA ALLAH SWT, place me my MummyPappa, InamMaryam close to our beloved
 Rasoolullah SAW and his family and companions with mimbars of pearls and seats
 of cushions. Aameen YA RABBAL AALAMEEN.
+
+#### 3. **Seeing ALLAH SWT:**
+
+YA ALLAH SWT, bless and be pleased with me, my MummyPappa, InamMaryam and our
+family above and below and the entire Ummah of Rasoolullah SAW, and bless us
+with a divine privilege of seeing you. YA ALLAH SWT please see us with happiness
+and contentment. and make us me, my MummyPappa, InamMaryam and our family above
+and below and the entire ummah prostrate to you making sujood at your sight,
+just like you mentioned in Qur'an. make us go in sujood and be pleased with us
+YA RABB so we don't face any trouble later no pain no fear and no grief.
+
+#### 4. **Protect from YOUR anger and hellfire:**
+
+YA ALLAH SWT, be pleased with me, my MummyPappa, InamMaryam and our family above
+and below, the entire Ummah of Rasoolullah SAW and the entirety of mankind, YA
+RABB, guide us and make me, my MummyPappa, InamMaryam the means of your guidance
+to the entire human race YA RABB. Never be angry with us and save us all from
+the punishment even from its sight, smell, sound and touch, thought YA RABB, for
+verily we are Your slaves, though we are not your good servants but we are your
+servants so please forgive us and bless us with Your mercy, love and kindness YA
+GHAFOOR, YA SHAKOOR.
 
 ---
