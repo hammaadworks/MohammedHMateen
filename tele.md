@@ -48,23 +48,7 @@ Upon resuming, we will continue the strategic planning process by:
 
 1. **Baseline Understanding:** Begin by thoroughly grasping all current goals
    and plans presented in `dreams_and_plans.md`.
-2. **Deep Dive into Foundations > ZupFam App:** `dreams_and_plans.md#2-zupfam-app`
-	* List out all the features we have in a numbered fashion, their order is
-	  priority of execution.
-	* Ask whether we need to edit features / priority of execution.
-	* Select the features in **current actionable phase** we are targeting for
-	  this dream (committed)?
-	* Categorise features into 3 sections: complete (past), committed (present)
-	  and conceptual (future).
-	* What are the precise **subgoals** that constitute each of the committed
-	  features? You can suggest some and let user think and edit.
-	* What are the granular **action plans** required to achieve each subgoal?
-	  You can suggest some and let user think and edit.
-	* How will we **measure progress** and success (KPIs)? You can suggest some
-	  and let user think and edit.
-	* What are the **projected timelines** for these efforts? Based on all of
-	  the above answers keep the working file updated, relevant and consistent,
-	  especially `the frame` and other relevant sections.
+2. **Decide my daily tasklist:** now that you have my entire context, I want you to tell me what all tasks should I do to keep my promises, today is Oct 26. Can you also make a section where I can just refer my daily tasks to do and keep close tracking to register wins.
 3. **Integrate and Harmonize:** Update `dreams_and_plans.md` comprehensively,
    incorporating all newly defined elements and ensuring the entire document
    remains consistent and unified. Always try to doc-out so we never miss any
@@ -76,32 +60,14 @@ and execution of his dream and plans.**
 
 ---
 
-now reconcile and share the final list of features we have. keep the features
-atomic and isolated so we cn target each of them and implement. Give features a
-cool and apt short title
+alhamdulillah let's fill the victory module
+Be sure to update and keep the entire document consistent, including timelines index, and all of the stuff. Report, if you find any inconsistencies, I'll unblock you, and then we can make the entire content consistent without any mistakes.
+alhamdulillah
 
+victory:
+1. Resurrection with Rasoolullah SAW: YA ALLAH SWT on the day of judgement rise me, my MummyPappa, InamMaryam close to Rasoolullah SAW under the shade of your mercy and love in a state where you are happily content with us and we are happily content with YOU `la khaufun alayhim wa la hum yahzanun`.
+2. Shade of YOUR Throne, YA ALLAH SWT: YA ALLAH SWT, keep me, my MummyPappa, InamMaryam and all our family above and below amongst those 7 blessed category of special people whom you shade under the shade of YOUR ARSH on a day where no other shade is present except your shade. YA ALLAH SWT, place me my MummyPappa, InamMaryam close to our beloved Rasoolullah SAW and his family and companions with mimbars of pearls and seats of cushions. Aameen YA RABBAL ALAMEEN.
 
-now we can group features as:
-- complete
-  none
-- committed
-1. Landing Page
-2. Masjid Listing
-3. Musalli Onboarding
-4. Sadaqah Jariyah Platform
-5. Madrasa Listing
-- conceptual
-  rest all
-
-
-can we try doc-out regularly so we don't miss out on any detail. Always be
-extensive and elaborate on writing any feature be it complete, committed or
-conceptual to the working file. Include as much as
-context possible but make sure we don't repeat stuff in the
-document. Rule is to include a lot of unique important context which we can
-leverage later. Scan the document once again and fill in all the relevant
-details you find missing.
-
-
-
----
+3. Guidance and Mercy for : YA ALLAH SWT, be pleased with me, my MummyPappa, InamMaryam and our family above and below and the entire Ummah of Rasoolullah SAW, Never be angry with us nor punish us YA RABB
+4. Protect all from YOUR anger and hellfire: YA ALLAH SWT, be pleased with me, my MummyPappa, InamMaryam and our family above and below, the entire Ummah of Rasoolullah SAW and the entirety of mankind, YA RABB, guide us and make me, my MummyPappa, InamMaryam the means of your guidance to the entire human race YA RABB. Never be angry with us and save us all from the punishment YA RABB, for verily we are Your slaves, though we are not your good servents but we are your servents so please forgive us and bless us with Your mercy, love and kindness YA GHAFOOR, YA SHAKOOR
+I'll keep sharing the others next, till then update with this
