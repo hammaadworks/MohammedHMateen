@@ -43,8 +43,7 @@
 ala rasoolullah (saw) allahu akbar!**
 
 **YA RABB, let me never forget my 'Why', my dream, fully funded by You and You
-alone.
-just for one purpose: To please You, YA RABB, by Your Mercy, Love and Grace!**
+alone, just for one purpose: To please You, YA RABB, by Your Mercy, Love and Grace!**
 
 * To earn in this world only to spend in Your cause.
 * To establish businesses of halaal provisions as opportunities to feed the
@@ -63,7 +62,7 @@ Aameen. YA RABB AL AALAMEEN.
 wasted potential. My worship of You, YA ALLAH SWT, was far from what it should
 have been, nor did I consistently follow the righteous guidance and profound
 teachings of Rasoolullah SAW as commanded, nor did I strive to give my beloved
-parents and family the rights they truly deserved. I recognize that I have
+parents and family the happiness and rights they truly deserved. I recognize that I have
 messed up in all fields, often staying in a state of delusional misguidance.
 
 But I refuse to give up, **YA RABB**! A believer never despairs from the mercy
@@ -82,7 +81,7 @@ People are hungry, they need food, clothes, shelter and necessities of life, yet
 all **we truly need** is **You, YA RABB**.
 Help me, my parents and my family, so we can help them, take care of them,
 provide for them and please YOU, YA RABB.
-Grant love in the hearts of spouses, just as you placed love and mercy between
+Grant love in the hearts of spouses making them garments of each other and keeping them salaamat on each other, just as you placed love and mercy between
 our beloved Rasoolullah SAW and his family. Unite the hearts of the Ummah just
 as Rasoolullah SAW spread love and brotherhood amongst us. Aameen.
 
@@ -97,7 +96,7 @@ I see the pain of my brothers and sisters across the world.
   Protect their izzah and the izzah of all the women of the Ummah of Rasoolullah
   SAW, YA RABB, for You are the best of protectors.
 
-This is the result of our own wrongdoing, but You are Ar-Rahman, the Most
+This is the result of my own wrongdoing, but You are Ar-Rahman, the Most
 Merciful. Your mercy encompasses everything. Let my work be a means of Your
 Mercy on Earth such that:
 
@@ -128,8 +127,8 @@ Every move for ALLAH SWT and in the footsteps of Rasoolullah SAW.
 
 **To build your legacy, brick by brick, one line at a time.**
 
-**YA RABB**, grant me the means and wisdom to generate **30 Crore INR** through
-halaal means, solely for Your pleasure and the benefit of Your Ummah. Aameen.
+**YA RABB**, grant me the means and wisdom to generate **30 Crores INR** through
+halaal means, solely for Your pleasure, fulfill all the foundations, build a legacy, benefit the Ummah and achieve victory for me, my parents and family in both the worlds. Aameen.
 
 **YA RABB, ALHAMDULILLAH FOR EVERYTHING.**
 
@@ -146,7 +145,7 @@ halaal means, solely for Your pleasure and the benefit of Your Ummah. Aameen.
 ### November 2025
 
 * **[ ] Nov 7:** YumYum App - Achieve 10K Revenue
-* **[ ] Nov 7:** YumYum App - Publish 5 Social Media Posts
+* **[ ] Nov 7:** YumYum App - Start Social Media Marketing
 * **[ ] Nov 24:** ZupFam App - Pilot Dev Complete
 * **[ ] Nov 30:** ZupFam App - Closed Loop Testing Complete
 * **[ ] Nov 30:** Fat2Fit - Achieve 5kg weight loss for the month
@@ -156,14 +155,14 @@ halaal means, solely for Your pleasure and the benefit of Your Ummah. Aameen.
 
 * **[ ] Dec 7:** InMasjid App - Pilot Dev Complete
 * **[ ] Dec 15:** InMasjid App - Closed Loop Testing Complete
-* **[ ] Dec 15:** ZupFam App - Public Release
+* **[ ] Dec 15:** ZupFam App - Public Release, Start Social Media Marketing
 * **[ ] Dec 28-31:** Complete Kochi Trip with Pyare MummyPappa
 * **[ ] Dec 31:** ZupFam App - Complete Gov Reqs
-* **[ ] Dec 31:** InMasjid App - Onboard first 5 Masajid
+* **[ ] Dec 31:** InMasjid App - Collab with sio and start onboarding Masajid
 * **[ ] Dec 31:** Launch hammaadworks.com Portfolio
-* **[ ] Dec 31:** Launch Streambuzz MVP
-* **[ ] Dec 31:** Launch YouTube Downloader
-* **[ ] Dec 31:** Publish 30 videos
+* **[ ] Dec 31:** Launch Streambuzz MVP with social media marketing
+* **[ ] Dec 31:** Launch YouTube Downloader with social media marketing 
+* **[ ] Dec 31:** Have set of valuable, educational, branding, emotional, entertainment and portfolio social media content.
 * **[ ] Dec 31:** Fat2Fit - Achieve 8kg weight loss for the month
 
 ### January 2026
